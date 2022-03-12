@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:bloodstoneblock"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "time:terameriaiuma_shovel"
+    }
+  },
+  "result": {
+    "item": "time:blood_stone_shovel",
+    "count": 1
+  }
+}

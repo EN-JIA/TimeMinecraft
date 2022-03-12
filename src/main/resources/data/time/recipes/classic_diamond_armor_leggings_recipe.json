@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_diamond"
+    },
+    "1": {
+      "item": "time:classic_diamond"
+    },
+    "2": {
+      "item": "time:classic_diamond"
+    },
+    "3": {
+      "item": "time:classic_diamond"
+    },
+    "5": {
+      "item": "time:classic_diamond"
+    },
+    "6": {
+      "item": "time:classic_diamond"
+    },
+    "8": {
+      "item": "time:classic_diamond"
+    }
+  },
+  "result": {
+    "item": "time:classic_diamond_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightsword",
+    "customModelName": "Normal",
+    "name": "Sword Of Light",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 19.200000000000003,
+    "enchantability": 0,
+    "damageVsEntity": 99999.0,
+    "usageCount": 1,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

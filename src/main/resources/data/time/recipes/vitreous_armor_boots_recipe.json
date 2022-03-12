@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:vitreous"
+    },
+    "2": {
+      "item": "time:vitreous"
+    },
+    "3": {
+      "item": "time:vitreous"
+    },
+    "5": {
+      "item": "time:vitreous"
+    }
+  },
+  "result": {
+    "item": "time:vitreous_armor_boots",
+    "count": 1
+  }
+}

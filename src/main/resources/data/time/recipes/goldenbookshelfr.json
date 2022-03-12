@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:compress_gold_block"
+    },
+    "1": {
+      "item": "minecraft:gold_block"
+    },
+    "2": {
+      "item": "time:compress_gold_block"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "time:compress_gold_block"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    },
+    "8": {
+      "item": "time:compress_gold_block"
+    }
+  },
+  "result": {
+    "item": "time:golden_book_shelf",
+    "count": 1
+  }
+}

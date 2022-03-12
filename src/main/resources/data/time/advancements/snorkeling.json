@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:diving_helmet_helmet"
+    },
+    "title": {
+      "translate": "advancements.snorkeling.title"
+    },
+    "description": {
+      "translate": "advancements.snorkeling.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "snorkeling": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 2000,
+    "loot": [
+      "time:blocks/newportalr"
+    ]
+  },
+  "parent": "time:moon_block_2"
+}

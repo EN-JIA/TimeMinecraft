@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/bloodstone_vlock",
+    "particle": "time:blocks/bloodstone_vlock"
+  }
+}

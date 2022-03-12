@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 4.8999999999999995,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": ""
+    },
+    "smeltingInputStack": {
+      "value": "CUSTOM:BloodStoneOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BloodStoneGem"
+    },
+    "name": "blood_stone_ore_smelting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:xplordheart"
+    },
+    {
+      "item": "time:dimensiongem"
+    },
+    {
+      "item": "time:timegem"
+    },
+    {
+      "item": "time:spacegem"
+    }
+  ],
+  "result": {
+    "item": "time:mcy1600",
+    "count": 1
+  }
+}

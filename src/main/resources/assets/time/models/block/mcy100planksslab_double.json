@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/planks_mcy100",
+    "particle": "time:blocks/planks_mcy100"
+  }
+}

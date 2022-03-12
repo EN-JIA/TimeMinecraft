@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:obsdiamond"
+    },
+    "1": {
+      "item": "time:obsdiamond"
+    },
+    "2": {
+      "item": "time:obsdiamond"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:obsdiamon_pickaxe",
+    "count": 1
+  }
+}

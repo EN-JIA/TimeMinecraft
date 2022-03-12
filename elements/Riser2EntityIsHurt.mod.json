@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field></block><block type=\"coord_x\" x=\"169\" y=\"194\"/><block type=\"coord_z\" x=\"314\" y=\"243\"/><block type=\"coord_x\" x=\"309\" y=\"249\"/><block type=\"coord_x\" x=\"295\" y=\"286\"/><block type=\"coord_z\" x=\"310\" y=\"296\"/><block type=\"math_dual_ops\" x=\"245\" y=\"333\"><field name=\"OP\">ADD</field><value name=\"A\"><block type=\"coord_x\"/></value></block></xml>"
+  }
+}

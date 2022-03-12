@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:mcy_102400_stone"
+    },
+    {
+      "item": "time:mcy_102400_stone"
+    },
+    {
+      "item": "time:mcy_102400_stone"
+    },
+    {
+      "item": "time:mcy_102400_stone"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_102400_smooth_stone",
+    "count": 3
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "crystalh",
+    "enableBody": true,
+    "textureBody": "crystalb",
+    "enableLeggings": true,
+    "textureLeggings": "crystals",
+    "enableBoots": true,
+    "textureBoots": "crystal2b",
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "armorTextureFile": "crystal",
+    "helmetName": "Icelite Helmet",
+    "bodyName": "Crystal Helmet",
+    "leggingsName": "Icelite Leggings",
+    "bootsName": "Icelite Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 35,
+    "damageValueHelmet": 5,
+    "damageValueBody": 12,
+    "damageValueLeggings": 14,
+    "damageValueBoots": 5,
+    "enchantability": 21,
+    "toughness": 3.4,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:CrystalGem"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/crystal_ore_block",
+    "up": "time:blocks/crystal_ore_block",
+    "north": "time:blocks/crystal_ore_block",
+    "east": "time:blocks/crystal_ore_block",
+    "south": "time:blocks/crystal_ore_block",
+    "west": "time:blocks/crystal_ore_block",
+    "particle": "time:blocks/crystal_ore_block"
+  }
+}

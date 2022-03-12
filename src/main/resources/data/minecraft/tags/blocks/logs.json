@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_log",
+    "time:ghoul_log",
+    "time:mushroomlog",
+    "time:bamboo_log_fence",
+    "time:minecraft_years_100_log",
+    "minecraft:dark_oak_log",
+    "time:magic_log",
+    "minecraft:jungle_log",
+    "time:strawberry_log_log",
+    "time:strawberry_log_fence_gate",
+    "minecraft:spruce_log",
+    "time:mcy_100_log",
+    "time:classic_log",
+    "time:bamboo_log_fence_gate",
+    "time:strawberry_log_fence",
+    "time:mcy_400log",
+    "minecraft:birch_log",
+    "time:cherry_log",
+    "time:hell_log",
+    "time:sakura_log",
+    "time:bamboo_log",
+    "time:moon_warp_log",
+    "time:strawberry_log_wood",
+    "time:desert_log",
+    "time:moon_log",
+    "time:phantom_log",
+    "minecraft:acacia_log"
+  ]
+}

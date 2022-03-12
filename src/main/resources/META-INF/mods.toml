@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="time"
+version="1.0.0"
+displayName="The Infinite Macrocosm's Universe And Time"
+credits="“你有沒有想過你的Minecraft世界的過去或未?硎鞘谗針幼拥哪兀窟@個開發中的模組’時間傳說（The Infinite Macrocosm's Universe And Time：Time of Saga）‘可以讓你??現這個願望！在這裡你可以建造時光機，探索10個時間線，過去現在與未?恚? 未?砑船F在！” 這是一個群主的自制模組，目前屬於早期開發階段。以後模組一些更新就會在這裡放出?韣 Minecraft遊戲版本：1.15.2 制作軟件：它使用了Eclipse?順嫿ùa，用BlockBench、雪松?順嫿Ｐ停ū灸＝M有一些部分【主要是維度】使用了模組制作器Mcreator以保證模組的更新速度，但這?K不代表它劣質！） 更新情況：永不棄坑！ 開發團隊（目前）:EN_JIA(Mod整體制作)、鯪魚X（模組靈感大獅、美術提供者）天藍色的苦力怕（美術提供）、墨懿老??子（美術提供）、蓝天（靈感提供者）、黑夜中的貓頭鷹（美術提供者）。 靈感?碓矗簳r光機Mod、暮色森林Mod、UndertaleMod以及Creepypasta與虛空工藝Mod 感謝：IETLORD（幻想鄉的邪王真眼使熵）、那些帶我走進模組制作界的前輩們 這只是個群主個人作品！請大家期望值不要太高！ 想加進模組什麽東西可以告訴我！（只要我能做得到-- 即使你覺得模組垃圾也不要噴！可以討論模組的改進！ 注意：目前該模組沒有測試伺服器！"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="EN_JIA/天蓝色的苦力怕/鲮鱼x（空白/蓝天"
+description='''
+A mod about the time.
+'''
+
+[[dependencies.time]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.time]]
+    modId="timelib"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+

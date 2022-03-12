@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:runefragment"
+    },
+    {
+      "item": "time:runefragment"
+    },
+    {
+      "item": "time:runefragment"
+    },
+    {
+      "item": "time:runefragment"
+    }
+  ],
+  "result": {
+    "item": "time:riserune",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/amethyst_bricks",
+    "up": "time:blocks/amethyst_bricks",
+    "north": "time:blocks/amethyst_bricks",
+    "east": "time:blocks/amethyst_bricks",
+    "south": "time:blocks/amethyst_bricks",
+    "west": "time:blocks/amethyst_bricks",
+    "particle": "time:blocks/amethyst_bricks"
+  }
+}

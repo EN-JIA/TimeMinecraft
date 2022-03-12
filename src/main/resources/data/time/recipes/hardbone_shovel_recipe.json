@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:hardbone_gem"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    },
+    "2": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "time:hardbone_shovel",
+    "count": 1
+  }
+}

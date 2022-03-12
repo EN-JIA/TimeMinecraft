@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/sblogtop",
+    "up": "time:blocks/sblogtop",
+    "north": "time:blocks/sblog",
+    "east": "time:blocks/sblog",
+    "south": "time:blocks/sblog",
+    "west": "time:blocks/sblog",
+    "particle": "time:blocks/sblogtop"
+  }
+}

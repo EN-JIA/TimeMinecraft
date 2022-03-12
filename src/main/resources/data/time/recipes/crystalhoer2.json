@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:crystal_gem"
+    },
+    {
+      "item": "time:crystal_gem"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "time:crystal_hoe",
+    "count": 1
+  }
+}

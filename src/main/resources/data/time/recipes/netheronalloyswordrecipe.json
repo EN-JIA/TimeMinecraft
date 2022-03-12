@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:netheron"
+    },
+    "1": {
+      "item": "time:morcant_ore_block"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:netheron_alloy_sword",
+    "count": 1
+  }
+}

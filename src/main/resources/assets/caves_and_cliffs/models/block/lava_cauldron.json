@@ -1,0 +1,12 @@
+{
+  "parent": "caves_and_cliffs:custom/cauldron3",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/cauldron_side",
+    "particle": "caves_and_cliffs:blocks/cauldron_side",
+    "0": "caves_and_cliffs:blocks/cauldron_bottom",
+    "1": "caves_and_cliffs:blocks/cauldron_inner",
+    "2": "caves_and_cliffs:blocks/cauldron_side",
+    "3": "caves_and_cliffs:blocks/cauldron_top",
+    "4": "caves_and_cliffs:blocks/lava"
+  }
+}

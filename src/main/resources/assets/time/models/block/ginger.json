@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/carrots_stage1",
+    "particle": "time:blocks/carrots_stage1"
+  }
+}

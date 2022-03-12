@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "time:blocks/phantomleaves",
+    "particle": "time:blocks/phantomleaves"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/artore",
+    "up": "time:blocks/artore",
+    "north": "time:blocks/artore",
+    "east": "time:blocks/artore",
+    "south": "time:blocks/artore",
+    "west": "time:blocks/artore",
+    "particle": "time:blocks/artore"
+  }
+}

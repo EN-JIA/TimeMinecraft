@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "time:vitreous"
+    },
+    "1": {
+      "item": "time:vitreous"
+    },
+    "2": {
+      "item": "time:vitreous"
+    },
+    "3": {
+      "item": "time:vitreous"
+    },
+    "5": {
+      "item": "time:vitreous"
+    },
+    "6": {
+      "item": "time:vitreous"
+    },
+    "8": {
+      "item": "time:vitreous"
+    }
+  },
+  "result": {
+    "item": "time:vitreous_armor_leggings",
+    "count": 1
+  }
+}

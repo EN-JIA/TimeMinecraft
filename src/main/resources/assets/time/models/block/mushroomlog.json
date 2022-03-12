@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mushroom_stem",
+    "up": "time:blocks/mushroom_stem",
+    "north": "time:blocks/mushroom_stem",
+    "east": "time:blocks/mushroom_stem",
+    "south": "time:blocks/mushroom_stem",
+    "west": "time:blocks/mushroom_stem",
+    "particle": "time:blocks/mushroom_stem"
+  }
+}

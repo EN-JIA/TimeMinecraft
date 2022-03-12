@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:crystaloreblock"
+    }
+  ],
+  "result": {
+    "item": "time:crystalgem",
+    "count": 9
+  }
+}

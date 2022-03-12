@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AncientGlowstoneDust"
+      },
+      {
+        "value": "CUSTOM:AncientGlowstoneDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AncientGlowstoneDust"
+      },
+      {
+        "value": "CUSTOM:AncientGlowstoneDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AncientGlowstone"
+    },
+    "name": "ancientglowstoner",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystalgem"
+    },
+    "1": {
+      "item": "time:crystalgem"
+    },
+    "2": {
+      "item": "time:crystalgem"
+    },
+    "3": {
+      "item": "time:crystalgem"
+    },
+    "5": {
+      "item": "time:crystalgem"
+    }
+  },
+  "result": {
+    "item": "time:crystalarmorhelmet",
+    "count": 1
+  }
+}

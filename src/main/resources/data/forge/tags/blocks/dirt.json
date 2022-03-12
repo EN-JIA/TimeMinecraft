@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "time:mcy_102400_grass",
+    "time:silentia_grass",
+    "minecraft:grass_block",
+    "time:nether_grass",
+    "time:classic_grass",
+    "time:mcy_400grass",
+    "time:stone_grass",
+    "time:candy_grass",
+    "time:rune_grass",
+    "time:dream_grass",
+    "time:sweet_grass",
+    "time:mcy_1600_grass",
+    "time:minecraftyears_100grass"
+  ]
+}

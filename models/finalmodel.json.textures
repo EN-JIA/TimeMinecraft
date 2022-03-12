@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "inner",
+        "missing": "inner"
+      },
+      "name": "default"
+    }
+  }
+}

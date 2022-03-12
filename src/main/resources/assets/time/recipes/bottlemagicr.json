@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:magicbottle"
+    },
+    {
+      "item": "time:magicbottle"
+    },
+    {
+      "item": "time:magicbottle"
+    },
+    {
+      "item": "time:magicbottle"
+    }
+  ],
+  "result": {
+    "item": "time:magicblocko",
+    "count": 1
+  }
+}

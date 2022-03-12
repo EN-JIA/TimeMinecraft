@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:black_sand"
+    },
+    {
+      "item": "time:black_sand"
+    },
+    {
+      "item": "time:black_sand"
+    },
+    {
+      "item": "time:black_sand"
+    }
+  ],
+  "result": {
+    "item": "time:black_sand_stone",
+    "count": 1
+  }
+}

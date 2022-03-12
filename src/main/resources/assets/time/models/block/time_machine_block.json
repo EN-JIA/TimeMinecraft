@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/chiseled_rose_quartz_block_top",
+    "particle": "time:blocks/chiseled_rose_quartz_block_top"
+  }
+}

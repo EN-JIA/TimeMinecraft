@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mud_ball"
+    },
+    "1": {
+      "item": "time:mud_ball"
+    },
+    "2": {
+      "item": "time:mud_ball"
+    },
+    "3": {
+      "item": "time:mud_ball"
+    },
+    "5": {
+      "item": "time:mud_ball"
+    }
+  },
+  "result": {
+    "item": "time:mud_armor_helmet",
+    "count": 1
+  }
+}

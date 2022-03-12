@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/oak_planks",
+    "up": "time:blocks/oak_planks",
+    "north": "time:blocks/oak_planks",
+    "east": "time:blocks/oak_planks",
+    "south": "time:blocks/oak_planks",
+    "west": "time:blocks/oak_planks",
+    "particle": "time:blocks/oak_planks"
+  }
+}

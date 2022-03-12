@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:moon_blockb"
+    },
+    "title": {
+      "translate": "advancements.moon_block_3.title"
+    },
+    "description": {
+      "translate": "advancements.moon_block_3.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "moon_block_3": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:ghostly_age"
+}

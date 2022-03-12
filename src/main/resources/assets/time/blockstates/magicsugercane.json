@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=1": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=2": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=3": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=4": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=5": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=6": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=7": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=8": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=9": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=10": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=11": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=12": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=13": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=14": {
+      "model": "time:block/magicsugercane"
+    },
+    "age=15": {
+      "model": "time:block/magicsugercane"
+    }
+  }
+}

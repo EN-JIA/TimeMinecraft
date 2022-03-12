@@ -1,0 +1,153 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Ghost Boime",
+    "groundBlock": {
+      "value": "CUSTOM:MINECRAFTYEARS100WATER"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:MINECRAFTYEARS100WATER"
+    },
+    "waterColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:mcy100b"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Leavesfall100"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 10.0,
+    "heightVariation": 0.0,
+    "biomeType": "COOL",
+    "spawnBiome": false,
+    "biomeWeight": 10,
+    "biomeDictionaryTypes": [
+      "SWAMP",
+      "RIVER",
+      "WATER"
+    ],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 15,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 6,
+    "treeStem": {
+      "value": "CUSTOM:WhitediamondOre"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:GhoulLand"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "snowy",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": true,
+    "spawnShipwreck": true,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Fossils",
+      "Icebergs",
+      "MonsterRooms",
+      "TallSeagrassLush"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityDrowned"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySalmon"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntityTurtle"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntityTropicalFish"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntitySquid"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "waterCreature"
+      }
+    ]
+  }
+}

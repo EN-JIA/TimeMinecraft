@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:thunder_scroll_omega"
+    },
+    "title": {
+      "translate": "advancements.new_era.title"
+    },
+    "description": {
+      "translate": "advancements.new_era.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "new_era": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:witherslayer"
+}

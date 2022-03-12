@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/jungle_planks",
+    "up": "time:blocks/jungle_planks",
+    "north": "time:blocks/jungle_planks",
+    "east": "time:blocks/jungle_planks",
+    "south": "time:blocks/jungle_planks",
+    "west": "time:blocks/jungle_planks",
+    "particle": "time:blocks/jungle_planks"
+  }
+}

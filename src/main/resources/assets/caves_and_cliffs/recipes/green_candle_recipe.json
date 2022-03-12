@@ -1,0 +1,17 @@
+{
+  "group": "candle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caves_and_cliffs:candle_1"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 2
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs:green_candle_1",
+    "count": 1
+  }
+}

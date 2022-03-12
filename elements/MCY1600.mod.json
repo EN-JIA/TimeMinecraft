@@ -1,0 +1,70 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MCY1600Plains"
+      },
+      {
+        "value": "CUSTOM:Mushroommountain"
+      },
+      {
+        "value": "CUSTOM:MushroomDesert"
+      },
+      {
+        "value": "CUSTOM:MoonlightForest"
+      },
+      {
+        "value": "CUSTOM:MoonlightForest"
+      },
+      {
+        "value": "CUSTOM:MoonSharpForest"
+      },
+      {
+        "value": "CUSTOM:MoonSharpForest"
+      },
+      {
+        "value": "CUSTOM:SecMoonSharpForest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:MCY1600Stone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Acid"
+    },
+    "airColor": {
+      "value": -16764109,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "MCY1600PlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:TimeMachineWall"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Minecraft Years 1600 Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "texture": "flint_and_steel_1600",
+    "portalTexture": "final1600portal",
+    "enablePortal": true
+  }
+}

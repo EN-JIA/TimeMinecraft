@@ -1,0 +1,10 @@
+{
+  "parent": "caves_and_cliffs:custom/16",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/dirt",
+    "particle": "caves_and_cliffs:blocks/dirt",
+    "1": "caves_and_cliffs:blocks/invis",
+    "2": "caves_and_cliffs:blocks/dirt",
+    "3": "caves_and_cliffs:blocks/invis"
+  }
+}

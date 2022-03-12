@@ -1,0 +1,36 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mudball"
+    },
+    "1": {
+      "item": "time:mudball"
+    },
+    "2": {
+      "item": "time:mudball"
+    },
+    "3": {
+      "item": "time:mudball"
+    },
+    "5": {
+      "item": "time:mudball"
+    },
+    "6": {
+      "item": "time:mudball"
+    },
+    "8": {
+      "item": "time:mudball"
+    }
+  },
+  "result": {
+    "item": "time:mudarmorlegs",
+    "count": 1
+  }
+}

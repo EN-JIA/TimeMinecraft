@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/water_fire",
+    "particle": "time:blocks/water_fire"
+  }
+}

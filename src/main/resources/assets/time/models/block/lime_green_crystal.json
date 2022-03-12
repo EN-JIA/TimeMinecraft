@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/rystalimereen",
+    "up": "time:blocks/rystalimereen",
+    "north": "time:blocks/rystalimereen",
+    "east": "time:blocks/rystalimereen",
+    "south": "time:blocks/rystalimereen",
+    "west": "time:blocks/rystalimereen",
+    "particle": "time:blocks/rystalimereen"
+  }
+}

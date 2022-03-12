@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ancientglowstonedust"
+    },
+    {
+      "item": "time:ancientglowstonedust"
+    },
+    {
+      "item": "time:ancientglowstonedust"
+    },
+    {
+      "item": "time:ancientglowstonedust"
+    }
+  ],
+  "result": {
+    "item": "time:ancientglowstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/runeore",
+    "up": "time:blocks/runeore",
+    "north": "time:blocks/runeore",
+    "east": "time:blocks/runeore",
+    "south": "time:blocks/runeore",
+    "west": "time:blocks/runeore",
+    "particle": "time:blocks/runeore"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/etherealgrass",
+    "particle": "time:blocks/etherealgrass"
+  }
+}

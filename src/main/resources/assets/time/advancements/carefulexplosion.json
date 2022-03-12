@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:netherreactor2"
+    },
+    "title": {
+      "translate": "advancements.carefulexplosion.title"
+    },
+    "description": {
+      "translate": "advancements.carefulexplosion.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "carefulexplosion": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 200
+  },
+  "parent": "time:chaossssssssss"
+}

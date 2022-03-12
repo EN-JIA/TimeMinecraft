@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "back_to_single",
+    "permissionLevel": "No requirement",
+    "onCommandExecuted": {
+      "name": "BacktosingleCommandExecuted"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "time:block/cactus"
+    },
+    "half=lower": {
+      "model": "time:block/cactus_bottom"
+    }
+  }
+}

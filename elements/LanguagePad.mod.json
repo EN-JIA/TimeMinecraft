@@ -1,0 +1,77 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Chinese(Taiwan)",
+          "onClick": {
+            "name": "Set2"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "Chinese(Taiwan)",
+          "x": 159,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "English(United Kingdom)",
+          "onClick": {
+            "name": "Set1"
+          },
+          "width": 140,
+          "height": 20,
+          "name": "English(United Kingdom)",
+          "x": 141,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Chinese(China Mainland)",
+          "onClick": {
+            "name": "Set3"
+          },
+          "width": 140,
+          "height": 20,
+          "name": "Chinese(China Mainland)",
+          "x": 141,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Language Pad",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Language Pad",
+          "x": 177,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

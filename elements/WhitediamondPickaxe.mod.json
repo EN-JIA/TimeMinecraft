@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "white_new_pickaxe",
+    "customModelName": "Normal",
+    "name": "White Diamond Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 12,
+    "damageVsEntity": 3.0,
+    "usageCount": 1800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:WhitediamondGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

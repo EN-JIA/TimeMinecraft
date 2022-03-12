@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ichor_block"
+    }
+  ],
+  "result": {
+    "item": "time:ichor",
+    "count": 9
+  }
+}

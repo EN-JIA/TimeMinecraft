@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/glowing_ice",
+    "up": "time:blocks/glowing_ice",
+    "north": "time:blocks/glowing_ice",
+    "east": "time:blocks/glowing_ice",
+    "south": "time:blocks/glowing_ice",
+    "west": "time:blocks/glowing_ice",
+    "particle": "time:blocks/glowing_ice"
+  }
+}

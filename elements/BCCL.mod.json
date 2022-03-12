@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "borkencrystal",
+    "customModelName": "Normal",
+    "name": "Useless Rubbish",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "It used to be a shining pearl. But now it's just useless rubbish."
+    ],
+    "hasGlow": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false
+  }
+}

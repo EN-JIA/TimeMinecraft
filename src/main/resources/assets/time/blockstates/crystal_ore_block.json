@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "time:block/crystal_ore_block"
+    }
+  }
+}

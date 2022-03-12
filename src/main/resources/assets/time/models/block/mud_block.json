@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/chocolate",
+    "up": "time:blocks/chocolate",
+    "north": "time:blocks/chocolate",
+    "east": "time:blocks/chocolate",
+    "south": "time:blocks/chocolate",
+    "west": "time:blocks/chocolate",
+    "particle": "time:blocks/chocolate"
+  }
+}

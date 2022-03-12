@@ -1,0 +1,23 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "1": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "2": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:copper_slab_stage_2",
+    "data": 0,
+    "count": 6
+  }
+}

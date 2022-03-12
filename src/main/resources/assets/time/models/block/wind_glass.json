@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/windglass",
+    "up": "time:blocks/windglass",
+    "north": "time:blocks/windglass",
+    "east": "time:blocks/windglass",
+    "south": "time:blocks/windglass",
+    "west": "time:blocks/windglass",
+    "particle": "time:blocks/windglass"
+  }
+}

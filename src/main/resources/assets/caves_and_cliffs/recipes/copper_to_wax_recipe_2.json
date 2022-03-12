@@ -1,0 +1,16 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:air"
+    },
+    {
+      "item": "caves_and_cliffs:copper_block_stage_2"
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs:waxed_copper_block_stage_2",
+    "count": 1
+  }
+}

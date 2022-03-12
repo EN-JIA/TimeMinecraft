@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ichorium"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "time:ichorium"
+    }
+  ],
+  "result": {
+    "item": "time:vitreous_ore",
+    "count": 1
+  }
+}

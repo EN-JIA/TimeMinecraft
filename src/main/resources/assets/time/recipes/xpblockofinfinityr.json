@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:xpbottleofinfinity"
+    },
+    "1": {
+      "item": "time:magicbottle"
+    },
+    "2": {
+      "item": "time:xpbottleofinfinity"
+    },
+    "3": {
+      "item": "time:magicbottle"
+    },
+    "4": {
+      "item": "time:xplordheart"
+    },
+    "5": {
+      "item": "time:magicbottle"
+    },
+    "6": {
+      "item": "time:xpbottleofinfinity"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "time:xpbottleofinfinity"
+    }
+  },
+  "result": {
+    "item": "time:xpblockofinfinity",
+    "count": 1
+  }
+}

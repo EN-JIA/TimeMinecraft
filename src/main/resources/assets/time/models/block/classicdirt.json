@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/betadirt",
+    "up": "time:blocks/betadirt",
+    "north": "time:blocks/betadirt",
+    "east": "time:blocks/betadirt",
+    "south": "time:blocks/betadirt",
+    "west": "time:blocks/betadirt",
+    "particle": "time:blocks/betadirt"
+  }
+}

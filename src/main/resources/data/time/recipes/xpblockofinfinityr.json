@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:xp_bottle_of_infinity"
+    },
+    "1": {
+      "item": "time:magic_bottle"
+    },
+    "2": {
+      "item": "time:xp_bottle_of_infinity"
+    },
+    "3": {
+      "item": "time:magic_bottle"
+    },
+    "4": {
+      "item": "time:xp_lord_heart"
+    },
+    "5": {
+      "item": "time:magic_bottle"
+    },
+    "6": {
+      "item": "time:xp_bottle_of_infinity"
+    },
+    "7": {
+      "item": "minecraft:obsidian"
+    },
+    "8": {
+      "item": "time:xp_bottle_of_infinity"
+    }
+  },
+  "result": {
+    "item": "time:xp_block_of_infinity",
+    "count": 1
+  }
+}

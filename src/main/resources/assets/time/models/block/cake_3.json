@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/chocolate_cake_bread",
+    "up": "time:blocks/frosted_white_cake_top",
+    "north": "time:blocks/cake_grass_block_side",
+    "east": "time:blocks/cake_grass_block_side",
+    "south": "time:blocks/cake_grass_block_side",
+    "west": "time:blocks/cake_grass_block_side",
+    "particle": "time:blocks/chocolate_cake_bread"
+  }
+}

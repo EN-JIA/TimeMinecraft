@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:purple_glowstone_dust"
+    },
+    "1": {
+      "item": "time:purple_glowstone_dust"
+    },
+    "2": {
+      "item": "time:purple_glowstone_dust"
+    },
+    "3": {
+      "item": "time:purple_glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "time:purplppe_glowstone",
+    "count": 1
+  }
+}

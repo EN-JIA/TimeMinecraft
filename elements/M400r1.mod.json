@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MCY400DOOR"
+    },
+    "name": "m_400r_1",
+    "namespace": "mod"
+  }
+}

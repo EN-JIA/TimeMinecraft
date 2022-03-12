@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/timemachinewall",
+    "up": "time:blocks/timemachinewall",
+    "north": "time:blocks/useless_timemachine",
+    "east": "time:blocks/useless_timemachine",
+    "south": "time:blocks/useless_timemachine",
+    "west": "time:blocks/useless_timemachine",
+    "particle": "time:blocks/timemachinewall"
+  }
+}

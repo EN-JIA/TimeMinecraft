@@ -1,0 +1,22 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Minecraftyears100stone"
+      },
+      {
+        "value": "CUSTOM:Breadblock"
+      },
+      {
+        "value": "CUSTOM:MCY400Stone"
+      }
+    ],
+    "functions": [],
+    "name": "blockCobblestone",
+    "namespace": "forge"
+  }
+}

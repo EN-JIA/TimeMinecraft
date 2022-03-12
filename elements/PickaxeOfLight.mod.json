@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lightpickaxe",
+    "customModelName": "Normal",
+    "name": "Pickaxe Of Light",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 300,
+    "efficiency": 3.0,
+    "attackSpeed": 11.7,
+    "enchantability": 8,
+    "damageVsEntity": 0.0,
+    "usageCount": 1,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

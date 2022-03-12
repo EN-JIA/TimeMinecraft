@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "time:block/spawn_dungeon_25600_block"
+    }
+  }
+}

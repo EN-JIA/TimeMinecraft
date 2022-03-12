@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "caves_and_cliffs:blocks/darkstonenew_1_1_1",
+    "particle": "caves_and_cliffs:blocks/darkstonenew_1_1_1"
+  }
+}

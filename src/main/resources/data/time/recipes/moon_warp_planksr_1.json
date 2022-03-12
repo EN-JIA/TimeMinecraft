@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:moon_warp_log"
+    },
+    "1": {
+      "item": "time:moon_warp_log"
+    },
+    "2": {
+      "item": "time:moon_warp_log"
+    },
+    "3": {
+      "item": "time:moon_warp_log"
+    }
+  },
+  "result": {
+    "item": "time:moon_warp_wood",
+    "count": 3
+  }
+}

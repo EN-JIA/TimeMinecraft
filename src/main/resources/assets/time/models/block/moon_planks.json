@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/moonplanks",
+    "up": "time:blocks/moonplanks",
+    "north": "time:blocks/moonplanks",
+    "east": "time:blocks/moonplanks",
+    "south": "time:blocks/moonplanks",
+    "west": "time:blocks/moonplanks",
+    "particle": "time:blocks/moonplanks"
+  }
+}

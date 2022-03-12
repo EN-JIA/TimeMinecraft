@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:huge_cuctur_log"
+    },
+    "1": {
+      "item": "time:huge_cuctur_log"
+    },
+    "2": {
+      "item": "time:huge_cuctur_log"
+    },
+    "3": {
+      "item": "time:huge_cuctur_log"
+    }
+  },
+  "result": {
+    "item": "time:huge_cuctur_wood",
+    "count": 3
+  }
+}

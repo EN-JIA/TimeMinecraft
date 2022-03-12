@@ -1,0 +1,16 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:netheronalloysword"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "result": {
+    "item": "time:envenomednetheronalloysword",
+    "count": 1
+  }
+}

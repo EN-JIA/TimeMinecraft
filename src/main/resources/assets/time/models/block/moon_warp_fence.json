@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "time:blocks/stripped_darkwood_log_top",
+    "particle": "time:blocks/stripped_darkwood_log_top"
+  }
+}

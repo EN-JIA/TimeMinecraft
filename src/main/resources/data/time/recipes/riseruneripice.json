@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:rune_fragment"
+    },
+    {
+      "item": "time:rune_fragment"
+    },
+    {
+      "item": "time:rune_fragment"
+    },
+    {
+      "item": "time:rune_fragment"
+    }
+  ],
+  "result": {
+    "item": "time:rise_rune",
+    "count": 1
+  }
+}

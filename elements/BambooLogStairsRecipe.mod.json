@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BambooLogStairs"
+    },
+    "name": "bamboo_log_stairs_recipe",
+    "namespace": "mod"
+  }
+}

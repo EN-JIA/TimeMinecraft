@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_planks"
+    },
+    "1": {
+      "item": "time:classic_planks"
+    },
+    "2": {
+      "item": "time:classic_planks"
+    }
+  },
+  "result": {
+    "item": "time:classic_slab",
+    "count": 6
+  }
+}

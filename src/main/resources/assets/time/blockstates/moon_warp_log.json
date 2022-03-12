@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "time:block/moon_warp_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "time:block/moon_warp_log"
+    },
+    "axis=z": {
+      "model": "time:block/moon_warp_log",
+      "x": 90
+    }
+  }
+}

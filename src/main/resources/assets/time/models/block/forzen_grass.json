@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mcy400_stone",
+    "up": "time:blocks/snow",
+    "north": "time:blocks/stoneglass1",
+    "east": "time:blocks/stoneglass1",
+    "south": "time:blocks/stoneglass1",
+    "west": "time:blocks/stoneglass1",
+    "particle": "time:blocks/mcy400_stone"
+  }
+}

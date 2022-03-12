@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "time:block/mushroomlog",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "time:block/mushroomlog"
+    },
+    "axis=z": {
+      "model": "time:block/mushroomlog",
+      "x": 90
+    }
+  }
+}

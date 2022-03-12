@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/newcopperstage3_1_1_1",
+    "particle": "caves_and_cliffs:blocks/newcopperstage3_1_1_1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"item_cooldown_for\"><value name=\"item\"><block type=\"itemstack_to_mcitem\"/></value><value name=\"ticks\"><block type=\"math_number\"><field name=\"NUM\">600</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value><next><block type=\"entity_send_chat\"><comment h=\"52\" pinned=\"false\" w=\"289\">This gets the coordinates of the provided entity, then prints the coordinates in the action bar.</comment><value name=\"text\"><block inline=\"true\" type=\"text_join\"><mutation items=\"6\"/><value name=\"ADD0\"><block type=\"text\"><field name=\"TEXT\">I am at x: </field></block></value><value name=\"ADD1\"><block type=\"coord_x\"/></value><value name=\"ADD2\"><block type=\"text\"><field name=\"TEXT\">y: </field></block></value><value name=\"ADD3\"><block type=\"coord_y\"/></value><value name=\"ADD4\"><block type=\"text\"><field name=\"TEXT\">z: </field></block></value><value name=\"ADD5\"><block type=\"coord_z\"/></value></block></value><value name=\"entity\"><block type=\"entity_from_deps\"/></value><value name=\"actbar\"><block type=\"logic_boolean\"><field name=\"BOOL\">FALSE</field></block></value></block></next></block></next></block></xml>"
+  }
+}

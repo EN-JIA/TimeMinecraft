@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystal_sharp"
+    },
+    "2": {
+      "item": "time:crystal_sharp"
+    },
+    "3": {
+      "item": "time:crystal_sharp"
+    },
+    "4": {
+      "item": "time:broken_ice_sword"
+    },
+    "5": {
+      "item": "time:crystal_sharp"
+    },
+    "7": {
+      "item": "time:crystal_sharp"
+    }
+  },
+  "result": {
+    "item": "time:ice_stick",
+    "count": 1
+  }
+}

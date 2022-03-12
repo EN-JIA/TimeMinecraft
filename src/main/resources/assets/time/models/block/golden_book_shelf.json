@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/glodenbookshelf",
+    "up": "time:blocks/glodenbookshelf",
+    "north": "time:blocks/glodenbookshelf",
+    "east": "time:blocks/glodenbookshelf",
+    "south": "time:blocks/glodenbookshelf",
+    "west": "time:blocks/glodenbookshelf",
+    "particle": "time:blocks/glodenbookshelf"
+  }
+}

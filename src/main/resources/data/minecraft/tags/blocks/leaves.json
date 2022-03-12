@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "time:strawberry_log_leaves",
+    "minecraft:acacia_leaves",
+    "time:betaleaves",
+    "time:phantom_leaves",
+    "minecraft:spruce_leaves",
+    "time:minecraftyears_100leaves",
+    "time:mcy_400_leaves",
+    "time:magic_leaves_2",
+    "minecraft:birch_leaves",
+    "time:magic_leaves_3",
+    "time:cherry_leaves",
+    "time:magic_leaves",
+    "time:cherry_leaves_2",
+    "minecraft:jungle_leaves",
+    "minecraft:dark_oak_leaves",
+    "time:chocolate_leaves",
+    "time:bamboo_leaves",
+    "minecraft:oak_leaves",
+    "time:mcy_100leaves"
+  ]
+}

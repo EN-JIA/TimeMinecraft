@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:mushrooooooom"
+    },
+    "title": {
+      "translate": "advancements.mmmmmuuuuussssshhhhhrrrrrooooommmmm.title"
+    },
+    "description": {
+      "translate": "advancements.mmmmmuuuuussssshhhhhrrrrrooooommmmm.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "mmmmmuuuuussssshhhhhrrrrrooooommmmm": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:frostruler"
+}

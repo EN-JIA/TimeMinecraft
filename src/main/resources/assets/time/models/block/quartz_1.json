@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/quartz_block_bottom",
+    "up": "time:blocks/quartz_block_bottom",
+    "north": "time:blocks/quartz_block_bottom",
+    "east": "time:blocks/quartz_block_bottom",
+    "south": "time:blocks/quartz_block_bottom",
+    "west": "time:blocks/quartz_block_bottom",
+    "particle": "time:blocks/quartz_block_bottom"
+  }
+}

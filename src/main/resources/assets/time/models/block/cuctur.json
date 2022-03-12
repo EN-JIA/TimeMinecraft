@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/cuctur_sapling",
+    "particle": "time:blocks/cuctur_sapling"
+  }
+}

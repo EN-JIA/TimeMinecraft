@@ -1,0 +1,16 @@
+{
+  "group": "candle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caves_and_cliffs:candle_1"
+    },
+    {
+      "item": "minecraft:air"
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs:blue_candle_1",
+    "count": 1
+  }
+}

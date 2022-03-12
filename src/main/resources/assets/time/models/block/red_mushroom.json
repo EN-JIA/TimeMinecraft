@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/redglow",
+    "up": "time:blocks/redglow",
+    "north": "time:blocks/redglow",
+    "east": "time:blocks/redglow",
+    "south": "time:blocks/redglow",
+    "west": "time:blocks/redglow",
+    "particle": "time:blocks/redglow"
+  }
+}

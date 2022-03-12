@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:pink_glowstone_dust"
+    },
+    {
+      "item": "time:pink_glowstone_dust"
+    },
+    {
+      "item": "time:pink_glowstone_dust"
+    },
+    {
+      "item": "time:pink_glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "time:pink_glowstone",
+    "count": 1
+  }
+}

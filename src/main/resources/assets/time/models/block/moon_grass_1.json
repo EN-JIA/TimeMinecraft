@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/moonflower_bottom",
+    "particle": "time:blocks/moonflower_bottom"
+  }
+}

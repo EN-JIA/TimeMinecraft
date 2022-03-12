@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:mcy_400log"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_400_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/riseraltarnew",
+    "up": "time:blocks/riseraltarnew",
+    "north": "time:blocks/riseraltarnew",
+    "east": "time:blocks/riseraltarnew",
+    "south": "time:blocks/riseraltarnew",
+    "west": "time:blocks/riseraltarnew",
+    "particle": "time:blocks/riseraltarnew"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:jade_gem"
+    },
+    "2": {
+      "item": "time:jade_gem"
+    },
+    "3": {
+      "item": "time:jade_gem"
+    },
+    "4": {
+      "item": "time:jade_gem"
+    },
+    "5": {
+      "item": "time:jade_gem"
+    },
+    "6": {
+      "item": "time:jade_gem"
+    },
+    "7": {
+      "item": "time:jade_gem"
+    },
+    "8": {
+      "item": "time:jade_gem"
+    }
+  },
+  "result": {
+    "item": "time:jade_armor_chestplate",
+    "count": 1
+  }
+}

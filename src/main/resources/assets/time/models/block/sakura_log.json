@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/newsukuratop",
+    "up": "time:blocks/newsukuratop",
+    "north": "time:blocks/newsururalog",
+    "east": "time:blocks/newsururalog",
+    "south": "time:blocks/newsururalog",
+    "west": "time:blocks/newsururalog",
+    "particle": "time:blocks/newsukuratop"
+  }
+}

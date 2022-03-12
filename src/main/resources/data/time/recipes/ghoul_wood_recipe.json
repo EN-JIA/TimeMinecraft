@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ghoul_log"
+    },
+    {
+      "item": "time:ghoul_log"
+    },
+    {
+      "item": "time:ghoul_log"
+    },
+    {
+      "item": "time:ghoul_log"
+    }
+  ],
+  "result": {
+    "item": "time:ghoul_wood",
+    "count": 3
+  }
+}

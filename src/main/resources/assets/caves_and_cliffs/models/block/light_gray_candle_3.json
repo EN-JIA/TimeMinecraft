@@ -1,0 +1,8 @@
+{
+  "parent": "caves_and_cliffs:custom/blackcandle3",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/lightgraycandle",
+    "particle": "caves_and_cliffs:blocks/lightgraycandle",
+    "0": "caves_and_cliffs:blocks/lightgraycandle"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/moon_warp_slab"
+    },
+    "type=top": {
+      "model": "time:block/moon_warp_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/moon_warp_slab_full"
+    }
+  }
+}

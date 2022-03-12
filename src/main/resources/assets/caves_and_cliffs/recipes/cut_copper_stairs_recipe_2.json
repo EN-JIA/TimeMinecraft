@@ -1,0 +1,33 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "3": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "4": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "6": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "7": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    },
+    "8": {
+      "item": "caves_and_cliffs:cut_copper_stage_2"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:copper_stairs_stage_2",
+    "count": 4
+  }
+}

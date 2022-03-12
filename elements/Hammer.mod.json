@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Hammer",
+    "type": "DIGGER",
+    "rarity": "RARE",
+    "minLevel": 1,
+    "maxLevel": 10,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "compatibleItems": [],
+    "isTreasureEnchantment": false,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": true,
+    "canVillagerTrade": true
+  }
+}

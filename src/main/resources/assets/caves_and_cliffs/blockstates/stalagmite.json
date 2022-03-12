@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "caves_and_cliffs:block/stalagmite"
+    },
+    "facing=east": {
+      "model": "caves_and_cliffs:block/stalagmite",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "caves_and_cliffs:block/stalagmite",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "caves_and_cliffs:block/stalagmite",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "caves_and_cliffs:block/stalagmite",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "caves_and_cliffs:block/stalagmite",
+      "x": 90
+    }
+  }
+}

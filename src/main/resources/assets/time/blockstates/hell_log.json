@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "time:block/hell_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "time:block/hell_log"
+    },
+    "axis=z": {
+      "model": "time:block/hell_log",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "1": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "2": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "3": {
+      "item": "caves_and_cliffs:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:copper_block",
+    "count": 1
+  }
+}

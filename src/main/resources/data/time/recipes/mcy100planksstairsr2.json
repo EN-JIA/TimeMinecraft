@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "time:mcy_100_planks"
+    },
+    "4": {
+      "item": "time:mcy_100_planks"
+    },
+    "5": {
+      "item": "time:mcy_100_planks"
+    },
+    "6": {
+      "item": "time:mcy_100_planks"
+    },
+    "7": {
+      "item": "time:mcy_100_planks"
+    },
+    "8": {
+      "item": "time:mcy_100_planks"
+    }
+  },
+  "result": {
+    "item": "time:mcy_100_planks_stairs",
+    "count": 4
+  }
+}

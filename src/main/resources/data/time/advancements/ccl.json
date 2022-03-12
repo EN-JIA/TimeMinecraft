@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:elements_heart"
+    },
+    "title": {
+      "translate": "advancements.ccl.title"
+    },
+    "description": {
+      "translate": "advancements.ccl.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ccl": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 50
+  },
+  "parent": "time:scrolls_maker"
+}

@@ -1,0 +1,53 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:whitediamond_gem"
+    },
+    "title": {
+      "translate": "advancements.betterthandiamonds.title"
+    },
+    "description": {
+      "translate": "advancements.betterthandiamonds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "betterthandiamonds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "time:whitediamondoreblockrecipe",
+      "time:whitediamondblockorerecipe",
+      "time:whitediamondoresmelting",
+      "time:deleted_mod_element",
+      "time:whitediamondaxerecipe",
+      "time:whitediamondswordrecipe",
+      "time:whitediamondshovelrecipe",
+      "time:whitediamondhoerecipe",
+      "time:whitediamondarmorhelmetrecipe",
+      "time:whitediamondarmorbodyrecipe",
+      "time:whitediamondarmorleggingsrecipe",
+      "time:whitediamondarmorbootsrecipe",
+      "time:whitediamondaxer2",
+      "time:whitediamondaxer3",
+      "time:whitediamondaxer4",
+      "time:whitediamondshovelr2",
+      "time:whitediamondshovelr3",
+      "time:whitediamondhoer2",
+      "time:whitediamondhoer3",
+      "time:whitediamondhoer4",
+      "time:whitediamondswordr2",
+      "time:whitediamondswordr3",
+      "time:whitediamondhr2",
+      "time:whitediamondbootsr2",
+      "time:netherrecr"
+    ]
+  },
+  "parent": "time:aworldanewjourney"
+}

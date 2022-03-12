@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/candygrassother",
+    "up": "time:blocks/grass_candyworld",
+    "north": "time:blocks/candygrassother",
+    "east": "time:blocks/candygrassother",
+    "south": "time:blocks/candygrassother",
+    "west": "time:blocks/candygrassother",
+    "particle": "time:blocks/candygrassother"
+  }
+}

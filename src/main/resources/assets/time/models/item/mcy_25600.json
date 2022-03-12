@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "time:items/flint_and_steel_25600"
+  }
+}

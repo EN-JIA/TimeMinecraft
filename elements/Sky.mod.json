@@ -1,0 +1,154 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "mushroom_fields"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "stone_beach"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "redwood_taiga_hills"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "mutated_redwood_taiga_hills"
+      },
+      {
+        "value": "mutated_extreme_hills_with_trees"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "mutated_mesa_rock"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "airColor": {
+      "value": -3342388,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "SkyPlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": ""
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Sky Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "",
+    "portalTexture": "",
+    "enablePortal": false
+  }
+}

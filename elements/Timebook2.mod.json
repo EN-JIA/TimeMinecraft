@@ -1,0 +1,90 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "???",
+          "onClick": {
+            "name": "Gegin1"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "???",
+          "x": 132,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "?????",
+          "onClick": {
+            "name": "Gegin2"
+          },
+          "width": 140,
+          "height": 20,
+          "name": "?????",
+          "x": 132,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "???",
+          "onClick": {
+            "name": "Gegin3"
+          },
+          "width": 120,
+          "height": 20,
+          "name": "???",
+          "x": 132,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "??????????????",
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "name": "??????????????",
+          "x": 132,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "??",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "??",
+          "x": 132,
+          "y": 44
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

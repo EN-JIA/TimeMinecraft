@@ -1,0 +1,9 @@
+{
+  "parent": "time:custom/runetable",
+  "textures": {
+    "all": "time:blocks/runetable",
+    "particle": "time:blocks/runetable",
+    "0": "time:blocks/runetable",
+    "missing": "time:blocks/runetable"
+  }
+}

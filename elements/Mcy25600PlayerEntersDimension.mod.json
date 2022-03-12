@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"entity_add_achievement\"><field name=\"achievement\">CUSTOM:NewEra</field><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><next><block type=\"block_add\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:SpawnDungeon25600Block</field></block></value><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"math_dual_ops\"><field name=\"OP\">MINUS</field><value name=\"A\"><block type=\"coord_y\"></block></value><value name=\"B\"><block type=\"math_number\"><field name=\"NUM\">20</field></block></value></block></value><value name=\"z\"><block type=\"coord_z\"></block></value></block></next></block></next></block><block type=\"math_number\" x=\"480\" y=\"196\"><field name=\"NUM\">0</field></block><block type=\"math_number\" x=\"440\" y=\"280\"><field name=\"NUM\">0</field></block></xml>"
+  }
+}

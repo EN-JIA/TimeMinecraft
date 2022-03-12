@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/mcy400newgrass",
+    "particle": "time:blocks/mcy400newgrass"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:magic_log"
+    }
+  ],
+  "result": {
+    "item": "time:deleted_mod_element",
+    "count": 4
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:mud_ball"
+    },
+    "1": {
+      "item": "time:mud_ball"
+    },
+    "2": {
+      "item": "time:mud_ball"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:mud_pickaxe",
+    "count": 1
+  }
+}

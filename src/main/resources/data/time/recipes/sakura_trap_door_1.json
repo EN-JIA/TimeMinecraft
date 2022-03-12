@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "time:sakura_planks"
+    },
+    "1": {
+      "item": "time:sakura_planks"
+    },
+    "2": {
+      "item": "time:sakura_planks"
+    },
+    "3": {
+      "item": "time:sakura_planks"
+    },
+    "4": {
+      "item": "time:sakura_planks"
+    },
+    "5": {
+      "item": "time:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "time:sakura_trapdoor",
+    "count": 2
+  }
+}

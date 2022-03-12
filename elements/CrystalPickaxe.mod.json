@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "new_crystal_pickaxe",
+    "customModelName": "Normal",
+    "name": "Icelite Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 7,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 32,
+    "damageVsEntity": 6.0,
+    "usageCount": 4028,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CrystalGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "CrystalPickaxeBlockDestroyedWithTool"
+    }
+  }
+}

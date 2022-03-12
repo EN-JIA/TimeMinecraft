@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:amethyst_bricks"
+    },
+    {
+      "item": "time:amethyst_bricks"
+    },
+    {
+      "item": "time:amethyst_bricks"
+    },
+    {
+      "item": "time:amethyst_bricks"
+    }
+  ],
+  "result": {
+    "item": "time:smooth_block",
+    "count": 4
+  }
+}

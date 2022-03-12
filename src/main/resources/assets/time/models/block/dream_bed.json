@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/alphadev",
+    "up": "time:blocks/alphadev",
+    "north": "time:blocks/alphadev",
+    "east": "time:blocks/alphadev",
+    "south": "time:blocks/alphadev",
+    "west": "time:blocks/alphadev",
+    "particle": "time:blocks/alphadev"
+  }
+}

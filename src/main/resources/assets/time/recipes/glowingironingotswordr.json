@@ -1,0 +1,19 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:glowingironingot"
+    },
+    {
+      "item": "time:glowingironingot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "time:glowingsword",
+    "count": 1
+  }
+}

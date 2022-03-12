@@ -1,0 +1,121 @@
+
+package net.en_jia.minecraft.forge.tpwa.abyss.time.block;
+
+import net.minecraftforge.registries.ObjectHolder;
+import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.world.World;
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.BlockRayTraceResult;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.Hand;
+import net.minecraft.util.Direction;
+import net.minecraft.util.ActionResultType;
+import net.minecraft.loot.LootContext;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.BlockItem;
+import net.minecraft.fluid.FluidState;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.renderer.RenderTypeLookup;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.block.material.Material;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.BlockState;
+import net.minecraft.block.Block;
+
+import net.en_jia.minecraft.forge.tpwa.abyss.time.procedures.Fire4OnBlockRightClickedProcedure;
+import net.en_jia.minecraft.forge.tpwa.abyss.time.procedures.Fire4BlockDestroyedByPlayerProcedure;
+import net.en_jia.minecraft.forge.tpwa.abyss.time.itemgroup.TIMEItemGroup;
+import net.en_jia.minecraft.forge.tpwa.abyss.time.TimeModElements;
+
+import java.util.stream.Stream;
+import java.util.Map;
+import java.util.List;
+import java.util.HashMap;
+import java.util.Collections;
+import java.util.AbstractMap;
+
+@TimeModElements.ModElement.Tag
+public class Fire4Block extends TimeModElements.ModElement {
+	@ObjectHolder("time:fire_4")
+	public static final Block block = null;
+
+	public Fire4Block(TimeModElements instance) {
+		super(instance, 463);
+	}
+
+	@Override
+	public void initElements() {
+		elements.blocks.add(() -> new CustomBlock());
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(TIMEItemGroup.tab)).setRegistryName(block.getRegistryName()));
+	}
+
+	@Override
+	@OnlyIn(Dist.CLIENT)
+	public void clientLoad(FMLClientSetupEvent event) {
+		RenderTypeLookup.setRenderLayer(block, RenderType.getCutout());
+	}
+
+	public static class CustomBlock extends Block {
+		public CustomBlock() {
+			super(Block.Properties.create(Material.FIRE).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
+					.doesNotBlockMovement().notSolid().setOpaque((bs, br, bp) -> false));
+			setRegistryName("fire_4");
+		}
+
+		@Override
+		public boolean propagatesSkylightDown(BlockState state, IBlockReader reader, BlockPos pos) {
+			return true;
+		}
+
+		@Override
+		public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
+			return 0;
+		}
+
+		@Override
+		public List<ItemStack> getDrops(BlockState state, LootContext.Builder builder) {
+			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
+			if (!dropsOriginal.isEmpty())
+				return dropsOriginal;
+			return Collections.singletonList(new ItemStack(Blocks.AIR));
+		}
+
+		@Override
+		public boolean removedByPlayer(BlockState blockstate, World world, BlockPos pos, PlayerEntity entity, boolean willHarvest, FluidState fluid) {
+			boolean retval = super.removedByPlayer(blockstate, world, pos, entity, willHarvest, fluid);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+
+			Fire4BlockDestroyedByPlayerProcedure.executeProcedure(Stream
+					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
+							new AbstractMap.SimpleEntry<>("z", z))
+					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
+			return retval;
+		}
+
+		@Override
+		public ActionResultType onBlockActivated(BlockState blockstate, World world, BlockPos pos, PlayerEntity entity, Hand hand,
+				BlockRayTraceResult hit) {
+			super.onBlockActivated(blockstate, world, pos, entity, hand, hit);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			double hitX = hit.getHitVec().x;
+			double hitY = hit.getHitVec().y;
+			double hitZ = hit.getHitVec().z;
+			Direction direction = hit.getFace();
+
+			Fire4OnBlockRightClickedProcedure.executeProcedure(Stream
+					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
+							new AbstractMap.SimpleEntry<>("z", z))
+					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
+			return ActionResultType.SUCCESS;
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/black_sand",
+    "up": "time:blocks/black_sand",
+    "north": "time:blocks/black_sand",
+    "east": "time:blocks/black_sand",
+    "south": "time:blocks/black_sand",
+    "west": "time:blocks/black_sand",
+    "particle": "time:blocks/black_sand"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.TORCH"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperTorch"
+    },
+    "name": "super_torch_r",
+    "namespace": "mod"
+  }
+}

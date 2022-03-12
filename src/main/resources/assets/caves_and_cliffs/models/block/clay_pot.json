@@ -1,0 +1,13 @@
+{
+  "parent": "caves_and_cliffs:custom/claypot",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/clay",
+    "particle": "caves_and_cliffs:blocks/clay",
+    "0": "caves_and_cliffs:blocks/clay",
+    "1": "caves_and_cliffs:blocks/front",
+    "2": "caves_and_cliffs:blocks/left",
+    "3": "caves_and_cliffs:blocks/right",
+    "4": "caves_and_cliffs:blocks/back",
+    "5": "caves_and_cliffs:blocks/bottom"
+  }
+}

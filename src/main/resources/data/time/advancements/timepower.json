@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:time_machine"
+    },
+    "title": {
+      "translate": "advancements.timepower.title"
+    },
+    "description": {
+      "translate": "advancements.timepower.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "timepower": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "time:geeitshot"
+}

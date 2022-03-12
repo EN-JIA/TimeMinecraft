@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "new_bloodstone_pickaxe",
+    "customModelName": "Normal",
+    "name": "BloodStone Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 9,
+    "efficiency": 19.0,
+    "attackSpeed": 1.0,
+    "enchantability": 98,
+    "damageVsEntity": 14.0,
+    "usageCount": 7899,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:BloodStoneGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

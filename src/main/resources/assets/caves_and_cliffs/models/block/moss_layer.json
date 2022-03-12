@@ -1,0 +1,8 @@
+{
+  "parent": "caves_and_cliffs:custom/goodiflooritem",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/moss_1_1",
+    "particle": "caves_and_cliffs:blocks/moss_1_1",
+    "0": "caves_and_cliffs:blocks/moss_1_1"
+  }
+}

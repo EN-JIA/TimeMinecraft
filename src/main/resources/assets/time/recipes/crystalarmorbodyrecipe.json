@@ -1,0 +1,39 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystalgem"
+    },
+    "2": {
+      "item": "time:crystalgem"
+    },
+    "3": {
+      "item": "time:crystalgem"
+    },
+    "4": {
+      "item": "time:crystalgem"
+    },
+    "5": {
+      "item": "time:crystalgem"
+    },
+    "6": {
+      "item": "time:crystalgem"
+    },
+    "7": {
+      "item": "time:crystalgem"
+    },
+    "8": {
+      "item": "time:crystalgem"
+    }
+  },
+  "result": {
+    "item": "time:crystalarmorbody",
+    "count": 1
+  }
+}

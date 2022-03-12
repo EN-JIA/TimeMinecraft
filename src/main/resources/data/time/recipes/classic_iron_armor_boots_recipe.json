@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_iron"
+    },
+    "2": {
+      "item": "time:classic_iron"
+    },
+    "3": {
+      "item": "time:classic_iron"
+    },
+    "5": {
+      "item": "time:classic_iron"
+    }
+  },
+  "result": {
+    "item": "time:classic_iron_armor_boots",
+    "count": 1
+  }
+}

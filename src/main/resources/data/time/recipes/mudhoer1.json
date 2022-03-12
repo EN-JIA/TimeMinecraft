@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:mud_ball"
+    },
+    "1": {
+      "item": "time:mud_ball"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:mud_hoe",
+    "count": 1
+  }
+}

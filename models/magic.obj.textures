@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cauldron_inner"
+      },
+      "name": "default"
+    }
+  }
+}

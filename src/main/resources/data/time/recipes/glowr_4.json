@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "time:glow_stone_brick"
+    },
+    "1": {
+      "item": "time:glow_stone_brick"
+    },
+    "2": {
+      "item": "time:glow_stone_brick"
+    },
+    "3": {
+      "item": "time:glow_stone_brick"
+    },
+    "4": {
+      "item": "time:glow_stone_brick"
+    },
+    "5": {
+      "item": "time:glow_stone_brick"
+    }
+  },
+  "result": {
+    "item": "time:glowstone_bricks_door",
+    "count": 3
+  }
+}

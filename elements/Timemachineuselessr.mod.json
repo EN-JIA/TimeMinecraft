@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Timegem"
+      },
+      {
+        "value": "CUSTOM:SpaceGem"
+      },
+      {
+        "value": "CUSTOM:DimensionGem"
+      },
+      {
+        "value": "CUSTOM:GlowingDiamond"
+      },
+      {
+        "value": "CUSTOM:ChaosCrystal"
+      },
+      {
+        "value": "CUSTOM:GlowingIronIngot"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UselessTimeMachine"
+    },
+    "name": "timemachineuselessr",
+    "namespace": "mod"
+  }
+}

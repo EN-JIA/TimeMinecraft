@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:deleted_mod_element"
+    }
+  ],
+  "result": {
+    "item": "time:blood_stone_gem",
+    "count": 9
+  }
+}

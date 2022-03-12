@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/hardbone_ore_block",
+    "particle": "time:blocks/hardbone_ore_block"
+  }
+}

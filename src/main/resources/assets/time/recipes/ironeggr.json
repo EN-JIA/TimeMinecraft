@@ -1,0 +1,19 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:bow"
+    }
+  ],
+  "result": {
+    "item": "time:ironegg",
+    "count": 1
+  }
+}

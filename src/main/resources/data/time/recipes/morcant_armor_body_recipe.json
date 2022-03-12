@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:morcant_gem"
+    },
+    "2": {
+      "item": "time:morcant_gem"
+    },
+    "3": {
+      "item": "time:morcant_gem"
+    },
+    "4": {
+      "item": "time:morcant_gem"
+    },
+    "5": {
+      "item": "time:morcant_gem"
+    },
+    "6": {
+      "item": "time:morcant_gem"
+    },
+    "7": {
+      "item": "time:morcant_gem"
+    },
+    "8": {
+      "item": "time:morcant_gem"
+    }
+  },
+  "result": {
+    "item": "time:morcant_armor_chestplate",
+    "count": 1
+  }
+}

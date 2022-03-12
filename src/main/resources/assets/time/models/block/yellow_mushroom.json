@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/yellowglow",
+    "up": "time:blocks/yellowglow",
+    "north": "time:blocks/yellowglow",
+    "east": "time:blocks/yellowglow",
+    "south": "time:blocks/yellowglow",
+    "west": "time:blocks/yellowglow",
+    "particle": "time:blocks/yellowglow"
+  }
+}

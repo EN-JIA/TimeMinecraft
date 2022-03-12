@@ -1,0 +1,86 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MCY100Planks"
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": "CUSTOM:Planks1"
+      },
+      {
+        "value": "CUSTOM:Planks2"
+      },
+      {
+        "value": "CUSTOM:Planks3"
+      },
+      {
+        "value": "CUSTOM:Planks5"
+      },
+      {
+        "value": "CUSTOM:Planks7"
+      },
+      {
+        "value": "CUSTOM:Planks8"
+      },
+      {
+        "value": "CUSTOM:Planks9"
+      },
+      {
+        "value": "CUSTOM:Planks10"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogPlanks"
+      },
+      {
+        "value": "CUSTOM:BambooLogPlanks"
+      },
+      {
+        "value": "CUSTOM:ClassicPlanks"
+      },
+      {
+        "value": "CUSTOM:CherryPlanks"
+      },
+      {
+        "value": "CUSTOM:DesertPlanks"
+      },
+      {
+        "value": "CUSTOM:MoonPlanks"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "Blocks.PLANKS#3"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      },
+      {
+        "value": "Blocks.CRIMSON_PLANKS"
+      },
+      {
+        "value": "Blocks.WARPED_PLANKS"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "plank_wood",
+    "namespace": "forge"
+  }
+}

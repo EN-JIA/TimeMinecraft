@@ -1,0 +1,9 @@
+{
+  "parent": "time:custom/statueriser",
+  "textures": {
+    "all": "time:blocks/statueriser",
+    "particle": "time:blocks/statueriser",
+    "1": "time:blocks/statueriser",
+    "missing": "time:blocks/statueriser"
+  }
+}

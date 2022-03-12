@@ -1,0 +1,51 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Why not black",
+    "achievementDescription": "Dig some whitediamond",
+    "achievementIcon": {
+      "value": "CUSTOM:WhitediamondGem"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "WhitediamondOreBlockRecipe",
+      "WhitediamondBlockOreRecipe",
+      "WhitediamondOreSmelting",
+      "WhitediamondPickaxeRecipe",
+      "WhitediamondAxeRecipe",
+      "WhitediamondSwordRecipe",
+      "WhitediamondShovelRecipe",
+      "WhitediamondHoeRecipe",
+      "WhitediamondArmorHelmetRecipe",
+      "WhitediamondArmorBodyRecipe",
+      "WhitediamondArmorLeggingsRecipe",
+      "WhitediamondArmorBootsRecipe",
+      "Whitediamondaxer2",
+      "Whitediamondaxer3",
+      "Whitediamondaxer4",
+      "Whitediamondshovelr2",
+      "Whitediamondshovelr3",
+      "Whitediamondhoer2",
+      "Whitediamondhoer3",
+      "Whitediamondhoer4",
+      "Whitediamondswordr2",
+      "Whitediamondswordr3",
+      "Whitediamondhr2",
+      "Whitediamondbootsr2",
+      "Netherrecr"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:Aworldanewjourney"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"42\" y=\"40\"><next><block type=\"advancement_trigger\" collapsed=\"true\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

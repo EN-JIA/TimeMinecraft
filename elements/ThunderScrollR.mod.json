@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Perafrium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Perafrium"
+      },
+      {
+        "value": "CUSTOM:ThunderScroll"
+      },
+      {
+        "value": "CUSTOM:Perafrium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.FIRE_CHARGE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ThunderScroll"
+    },
+    "name": "thunder_scroll_r",
+    "namespace": "mod"
+  }
+}

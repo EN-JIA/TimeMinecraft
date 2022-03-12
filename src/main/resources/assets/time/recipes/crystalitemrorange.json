@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:orangecrystal"
+    },
+    "1": {
+      "item": "time:orangecrystal"
+    },
+    "2": {
+      "item": "time:orangecrystal"
+    },
+    "3": {
+      "item": "time:orangecrystal"
+    },
+    "4": {
+      "item": "time:orangecrystal"
+    },
+    "5": {
+      "item": "time:orangecrystal"
+    },
+    "6": {
+      "item": "time:orangecrystal"
+    },
+    "7": {
+      "item": "time:orangecrystal"
+    },
+    "8": {
+      "item": "time:orangecrystal"
+    }
+  },
+  "result": {
+    "item": "time:crystalitemorange",
+    "count": 1
+  }
+}

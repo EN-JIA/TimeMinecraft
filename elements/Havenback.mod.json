@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "its_time_to_go_back",
+    "permissionLevel": "2",
+    "onCommandExecuted": {
+      "name": "HavenbackCommandExecuted"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:elements_heart"
+    },
+    {
+      "item": "time:timegem"
+    },
+    {
+      "item": "time:compress_gold_block"
+    },
+    {
+      "item": "time:dimension_gem"
+    },
+    {
+      "item": "time:space_gem"
+    },
+    {
+      "item": "time:compress_gold_block"
+    },
+    {
+      "item": "time:compress_gold_block"
+    },
+    {
+      "item": "time:compress_gold_block"
+    },
+    {
+      "item": "time:compress_gold_block"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_102400",
+    "count": 1
+  }
+}

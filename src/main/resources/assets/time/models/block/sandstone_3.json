@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/polished_desolate_sandstone",
+    "up": "time:blocks/polished_desolate_sandstone",
+    "north": "time:blocks/polished_desolate_sandstone",
+    "east": "time:blocks/polished_desolate_sandstone",
+    "south": "time:blocks/polished_desolate_sandstone",
+    "west": "time:blocks/polished_desolate_sandstone",
+    "particle": "time:blocks/polished_desolate_sandstone"
+  }
+}

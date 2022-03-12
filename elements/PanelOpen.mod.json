@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F9",
+    "keyBindingName": "Open Mod Panel",
+    "keyBindingCategoryKey": "ui",
+    "onKeyPressed": {
+      "name": "PanelOpenAnXiaAnJianShi"
+    }
+  }
+}

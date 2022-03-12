@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/originallava",
+    "up": "time:blocks/originallava",
+    "north": "time:blocks/originallava",
+    "east": "time:blocks/originallava",
+    "south": "time:blocks/originallava",
+    "west": "time:blocks/originallava",
+    "particle": "time:blocks/originallava"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "exp.png",
+          "use1Xscale": false,
+          "name": "exp.png",
+          "x": 149,
+          "y": 49
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Dream Challenge",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Dream Challenge",
+          "x": 144,
+          "y": 60
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Start Challenge!",
+          "onClick": {
+            "name": "ButtonPortal"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Start Challenge!",
+          "x": 188,
+          "y": 168
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Warning! Under construction",
+          "color": {
+            "value": -6750208,
+            "falpha": 0.0
+          },
+          "name": "Warning! Under construction",
+          "x": 151,
+          "y": 98
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

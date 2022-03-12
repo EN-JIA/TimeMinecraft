@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:sprluckynew"
+    },
+    "1": {
+      "item": "time:sprluckynew"
+    },
+    "2": {
+      "item": "time:sprluckynew"
+    },
+    "3": {
+      "item": "time:sprluckynew"
+    },
+    "4": {
+      "item": "time:sprluckynew"
+    },
+    "5": {
+      "item": "time:sprluckynew"
+    },
+    "6": {
+      "item": "time:sprluckynew"
+    },
+    "7": {
+      "item": "time:sprluckynew"
+    },
+    "8": {
+      "item": "time:sprluckynew"
+    }
+  },
+  "result": {
+    "item": "time:lucky_glass",
+    "count": 1
+  }
+}

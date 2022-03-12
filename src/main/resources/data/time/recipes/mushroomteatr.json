@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:tea_cup"
+    },
+    {
+      "item": "time:magic_mushroom"
+    },
+    {
+      "item": "time:magic_mushroom"
+    },
+    {
+      "item": "time:magic_mushroom"
+    }
+  ],
+  "result": {
+    "item": "time:mushroom_tea",
+    "count": 1
+  }
+}

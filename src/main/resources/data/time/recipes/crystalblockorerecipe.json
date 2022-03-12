@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:crystal_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:crystal_gem",
+    "count": 9
+  }
+}

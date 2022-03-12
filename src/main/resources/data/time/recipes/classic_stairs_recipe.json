@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_planks"
+    },
+    "3": {
+      "item": "time:classic_planks"
+    },
+    "4": {
+      "item": "time:classic_planks"
+    },
+    "6": {
+      "item": "time:classic_planks"
+    },
+    "7": {
+      "item": "time:classic_planks"
+    },
+    "8": {
+      "item": "time:classic_planks"
+    }
+  },
+  "result": {
+    "item": "time:classic_stairs",
+    "count": 4
+  }
+}

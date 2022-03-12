@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Timegem"
+      },
+      {
+        "value": "CUSTOM:FireStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpaceGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DimensionGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MCY0"
+    },
+    "name": "mcy_0ripce",
+    "namespace": "mod"
+  }
+}

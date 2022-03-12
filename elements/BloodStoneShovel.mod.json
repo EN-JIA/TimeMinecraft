@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bloodstoneshovel",
+    "customModelName": "Normal",
+    "name": "BloodStone Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 14,
+    "efficiency": 19.0,
+    "attackSpeed": 1.0,
+    "enchantability": 98,
+    "damageVsEntity": 14.0,
+    "usageCount": 3811,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

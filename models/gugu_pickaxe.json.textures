@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gugu_sword"
+      },
+      "name": "default"
+    }
+  }
+}

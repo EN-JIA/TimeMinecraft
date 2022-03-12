@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:mcy_100leaves"
+    },
+    "title": {
+      "translate": "advancements.longlongago.title"
+    },
+    "description": {
+      "translate": "advancements.longlongago.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "longlongago": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10,
+    "recipes": [
+      "time:aquamarineoreblockrecipe",
+      "time:aquamarineblockorerecipe",
+      "time:aquamarineoresmelting",
+      "time:aquamarinepickaxerecipe",
+      "time:aquamarineaxerecipe",
+      "time:aquamarineswordrecipe",
+      "time:aquamarineshovelrecipe",
+      "time:aquamarinehoerecipe",
+      "time:aquamarinearmorhelmetrecipe",
+      "time:aquamarinearmorbodyrecipe",
+      "time:aquamarinearmorleggingsrecipe",
+      "time:aquamarinearmorbootsrecipe",
+      "time:aquamarinepickaxer2",
+      "time:aquamarineaxe3",
+      "time:aquamariner4",
+      "time:aquamarineswordr2",
+      "time:aquamarineswordr3",
+      "time:aquamarineshovele2",
+      "time:aquamarinehoer2",
+      "time:aquamarinehoer3",
+      "time:aquamarinehoer4",
+      "time:mcy100coalores",
+      "time:mcy100emeraldores",
+      "time:riseruneripice"
+    ]
+  },
+  "parent": "time:timepower"
+}

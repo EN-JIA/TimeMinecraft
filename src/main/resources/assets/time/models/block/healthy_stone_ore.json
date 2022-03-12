@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/healthy_stone_ore_mcy100",
+    "up": "time:blocks/healthy_stone_ore_mcy100",
+    "north": "time:blocks/healthy_stone_ore_mcy100",
+    "east": "time:blocks/healthy_stone_ore_mcy100",
+    "south": "time:blocks/healthy_stone_ore_mcy100",
+    "west": "time:blocks/healthy_stone_ore_mcy100",
+    "particle": "time:blocks/healthy_stone_ore_mcy100"
+  }
+}

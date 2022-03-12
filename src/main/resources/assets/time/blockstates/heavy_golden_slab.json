@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/heavy_golden_slab"
+    },
+    "type=top": {
+      "model": "time:block/heavy_golden_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/heavy_golden_slab_full"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "time:custom/greathammer",
+  "textures": {
+    "0": "time:blocks/great_hammer",
+    "particle": "time:items/great_hammer"
+  }
+}

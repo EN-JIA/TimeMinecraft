@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "whitediamond1",
+    "enableBody": true,
+    "textureBody": "whitediamond2",
+    "enableLeggings": true,
+    "textureLeggings": "whitediamond3",
+    "enableBoots": true,
+    "textureBoots": "whitediamond4",
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "armorTextureFile": "tim_",
+    "helmetName": "Whitediamond Helmet",
+    "bodyName": "Whitediamond Chestplate",
+    "leggingsName": "Whitediamond Leggings",
+    "bootsName": "Whitediamond Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 26,
+    "damageValueHelmet": 5,
+    "damageValueBody": 11,
+    "damageValueLeggings": 12,
+    "damageValueBoots": 5,
+    "enchantability": 14,
+    "toughness": 2.3,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:WhitediamondGem"
+      }
+    ]
+  }
+}

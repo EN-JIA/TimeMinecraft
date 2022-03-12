@@ -1,0 +1,9 @@
+{
+  "parent": "time:custom/string",
+  "textures": {
+    "all": "time:blocks/springtop",
+    "particle": "time:blocks/springtop",
+    "0": "time:blocks/springtop",
+    "missing": "time:blocks/springtop"
+  }
+}

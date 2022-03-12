@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:magic_sugercane"
+    }
+  ],
+  "result": {
+    "item": "time:magic_paper",
+    "count": 1
+  }
+}

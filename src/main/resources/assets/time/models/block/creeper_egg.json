@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/creeper_egg",
+    "up": "time:blocks/creeper_egg",
+    "north": "time:blocks/creeper_egg",
+    "east": "time:blocks/creeper_egg",
+    "south": "time:blocks/creeper_egg",
+    "west": "time:blocks/creeper_egg",
+    "particle": "time:blocks/creeper_egg"
+  }
+}

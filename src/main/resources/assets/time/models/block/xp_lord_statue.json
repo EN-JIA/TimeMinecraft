@@ -1,0 +1,8 @@
+{
+  "parent": "time:custom/finalxplordblock",
+  "textures": {
+    "all": "time:blocks/riginal_inecraft_skin_teve",
+    "particle": "time:blocks/riginal_inecraft_skin_teve",
+    "0": "time:blocks/riginal_inecraft_skin_teve"
+  }
+}

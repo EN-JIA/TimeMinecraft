@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/blue_sandstone_bottom",
+    "up": "time:blocks/blue_sandstone_top",
+    "north": "time:blocks/blue_cut_sandstone",
+    "east": "time:blocks/blue_cut_sandstone",
+    "south": "time:blocks/blue_cut_sandstone",
+    "west": "time:blocks/blue_cut_sandstone",
+    "particle": "time:blocks/blue_sandstone_bottom"
+  }
+}

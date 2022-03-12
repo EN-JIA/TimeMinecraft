@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "time:ancient_glowstone"
+    },
+    "3": {
+      "item": "time:ancient_glowstone"
+    },
+    "4": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "5": {
+      "item": "time:ancient_glowstone"
+    },
+    "7": {
+      "item": "time:ancient_glowstone"
+    }
+  },
+  "result": {
+    "item": "time:eternal_redstone_lamp",
+    "count": 1
+  }
+}

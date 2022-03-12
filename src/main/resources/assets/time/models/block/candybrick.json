@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/saturn_stone_bricks",
+    "up": "time:blocks/saturn_stone_bricks",
+    "north": "time:blocks/saturn_stone_bricks",
+    "east": "time:blocks/saturn_stone_bricks",
+    "south": "time:blocks/saturn_stone_bricks",
+    "west": "time:blocks/saturn_stone_bricks",
+    "particle": "time:blocks/saturn_stone_bricks"
+  }
+}

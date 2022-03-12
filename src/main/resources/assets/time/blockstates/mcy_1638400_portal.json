@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "time:block/mcy_1638400_portal_ew"
+    },
+    "axis=x": {
+      "model": "time:block/mcy_1638400_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/asha_hypheria_log_top",
+    "up": "time:blocks/asha_hypheria_log_top",
+    "north": "time:blocks/asha_hypheria_log",
+    "east": "time:blocks/asha_hypheria_log",
+    "south": "time:blocks/asha_hypheria_log",
+    "west": "time:blocks/asha_hypheria_log",
+    "particle": "time:blocks/asha_hypheria_log_top"
+  }
+}

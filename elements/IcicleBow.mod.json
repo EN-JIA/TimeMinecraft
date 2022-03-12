@@ -1,0 +1,40 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "iciclebow",
+    "customModelName": "Normal",
+    "name": "Icicle Bow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.ARROW"
+    },
+    "shootConstantly": true,
+    "usageCount": 768,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 0.9,
+    "bulletDamage": 8.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Snowflake"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "IcicleBowBulletHitsLivingEntity"
+    }
+  }
+}

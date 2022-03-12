@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:dream_leaves"
+    },
+    "1": {
+      "item": "time:dream_leaves"
+    },
+    "2": {
+      "item": "time:dream_leaves"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:dream_leaves_axe",
+    "count": 1
+  }
+}

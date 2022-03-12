@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/prairie_sage",
+    "particle": "time:blocks/prairie_sage"
+  }
+}

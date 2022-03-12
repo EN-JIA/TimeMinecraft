@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MCY100EmeraldOre"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.EMERALD"
+    },
+    "name": "mcy100emeraldores",
+    "namespace": "mod"
+  }
+}

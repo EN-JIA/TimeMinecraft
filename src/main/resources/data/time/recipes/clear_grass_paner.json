@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:clear_glass"
+    },
+    {
+      "item": "time:clear_glass"
+    },
+    {
+      "item": "time:clear_glass"
+    },
+    {
+      "item": "time:clear_glass"
+    },
+    {
+      "item": "time:clear_glass"
+    },
+    {
+      "item": "time:clear_glass"
+    }
+  ],
+  "result": {
+    "item": "time:clear_glass_pane",
+    "count": 16
+  }
+}

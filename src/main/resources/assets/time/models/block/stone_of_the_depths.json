@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/stoneofdepths",
+    "up": "time:blocks/stoneofdepths",
+    "north": "time:blocks/stoneofdepths",
+    "east": "time:blocks/stoneofdepths",
+    "south": "time:blocks/stoneofdepths",
+    "west": "time:blocks/stoneofdepths",
+    "particle": "time:blocks/stoneofdepths"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mcy_100_planks"
+    },
+    "1": {
+      "item": "time:mcy_100_planks"
+    },
+    "2": {
+      "item": "time:mcy_100_planks"
+    },
+    "3": {
+      "item": "minecraft:book"
+    },
+    "4": {
+      "item": "minecraft:book"
+    },
+    "5": {
+      "item": "minecraft:book"
+    },
+    "6": {
+      "item": "time:mcy_100_planks"
+    },
+    "7": {
+      "item": "time:mcy_100_planks"
+    },
+    "8": {
+      "item": "time:mcy_100_planks"
+    }
+  },
+  "result": {
+    "item": "time:teak_bookshelf",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/phantomwoodtop",
+    "up": "time:blocks/phantomwoodtop",
+    "north": "time:blocks/phantomwppdside",
+    "east": "time:blocks/phantomwppdside",
+    "south": "time:blocks/phantomwppdside",
+    "west": "time:blocks/phantomwppdside",
+    "particle": "time:blocks/phantomwoodtop"
+  }
+}

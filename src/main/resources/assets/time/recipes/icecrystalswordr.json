@@ -1,0 +1,30 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "time:bigsnow"
+    },
+    "3": {
+      "item": "time:bigsnow"
+    },
+    "4": {
+      "item": "time:crystalsword"
+    },
+    "5": {
+      "item": "time:bigsnow"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:icecrystalssword",
+    "count": 1
+  }
+}

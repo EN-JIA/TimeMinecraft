@@ -1,0 +1,43 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:witherbone"
+    },
+    "1": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "2": {
+      "item": "time:witherbone"
+    },
+    "3": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "4": {
+      "item": "minecraft:soul_sand"
+    },
+    "5": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "6": {
+      "item": "time:witherbone"
+    },
+    "7": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "8": {
+      "item": "time:witherbone"
+    }
+  },
+  "result": {
+    "item": "minecraft:skull",
+    "data": 1,
+    "count": 1
+  }
+}

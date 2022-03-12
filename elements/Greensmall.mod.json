@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "smallgrennmushroom",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:MCY1600"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:MCY1600Grass"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:MCY1600Plains"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

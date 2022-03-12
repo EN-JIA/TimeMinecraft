@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherrackaxe",
+    "customModelName": "Normal",
+    "name": "Netherrack Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 6.0,
+    "usageCount": 152,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.NETHERRACK"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

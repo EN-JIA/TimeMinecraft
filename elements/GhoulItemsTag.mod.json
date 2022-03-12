@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GhoulWood"
+      },
+      {
+        "value": "CUSTOM:GhoulLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ghoul_log",
+    "namespace": "forge"
+  }
+}

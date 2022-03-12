@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:healthy_stone_shard"
+    },
+    "1": {
+      "item": "time:healthy_stone_shard"
+    },
+    "2": {
+      "item": "time:healthy_stone_shard"
+    },
+    "3": {
+      "item": "time:healthy_stone_shard"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "time:healthy_stone_shard"
+    },
+    "6": {
+      "item": "time:healthy_stone_shard"
+    },
+    "7": {
+      "item": "time:healthy_stone_shard"
+    },
+    "8": {
+      "item": "time:healthy_stone_shard"
+    }
+  },
+  "result": {
+    "item": "time:healthy_stone",
+    "count": 1
+  }
+}

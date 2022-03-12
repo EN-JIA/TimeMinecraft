@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:timegem"
+    },
+    "title": {
+      "translate": "advancements.wowamazing.title"
+    },
+    "description": {
+      "translate": "advancements.wowamazing.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wowamazing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "time:glowingingotr",
+      "time:glowingobsf",
+      "time:altarburningr",
+      "time:timemachineuselessr"
+    ]
+  },
+  "parent": "time:betterthandiamonds"
+}

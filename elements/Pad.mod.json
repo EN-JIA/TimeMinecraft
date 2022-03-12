@@ -1,0 +1,74 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Mod Panel",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Mod Panel",
+          "x": 190,
+          "y": 46
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Language",
+          "onClick": {
+            "name": "LanguagePadOpen"
+          },
+          "width": 65,
+          "height": 20,
+          "name": "Language",
+          "x": 181,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Credits",
+          "width": 60,
+          "height": 20,
+          "name": "Credits",
+          "x": 183,
+          "y": 107
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Check For Update",
+          "onClick": {
+            "name": "UpdateCheak"
+          },
+          "width": 105,
+          "height": 20,
+          "name": "Check For Update",
+          "x": 163,
+          "y": 134
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

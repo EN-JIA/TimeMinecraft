@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mcy400wood",
+    "up": "time:blocks/mcy400wood",
+    "north": "time:blocks/mcy400wood2",
+    "east": "time:blocks/mcy400wood2",
+    "south": "time:blocks/mcy400wood2",
+    "west": "time:blocks/mcy400wood2",
+    "particle": "time:blocks/mcy400wood"
+  }
+}

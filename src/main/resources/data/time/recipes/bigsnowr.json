@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:snowflake"
+    },
+    {
+      "item": "time:snowflake"
+    },
+    {
+      "item": "time:snowflake"
+    },
+    {
+      "item": "time:snowflake"
+    }
+  ],
+  "result": {
+    "item": "time:big_snow",
+    "count": 1
+  }
+}

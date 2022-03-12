@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:mcy_400_ground_portal"
+    },
+    "title": {
+      "translate": "advancements.eternal_frost.title"
+    },
+    "description": {
+      "translate": "advancements.eternal_frost.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eternal_frost": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:aworldoficeandsnow"
+}

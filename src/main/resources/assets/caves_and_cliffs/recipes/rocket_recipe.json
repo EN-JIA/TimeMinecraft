@@ -1,0 +1,16 @@
+{
+  "group": "rocket",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "result": {
+    "item": "minecraft:fireworks",
+    "count": 3
+  }
+}

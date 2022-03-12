@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "time:block/useless_time_machine"
+    }
+  }
+}

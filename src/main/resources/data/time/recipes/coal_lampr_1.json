@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "time:mcy_400_planks"
+    },
+    "3": {
+      "item": "time:mcy_400_planks"
+    },
+    "4": {
+      "item": "time:frozen_coalfuel"
+    },
+    "5": {
+      "item": "time:mcy_400_planks"
+    },
+    "7": {
+      "item": "time:mcy_400_planks"
+    }
+  },
+  "result": {
+    "item": "time:frozen_coal_lamp",
+    "count": 1
+  }
+}

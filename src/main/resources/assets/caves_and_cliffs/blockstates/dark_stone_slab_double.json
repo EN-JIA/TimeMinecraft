@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "caves_and_cliffs:dark_stone_slab_double"
+    }
+  }
+}

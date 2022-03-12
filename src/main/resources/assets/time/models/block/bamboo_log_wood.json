@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/bamboo_stalk_side",
+    "particle": "time:blocks/bamboo_stalk_side"
+  }
+}

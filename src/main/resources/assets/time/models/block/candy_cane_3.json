@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/candy_cane_blue_horizontal",
+    "up": "time:blocks/candy_cane_blue_horizontal",
+    "north": "time:blocks/candy_cane_blue_horizontal",
+    "east": "time:blocks/candy_cane_blue_horizontal",
+    "south": "time:blocks/candy_cane_blue_horizontal",
+    "west": "time:blocks/candy_cane_blue_horizontal",
+    "particle": "time:blocks/candy_cane_blue_horizontal"
+  }
+}

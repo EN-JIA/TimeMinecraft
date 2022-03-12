@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/bamboo_stalk_top1",
+    "up": "time:blocks/bamboo_stalk_top1",
+    "north": "time:blocks/bamboo_stalk_side",
+    "east": "time:blocks/bamboo_stalk_side",
+    "south": "time:blocks/bamboo_stalk_side",
+    "west": "time:blocks/bamboo_stalk_side",
+    "particle": "time:blocks/bamboo_stalk_top1"
+  }
+}

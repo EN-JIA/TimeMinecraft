@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:desert_planks"
+    },
+    "3": {
+      "item": "time:desert_planks"
+    },
+    "4": {
+      "item": "time:desert_planks"
+    },
+    "6": {
+      "item": "time:desert_planks"
+    },
+    "7": {
+      "item": "time:desert_planks"
+    },
+    "8": {
+      "item": "time:desert_planks"
+    }
+  },
+  "result": {
+    "item": "time:desert_stairs",
+    "count": 4
+  }
+}

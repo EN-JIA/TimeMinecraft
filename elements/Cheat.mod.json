@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 128,
+    "height": 85,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "",
+          "width": 120,
+          "height": 20,
+          "name": "Cheat_code",
+          "x": 153,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Enter cheat code:",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Enter cheat code:",
+          "x": 168,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Finish",
+          "onClick": {
+            "name": "CheatCiGUIKaiQiShi"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Finish",
+          "x": 185,
+          "y": 130
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

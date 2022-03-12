@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "time:morcant_gem"
+    },
+    "1": {
+      "item": "time:morcant_gem"
+    },
+    "2": {
+      "item": "time:morcant_gem"
+    },
+    "3": {
+      "item": "time:morcant_gem"
+    },
+    "5": {
+      "item": "time:morcant_gem"
+    },
+    "6": {
+      "item": "time:morcant_gem"
+    },
+    "8": {
+      "item": "time:morcant_gem"
+    }
+  },
+  "result": {
+    "item": "time:morcant_armor_leggings",
+    "count": 1
+  }
+}

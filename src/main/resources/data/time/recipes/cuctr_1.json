@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "4": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "5": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "6": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "7": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "8": {
+      "item": "time:huge_cuctur_planks"
+    }
+  },
+  "result": {
+    "item": "time:huge_cuctur_stairs",
+    "count": 6
+  }
+}

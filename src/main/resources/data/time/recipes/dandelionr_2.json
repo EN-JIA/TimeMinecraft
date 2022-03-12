@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:tea_cup"
+    },
+    {
+      "item": "time:ginger_item"
+    },
+    {
+      "item": "time:ginger_item"
+    },
+    {
+      "item": "time:ginger_item"
+    }
+  ],
+  "result": {
+    "item": "time:ginger_tea",
+    "count": 1
+  }
+}

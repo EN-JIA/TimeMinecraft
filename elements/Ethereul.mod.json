@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:GhostBoime"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.AIR"
+    },
+    "fluidBlock": {
+      "value": "Blocks.AIR"
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.BEDROCK"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:Leavesfall100"
+    },
+    "portalLuminance": 5,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Ethereul Portal Igniter",
+    "igniterTab": {
+      "value": "No creative tab entry"
+    },
+    "texture": "dev",
+    "portalTexture": "airportal",
+    "enablePortal": true
+  }
+}

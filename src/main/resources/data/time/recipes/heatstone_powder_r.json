@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:heatstone_powder"
+    },
+    {
+      "item": "time:heatstone_powder"
+    },
+    {
+      "item": "time:heatstone_powder"
+    },
+    {
+      "item": "time:heatstone_powder"
+    }
+  ],
+  "result": {
+    "item": "time:heatstone",
+    "count": 2
+  }
+}

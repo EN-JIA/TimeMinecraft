@@ -1,0 +1,24 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "1": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "2": {
+      "item": "caves_and_cliffs:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:lightning_rod",
+    "count": 1
+  }
+}

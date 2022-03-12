@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ghoul_log"
+    }
+  ],
+  "result": {
+    "item": "time:ghoul_planks",
+    "count": 4
+  }
+}

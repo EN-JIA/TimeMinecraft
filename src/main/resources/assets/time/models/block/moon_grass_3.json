@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/mcy_1600_bulb_flower",
+    "particle": "time:blocks/mcy_1600_bulb_flower"
+  }
+}

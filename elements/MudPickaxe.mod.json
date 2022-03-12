@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mudpickaxe",
+    "customModelName": "Normal",
+    "name": "Mud Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 0.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MudBall"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

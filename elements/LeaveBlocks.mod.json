@@ -1,0 +1,77 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Mcy100leaves"
+      },
+      {
+        "value": "CUSTOM:Minecraftyears100leaves"
+      },
+      {
+        "value": "CUSTOM:ChocolateLeaves"
+      },
+      {
+        "value": "CUSTOM:MCY400Leaves"
+      },
+      {
+        "value": "CUSTOM:BambooLeaves"
+      },
+      {
+        "value": "CUSTOM:MagicLeaves"
+      },
+      {
+        "value": "CUSTOM:MagicLeaves2"
+      },
+      {
+        "value": "CUSTOM:MagicLeaves3"
+      },
+      {
+        "value": "CUSTOM:Betaleaves"
+      },
+      {
+        "value": "CUSTOM:PhantomLeaves"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogLeaves"
+      },
+      {
+        "value": "CUSTOM:CherryLeaves"
+      },
+      {
+        "value": "CUSTOM:CherryLeaves2"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES#0"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

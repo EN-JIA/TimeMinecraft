@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:white_crystal"
+    },
+    "1": {
+      "item": "time:white_crystal"
+    },
+    "2": {
+      "item": "time:white_crystal"
+    },
+    "3": {
+      "item": "time:white_crystal"
+    },
+    "4": {
+      "item": "time:white_crystal"
+    },
+    "5": {
+      "item": "time:white_crystal"
+    },
+    "6": {
+      "item": "time:white_crystal"
+    },
+    "7": {
+      "item": "time:white_crystal"
+    },
+    "8": {
+      "item": "time:white_crystal"
+    }
+  },
+  "result": {
+    "item": "time:crystal_item_white",
+    "count": 1
+  }
+}

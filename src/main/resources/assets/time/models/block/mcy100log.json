@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/teaklogtop",
+    "up": "time:blocks/teaklogtop",
+    "north": "time:blocks/teaklogside",
+    "east": "time:blocks/teaklogside",
+    "south": "time:blocks/teaklogside",
+    "west": "time:blocks/teaklogside",
+    "particle": "time:blocks/teaklogtop"
+  }
+}

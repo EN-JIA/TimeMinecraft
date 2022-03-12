@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/leavesmagic3",
+    "up": "time:blocks/leavesmagic3",
+    "north": "time:blocks/leavesmagic3",
+    "east": "time:blocks/leavesmagic3",
+    "south": "time:blocks/leavesmagic3",
+    "west": "time:blocks/leavesmagic3",
+    "particle": "time:blocks/leavesmagic3"
+  }
+}

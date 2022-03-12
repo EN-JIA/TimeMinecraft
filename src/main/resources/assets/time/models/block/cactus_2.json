@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/cactus",
+    "particle": "time:blocks/cactus"
+  }
+}

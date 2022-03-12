@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "time:perafrium"
+    },
+    "3": {
+      "item": "time:perafrium"
+    },
+    "4": {
+      "item": "time:magic_paper"
+    },
+    "5": {
+      "item": "time:perafrium"
+    },
+    "7": {
+      "item": "time:perafrium"
+    }
+  },
+  "result": {
+    "item": "time:scroll",
+    "count": 1
+  }
+}

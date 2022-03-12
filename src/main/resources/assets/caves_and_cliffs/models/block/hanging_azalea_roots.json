@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caves_and_cliffs:blocks/hanging_azalea_roots",
+    "particle": "caves_and_cliffs:blocks/hanging_azalea_roots"
+  }
+}

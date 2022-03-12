@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/w400planks",
+    "up": "time:blocks/w400planks",
+    "north": "time:blocks/icebookshelf",
+    "east": "time:blocks/icebookshelf",
+    "south": "time:blocks/icebookshelf",
+    "west": "time:blocks/icebookshelf",
+    "particle": "time:blocks/w400planks"
+  }
+}

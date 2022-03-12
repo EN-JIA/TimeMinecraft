@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "time:blocks/glass",
+    "particle": "time:blocks/glass"
+  }
+}

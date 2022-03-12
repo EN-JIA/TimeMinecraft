@@ -1,0 +1,228 @@
+{
+  "type": "time:mcy_100",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 0,
+      "temperature_noise": {
+        "firstOctave": -7.84,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -7.84,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "altitude_noise": {
+        "firstOctave": -7.84,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -7.84,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "time:a_100tree_1",
+          "parameters": {
+            "temperature": 1,
+            "humidity": -1,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:ancient_forest_small",
+          "parameters": {
+            "temperature": 0.846153846154,
+            "humidity": -0.846153846154,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:ancient_rain_forest",
+          "parameters": {
+            "temperature": 0.692307692308,
+            "humidity": -0.692307692308,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mcy_100mountain",
+          "parameters": {
+            "temperature": 0.538461538462,
+            "humidity": -0.538461538462,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mcy_100_plains",
+          "parameters": {
+            "temperature": 0.384615384616,
+            "humidity": -0.384615384616,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:stone_mountain",
+          "parameters": {
+            "temperature": 0.23076923077,
+            "humidity": -0.23076923077,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:wind_forest",
+          "parameters": {
+            "temperature": 0.076923076924,
+            "humidity": -0.076923076924,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:wind_forest_2",
+          "parameters": {
+            "temperature": -0.076923076924,
+            "humidity": 0.076923076924,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:sakura_forest",
+          "parameters": {
+            "temperature": -0.23076923077,
+            "humidity": 0.23076923077,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:sukura_plains",
+          "parameters": {
+            "temperature": -0.384615384616,
+            "humidity": 0.384615384616,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mc_ynew_desert",
+          "parameters": {
+            "temperature": -0.538461538462,
+            "humidity": 0.538461538462,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:minecraft_100_new_desert_2",
+          "parameters": {
+            "temperature": -0.692307692308,
+            "humidity": 0.692307692308,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:minecraft_100_new_desert_3",
+          "parameters": {
+            "temperature": -0.846153846154,
+            "humidity": 0.846153846154,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:rune_land",
+          "parameters": {
+            "temperature": -1,
+            "humidity": 1,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        }
+      ]
+    },
+    "settings": {
+      "name": "time:mcy_100",
+      "bedrock_roof_position": -10,
+      "bedrock_floor_position": 0,
+      "sea_level": 63,
+      "disable_mob_generation": false,
+      "default_block": {
+        "Name": "time:minecraftyears_100stone"
+      },
+      "default_fluid": {
+        "Name": "time:minecraftyears_100_water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      "noise": {
+        "min_y": 0,
+        "height": 256,
+        "density_factor": 1,
+        "density_offset": -0.46875,
+        "size_horizontal": 1,
+        "size_vertical": 2,
+        "simplex_surface_noise": true,
+        "random_density_offset": true,
+        "island_noise_override": false,
+        "amplified": false,
+        "sampling": {
+          "xz_scale": 1,
+          "y_scale": 1,
+          "xz_factor": 80,
+          "y_factor": 160
+        },
+        "bottom_slide": {
+          "target": -30,
+          "size": 0,
+          "offset": 0
+        },
+        "top_slide": {
+          "target": -10,
+          "size": 3,
+          "offset": 0
+        }
+      },
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

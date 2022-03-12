@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "time:blocks/sbleaves",
+    "particle": "time:blocks/sbleaves"
+  }
+}

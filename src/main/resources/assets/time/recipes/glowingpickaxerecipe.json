@@ -1,0 +1,30 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:glowingironingot"
+    },
+    "1": {
+      "item": "time:glowingironingot"
+    },
+    "2": {
+      "item": "time:glowingironingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:glowingpickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "time:block/compress_gold_block"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MCY100Planks"
+      },
+      {
+        "value": "CUSTOM:MCY400Planks"
+      },
+      {
+        "value": "CUSTOM:MoonWarpPlanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
+      },
+      {
+        "value": "CUSTOM:GhoulPlanks"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "plankswood",
+    "namespace": "forge"
+  }
+}

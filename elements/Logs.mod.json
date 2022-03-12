@@ -1,0 +1,68 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MinecraftYears100Log"
+      },
+      {
+        "value": "CUSTOM:MCY100Log"
+      },
+      {
+        "value": "CUSTOM:Mcy400log"
+      },
+      {
+        "value": "CUSTOM:Mushroomlog"
+      },
+      {
+        "value": "CUSTOM:PhantomLog"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogLog"
+      },
+      {
+        "value": "CUSTOM:BambooLog"
+      },
+      {
+        "value": "CUSTOM:MagicLog"
+      },
+      {
+        "value": "CUSTOM:ClassicLog"
+      },
+      {
+        "value": "CUSTOM:WaffleStick"
+      },
+      {
+        "value": "CUSTOM:CherryLog"
+      },
+      {
+        "value": "CUSTOM:ClassicLog"
+      },
+      {
+        "value": "CUSTOM:HellWood"
+      },
+      {
+        "value": "CUSTOM:HellLog"
+      },
+      {
+        "value": "CUSTOM:DesertLog"
+      },
+      {
+        "value": "CUSTOM:MoonWarpLog"
+      },
+      {
+        "value": "CUSTOM:SakuraLog"
+      },
+      {
+        "value": "CUSTOM:GhoulLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

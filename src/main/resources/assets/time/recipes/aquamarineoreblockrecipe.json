@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:aquamarinegem"
+    },
+    "1": {
+      "item": "time:aquamarinegem"
+    },
+    "2": {
+      "item": "time:aquamarinegem"
+    },
+    "3": {
+      "item": "time:aquamarinegem"
+    },
+    "4": {
+      "item": "time:aquamarinegem"
+    },
+    "5": {
+      "item": "time:aquamarinegem"
+    },
+    "6": {
+      "item": "time:aquamarinegem"
+    },
+    "7": {
+      "item": "time:aquamarinegem"
+    },
+    "8": {
+      "item": "time:aquamarinegem"
+    }
+  },
+  "result": {
+    "item": "time:aquamarineoreblock",
+    "count": 1
+  }
+}

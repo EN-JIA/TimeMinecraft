@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caves_and_cliffs:block/copper_slab_stage_3"
+    },
+    "type=top": {
+      "model": "caves_and_cliffs:block/copper_slab_stage_3_top"
+    },
+    "type=double": {
+      "model": "caves_and_cliffs:block/copper_slab_stage_3_full"
+    }
+  }
+}

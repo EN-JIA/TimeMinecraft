@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "time:blocks/hyper_golden_block",
+    "top": "time:blocks/top1w2"
+  }
+}

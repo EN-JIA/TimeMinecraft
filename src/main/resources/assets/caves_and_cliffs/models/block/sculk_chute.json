@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs:blocks/sculktrap_1_1_1",
+    "up": "caves_and_cliffs:blocks/sculk_block_1_1",
+    "north": "caves_and_cliffs:blocks/sculk_chute_3_1",
+    "east": "caves_and_cliffs:blocks/sculk_chute_3_1",
+    "south": "caves_and_cliffs:blocks/sculk_chute_3_1",
+    "west": "caves_and_cliffs:blocks/sculk_chute_3_1",
+    "particle": "caves_and_cliffs:blocks/sculktrap_1_1_1"
+  }
+}

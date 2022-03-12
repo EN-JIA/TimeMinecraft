@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "time:blocks/glass",
+    "top": "time:blocks/glass",
+    "side": "time:blocks/glass"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Warm",
+    "icon": "34931.png",
+    "color": {
+      "value": -26215,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false
+  }
+}

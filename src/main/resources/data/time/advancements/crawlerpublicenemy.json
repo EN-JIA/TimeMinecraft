@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:riserheart"
+    },
+    "title": {
+      "translate": "advancements.crawlerpublicenemy.title"
+    },
+    "description": {
+      "translate": "advancements.crawlerpublicenemy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "crawlerpublicenemy": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:longlongago"
+}

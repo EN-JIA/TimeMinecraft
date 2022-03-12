@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "time:block/scroll_bench"
+    },
+    "facing=east": {
+      "model": "time:block/scroll_bench",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "time:block/scroll_bench",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "time:block/scroll_bench",
+      "y": 270
+    }
+  }
+}

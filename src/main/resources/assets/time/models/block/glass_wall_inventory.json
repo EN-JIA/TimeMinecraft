@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "time:blocks/glass",
+    "particle": "time:blocks/glass"
+  }
+}

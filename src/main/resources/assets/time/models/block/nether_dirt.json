@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/nethergrass_new_dirt",
+    "up": "time:blocks/nethergrass_new_dirt",
+    "north": "time:blocks/nethergrass_new_dirt",
+    "east": "time:blocks/nethergrass_new_dirt",
+    "south": "time:blocks/nethergrass_new_dirt",
+    "west": "time:blocks/nethergrass_new_dirt",
+    "particle": "time:blocks/nethergrass_new_dirt"
+  }
+}

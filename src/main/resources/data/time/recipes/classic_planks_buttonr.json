@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:classic_planks"
+    }
+  ],
+  "result": {
+    "item": "time:classic_planks_button",
+    "count": 1
+  }
+}

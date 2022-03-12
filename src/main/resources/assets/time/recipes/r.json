@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:magiclog"
+    }
+  ],
+  "result": {
+    "item": "time:magicplanks",
+    "count": 4
+  }
+}

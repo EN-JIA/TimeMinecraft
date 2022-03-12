@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "time:block/netherancient_portal_ew"
+    },
+    "axis=x": {
+      "model": "time:block/netherancient_portal_ns"
+    }
+  }
+}

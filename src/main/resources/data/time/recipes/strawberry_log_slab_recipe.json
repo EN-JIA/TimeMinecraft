@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:strawberry_log_planks"
+    },
+    "1": {
+      "item": "time:strawberry_log_planks"
+    },
+    "2": {
+      "item": "time:strawberry_log_planks"
+    }
+  },
+  "result": {
+    "item": "time:strawberry_log_slab",
+    "count": 6
+  }
+}

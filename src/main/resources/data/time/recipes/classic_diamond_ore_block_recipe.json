@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_diamond"
+    },
+    "1": {
+      "item": "time:classic_diamond"
+    },
+    "2": {
+      "item": "time:classic_diamond"
+    },
+    "3": {
+      "item": "time:classic_diamond"
+    },
+    "4": {
+      "item": "time:classic_diamond"
+    },
+    "5": {
+      "item": "time:classic_diamond"
+    },
+    "6": {
+      "item": "time:classic_diamond"
+    },
+    "7": {
+      "item": "time:classic_diamond"
+    },
+    "8": {
+      "item": "time:classic_diamond"
+    }
+  },
+  "result": {
+    "item": "time:classic_diamond_block",
+    "count": 1
+  }
+}

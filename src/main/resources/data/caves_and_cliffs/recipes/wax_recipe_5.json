@@ -1,0 +1,22 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:waxed_cut_copper_stage_1"
+    },
+    "1": {
+      "item": "caves_and_cliffs:waxed_cut_copper_stage_1"
+    },
+    "2": {
+      "item": "caves_and_cliffs:waxed_cut_copper_stage_1"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:waxed_copper_slab_stage_1",
+    "count": 6
+  }
+}

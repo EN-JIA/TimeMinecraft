@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/crystalaltarnew",
+    "up": "time:blocks/crystalaltarnew",
+    "north": "time:blocks/crystalaltarnew",
+    "east": "time:blocks/crystalaltarnew",
+    "south": "time:blocks/crystalaltarnew",
+    "west": "time:blocks/crystalaltarnew",
+    "particle": "time:blocks/crystalaltarnew"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "time:custom/gugu_axe",
+  "textures": {
+    "0": "time:blocks/gugu_sword",
+    "missing": "time:blocks/",
+    "particle": "time:items/gugu_sword"
+  }
+}

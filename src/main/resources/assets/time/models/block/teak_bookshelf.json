@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/teakplanks",
+    "up": "time:blocks/teakplanks",
+    "north": "time:blocks/bookshelf_verde",
+    "east": "time:blocks/bookshelf_verde",
+    "south": "time:blocks/bookshelf_verde",
+    "west": "time:blocks/bookshelf_verde",
+    "particle": "time:blocks/teakplanks"
+  }
+}

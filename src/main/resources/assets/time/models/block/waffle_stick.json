@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/wafer_stick_top",
+    "up": "time:blocks/wafer_stick_top",
+    "north": "time:blocks/wafer_stick_side",
+    "east": "time:blocks/wafer_stick_side",
+    "south": "time:blocks/wafer_stick_side",
+    "west": "time:blocks/wafer_stick_side",
+    "particle": "time:blocks/wafer_stick_top"
+  }
+}

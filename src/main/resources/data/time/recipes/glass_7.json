@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    },
+    "1": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    },
+    "2": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    },
+    "3": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    },
+    "4": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    },
+    "5": {
+      "item": "minecraft:magenta_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "time:magenta_glass_door",
+    "count": 1
+  }
+}

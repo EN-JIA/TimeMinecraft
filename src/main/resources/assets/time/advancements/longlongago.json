@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:mcy100leaves"
+    },
+    "title": {
+      "translate": "advancements.longlongago.title"
+    },
+    "description": {
+      "translate": "advancements.longlongago.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "longlongago": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "time:timepower"
+}

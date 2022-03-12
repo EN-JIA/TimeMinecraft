@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/blackdirt",
+    "up": "time:blocks/desertgrasstop_",
+    "north": "time:blocks/desertgrassside",
+    "east": "time:blocks/desertgrassside",
+    "south": "time:blocks/desertgrassside",
+    "west": "time:blocks/desertgrassside",
+    "particle": "time:blocks/blackdirt"
+  }
+}

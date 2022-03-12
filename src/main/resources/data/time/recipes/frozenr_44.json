@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:tea_cup"
+    },
+    {
+      "item": "time:white_ruzova"
+    },
+    {
+      "item": "time:white_ruzova"
+    },
+    {
+      "item": "time:white_ruzova"
+    }
+  ],
+  "result": {
+    "item": "time:ruzova_tea",
+    "count": 1
+  }
+}

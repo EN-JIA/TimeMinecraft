@@ -1,0 +1,37 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:crystalitemblue"
+    },
+    {
+      "item": "time:crystalitemred"
+    },
+    {
+      "item": "time:crystalitemwhite"
+    },
+    {
+      "item": "time:crystalitemorange"
+    },
+    {
+      "item": "time:crystalgreen"
+    },
+    {
+      "item": "time:crystalitemlimegreen"
+    },
+    {
+      "item": "time:crystalitemiceblue"
+    },
+    {
+      "item": "time:crystalitempink"
+    },
+    {
+      "item": "time:crystalitemblack"
+    }
+  ],
+  "result": {
+    "item": "time:supercrystal",
+    "count": 1
+  }
+}

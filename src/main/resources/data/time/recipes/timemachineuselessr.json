@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:timegem"
+    },
+    "1": {
+      "item": "time:space_gem"
+    },
+    "2": {
+      "item": "time:dimension_gem"
+    },
+    "3": {
+      "item": "time:glowing_diamond"
+    },
+    "4": {
+      "item": "time:chaos_crystal"
+    },
+    "5": {
+      "item": "time:glowing_iron_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_block"
+    },
+    "7": {
+      "item": "minecraft:iron_block"
+    },
+    "8": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "time:useless_time_machine",
+    "count": 1
+  }
+}

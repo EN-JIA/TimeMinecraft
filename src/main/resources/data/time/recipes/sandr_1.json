@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:pink_sand"
+    },
+    {
+      "item": "time:pink_sand"
+    },
+    {
+      "item": "time:pink_sand"
+    },
+    {
+      "item": "time:pink_sand"
+    }
+  ],
+  "result": {
+    "item": "time:pink_sandstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:cuctur"
+    },
+    "1": {
+      "item": "time:cuctur"
+    },
+    "2": {
+      "item": "time:cuctur"
+    },
+    "3": {
+      "item": "time:cuctur"
+    },
+    "4": {
+      "item": "time:cuctur"
+    },
+    "5": {
+      "item": "time:cuctur"
+    },
+    "6": {
+      "item": "time:cuctur"
+    },
+    "7": {
+      "item": "time:cuctur"
+    },
+    "8": {
+      "item": "time:cuctur"
+    }
+  },
+  "result": {
+    "item": "time:huge_cuctur_log",
+    "count": 2
+  }
+}

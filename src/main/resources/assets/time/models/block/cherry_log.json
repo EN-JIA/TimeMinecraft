@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/cherrytop",
+    "up": "time:blocks/cherrytop",
+    "north": "time:blocks/cherry_log",
+    "east": "time:blocks/cherry_log",
+    "south": "time:blocks/cherry_log",
+    "west": "time:blocks/cherry_log",
+    "particle": "time:blocks/cherrytop"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "time:ghoul_sand"
+    }
+  ],
+  "result": {
+    "item": "time:fake_stone",
+    "count": 1
+  }
+}

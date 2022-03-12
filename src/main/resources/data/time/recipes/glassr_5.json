@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "time:wind_sand"
+  },
+  "result": {
+    "item": "time:wind_glass"
+  }
+}

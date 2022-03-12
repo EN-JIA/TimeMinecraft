@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/blue_glowshroom_block",
+    "up": "time:blocks/blue_glowshroom_block",
+    "north": "time:blocks/blue_glowshroom_block",
+    "east": "time:blocks/blue_glowshroom_block",
+    "south": "time:blocks/blue_glowshroom_block",
+    "west": "time:blocks/blue_glowshroom_block",
+    "particle": "time:blocks/blue_glowshroom_block"
+  }
+}

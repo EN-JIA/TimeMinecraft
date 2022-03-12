@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/new_piskel_-_2020-11-06t160905.411",
+    "particle": "caves_and_cliffs:blocks/new_piskel_-_2020-11-06t160905.411"
+  }
+}

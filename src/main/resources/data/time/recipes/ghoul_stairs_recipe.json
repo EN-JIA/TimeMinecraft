@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:ghoul_planks"
+    },
+    "3": {
+      "item": "time:ghoul_planks"
+    },
+    "4": {
+      "item": "time:ghoul_planks"
+    },
+    "6": {
+      "item": "time:ghoul_planks"
+    },
+    "7": {
+      "item": "time:ghoul_planks"
+    },
+    "8": {
+      "item": "time:ghoul_planks"
+    }
+  },
+  "result": {
+    "item": "time:ghoul_stairs",
+    "count": 4
+  }
+}

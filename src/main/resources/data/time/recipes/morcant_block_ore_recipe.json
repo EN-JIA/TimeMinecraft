@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:morcant_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:morcant_gem",
+    "count": 9
+  }
+}

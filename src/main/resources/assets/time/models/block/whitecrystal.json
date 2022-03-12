@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/rystalhite",
+    "up": "time:blocks/rystalhite",
+    "north": "time:blocks/rystalhite",
+    "east": "time:blocks/rystalhite",
+    "south": "time:blocks/rystalhite",
+    "west": "time:blocks/rystalhite",
+    "particle": "time:blocks/rystalhite"
+  }
+}

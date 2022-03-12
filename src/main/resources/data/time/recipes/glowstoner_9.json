@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:white_glowstone_dust"
+    },
+    {
+      "item": "time:white_glowstone_dust"
+    },
+    {
+      "item": "time:white_glowstone_dust"
+    },
+    {
+      "item": "time:white_glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "time:white_glowstone",
+    "count": 1
+  }
+}

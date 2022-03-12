@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mcy_400_planks"
+    },
+    "1": {
+      "item": "time:mcy_400_planks"
+    },
+    "2": {
+      "item": "time:mcy_400_planks"
+    }
+  },
+  "result": {
+    "item": "time:mcy_400slab",
+    "count": 6
+  }
+}

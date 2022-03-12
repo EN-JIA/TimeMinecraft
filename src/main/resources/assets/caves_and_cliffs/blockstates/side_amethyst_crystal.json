@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal"
+    },
+    "facing=north": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal"
+    },
+    "facing=east": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "caves_and_cliffs:block/side_amethyst_crystal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/blue_redstone_lamp_on",
+    "up": "time:blocks/blue_redstone_lamp_on",
+    "north": "time:blocks/blue_redstone_lamp_on",
+    "east": "time:blocks/blue_redstone_lamp_on",
+    "south": "time:blocks/blue_redstone_lamp_on",
+    "west": "time:blocks/blue_redstone_lamp_on",
+    "particle": "time:blocks/blue_redstone_lamp_on"
+  }
+}

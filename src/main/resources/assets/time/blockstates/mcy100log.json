@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "time:block/mcy100log"
+    },
+    "facing=north": {
+      "model": "time:block/mcy100log"
+    },
+    "facing=east": {
+      "model": "time:block/mcy100log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "time:block/mcy100log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "time:block/mcy100log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "time:block/mcy100log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

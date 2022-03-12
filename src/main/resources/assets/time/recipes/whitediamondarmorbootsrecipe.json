@@ -1,0 +1,26 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:whitediamondgem"
+    },
+    "2": {
+      "item": "time:whitediamondgem"
+    },
+    "3": {
+      "item": "time:whitediamondgem"
+    },
+    "5": {
+      "item": "time:whitediamondgem"
+    }
+  },
+  "result": {
+    "item": "time:whitediamondarmorboots",
+    "count": 1
+  }
+}

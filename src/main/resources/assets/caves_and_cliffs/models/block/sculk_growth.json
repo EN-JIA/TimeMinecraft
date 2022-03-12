@@ -1,0 +1,8 @@
+{
+  "parent": "caves_and_cliffs:custom/flooritem",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/sculk_growth_1",
+    "particle": "caves_and_cliffs:blocks/sculk_growth_1",
+    "0": "caves_and_cliffs:blocks/sculk_growth_1"
+  }
+}

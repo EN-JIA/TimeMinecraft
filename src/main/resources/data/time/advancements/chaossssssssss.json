@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:chaoscrystal"
+    },
+    "title": {
+      "translate": "advancements.chaossssssssss.title"
+    },
+    "description": {
+      "translate": "advancements.chaossssssssss.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chaossssssssss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:wowamazing"
+}

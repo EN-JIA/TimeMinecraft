@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ghoul_planks"
+    }
+  ],
+  "result": {
+    "item": "time:ghoul_button",
+    "count": 1
+  }
+}

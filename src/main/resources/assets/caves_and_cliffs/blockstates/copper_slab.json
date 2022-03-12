@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "caves_and_cliffs:block/copper_slab"
+    },
+    "type=top": {
+      "model": "caves_and_cliffs:block/copper_slab_top"
+    },
+    "type=double": {
+      "model": "caves_and_cliffs:block/copper_slab_full"
+    }
+  }
+}

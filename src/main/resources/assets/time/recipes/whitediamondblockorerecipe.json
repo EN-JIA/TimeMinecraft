@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:whitediamondoreblock"
+    }
+  ],
+  "result": {
+    "item": "time:whitediamondgem",
+    "count": 9
+  }
+}

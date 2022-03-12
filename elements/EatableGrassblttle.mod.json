@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "eatablebot",
+    "customModelName": "Normal",
+    "name": "Eatable Grassbottle",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "block",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "EatableGrassblttleFoodEaten"
+    }
+  }
+}

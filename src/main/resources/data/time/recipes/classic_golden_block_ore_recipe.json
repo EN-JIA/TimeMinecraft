@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:classic_golden_block"
+    }
+  ],
+  "result": {
+    "item": "time:classic_golden",
+    "count": 9
+  }
+}

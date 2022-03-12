@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:ichorium"
+    },
+    "1": {
+      "item": "time:ichorium"
+    },
+    "2": {
+      "item": "time:ichorium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:ichorium_pickaxe",
+    "count": 1
+  }
+}

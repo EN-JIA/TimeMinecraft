@@ -1,0 +1,7 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "time:blocks/leavesmagic1",
+    "particle": "time:blocks/leavesmagic1"
+  }
+}

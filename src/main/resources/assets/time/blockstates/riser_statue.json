@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "time:block/riser_statue"
+    },
+    "facing=east": {
+      "model": "time:block/riser_statue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "time:block/riser_statue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "time:block/riser_statue",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:ghoul_sand"
+    },
+    "1": {
+      "item": "time:ghoul_sand"
+    },
+    "2": {
+      "item": "time:ghoul_sand"
+    },
+    "3": {
+      "item": "time:ghoul_sand"
+    },
+    "5": {
+      "item": "time:ghoul_sand"
+    }
+  },
+  "result": {
+    "item": "time:ghoul_head_helmet",
+    "count": 1
+  }
+}

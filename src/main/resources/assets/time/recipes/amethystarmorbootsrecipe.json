@@ -1,0 +1,26 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:amethystgem"
+    },
+    "2": {
+      "item": "time:amethystgem"
+    },
+    "3": {
+      "item": "time:amethystgem"
+    },
+    "5": {
+      "item": "time:amethystgem"
+    }
+  },
+  "result": {
+    "item": "time:amethystarmorboots",
+    "count": 1
+  }
+}

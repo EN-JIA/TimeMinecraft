@@ -1,0 +1,10 @@
+{
+  "parent": "caves_and_cliffs:custom/baby_azalea_tree",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/baby_azalea_tree_1_1",
+    "particle": "caves_and_cliffs:blocks/baby_azalea_tree_1_1",
+    "0": "caves_and_cliffs:blocks/baby_azalea_tree_1_1",
+    "1": "caves_and_cliffs:blocks/baby__azalea_tree",
+    "2": "caves_and_cliffs:blocks/babyazaleawood_3"
+  }
+}

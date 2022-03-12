@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChocolateCake"
+      },
+      {
+        "value": "CUSTOM:ChocolateCake"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChocolateCake"
+      },
+      {
+        "value": "CUSTOM:ChocolateCake"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CakeChocolate"
+    },
+    "name": "chocolatebreadr",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:mistarille_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:mistarille_gem",
+    "count": 9
+  }
+}

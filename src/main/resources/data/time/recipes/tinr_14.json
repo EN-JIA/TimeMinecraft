@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:tin_gem"
+    },
+    "1": {
+      "item": "time:tin_gem"
+    },
+    "2": {
+      "item": "time:tin_gem"
+    },
+    "3": {
+      "item": "time:tin_gem"
+    },
+    "5": {
+      "item": "time:tin_gem"
+    }
+  },
+  "result": {
+    "item": "time:tin_armor_helmet",
+    "count": 1
+  }
+}

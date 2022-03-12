@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_pane"
+    },
+    "1": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "minecraft:glass_pane"
+    },
+    "3": {
+      "item": "minecraft:glass_pane"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "time:glass_fence_door",
+    "count": 1
+  }
+}

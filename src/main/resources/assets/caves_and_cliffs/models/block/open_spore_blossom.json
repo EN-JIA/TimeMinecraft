@@ -1,0 +1,8 @@
+{
+  "parent": "caves_and_cliffs:custom/sporeblossomopen",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/petals",
+    "particle": "caves_and_cliffs:blocks/petals",
+    "3": "caves_and_cliffs:blocks/sporeblossom"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:timegem"
+    },
+    {
+      "item": "time:space_gem"
+    },
+    {
+      "item": "time:mummy_heart"
+    },
+    {
+      "item": "time:dimension_gem"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_409600",
+    "count": 1
+  }
+}

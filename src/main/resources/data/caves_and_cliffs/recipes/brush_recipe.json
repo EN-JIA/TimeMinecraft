@@ -1,0 +1,30 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:feather"
+    },
+    "2": {
+      "item": "minecraft:feather"
+    },
+    "4": {
+      "item": "caves_and_cliffs:copper_ingot"
+    },
+    "5": {
+      "item": "minecraft:feather"
+    },
+    "6": {
+      "item": "caves_and_cliffs:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:brush",
+    "count": 1
+  }
+}

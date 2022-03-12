@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:glowingobsidian"
+    },
+    "title": {
+      "translate": "advancements.geeitshot.title"
+    },
+    "description": {
+      "translate": "advancements.geeitshot.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "geeitshot": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "time:carefulexplosion"
+}

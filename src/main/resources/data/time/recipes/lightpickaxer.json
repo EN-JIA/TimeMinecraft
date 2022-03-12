@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:wood_stone"
+    },
+    {
+      "item": "time:air_stone"
+    },
+    {
+      "item": "time:waterstone"
+    },
+    {
+      "item": "time:fire_stone"
+    },
+    {
+      "item": "time:gold_stone"
+    }
+  ],
+  "result": {
+    "item": "time:pickaxe_of_light",
+    "count": 1
+  }
+}

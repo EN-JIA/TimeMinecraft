@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/phantomstone",
+    "up": "time:blocks/ooblengrasstop",
+    "north": "time:blocks/phantomgrass",
+    "east": "time:blocks/phantomgrass",
+    "south": "time:blocks/phantomgrass",
+    "west": "time:blocks/phantomgrass",
+    "particle": "time:blocks/phantomstone"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aqua_new_shovel",
+    "customModelName": "Normal",
+    "name": "Aquamarine Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 18,
+    "damageVsEntity": 4.0,
+    "usageCount": 1987,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AquamarineGem"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

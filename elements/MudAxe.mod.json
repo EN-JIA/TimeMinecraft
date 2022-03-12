@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mudaxe",
+    "customModelName": "Normal",
+    "name": "Mud Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 1.0,
+    "usageCount": 36,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MudBall"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

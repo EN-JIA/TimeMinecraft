@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:BambooLogWood"
+      },
+      {
+        "value": "CUSTOM:BambooLogLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "bamboolog_log",
+    "namespace": "forge"
+  }
+}

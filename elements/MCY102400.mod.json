@@ -1,0 +1,58 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MCY102400Desert"
+      },
+      {
+        "value": "CUSTOM:OldDesert"
+      },
+      {
+        "value": "CUSTOM:CactusForest"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:MCY102400Stone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:MCY102400Stone"
+    },
+    "airColor": {
+      "value": -13210,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "MCY102400PlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:TimeMachineWall"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Minecraft Years 102400 Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "texture": "flint_and_steel_102400",
+    "portalTexture": "final102400portal",
+    "enablePortal": true
+  }
+}

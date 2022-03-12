@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/rystallue",
+    "up": "time:blocks/rystallue",
+    "north": "time:blocks/rystallue",
+    "east": "time:blocks/rystallue",
+    "south": "time:blocks/rystallue",
+    "west": "time:blocks/rystallue",
+    "particle": "time:blocks/rystallue"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 4.8999999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "time:cold_steel_ore"
+  },
+  "result": {
+    "item": "time:cold_steel_ingot"
+  }
+}

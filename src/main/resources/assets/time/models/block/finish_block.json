@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/bloodstone_vlock",
+    "up": "time:blocks/bloodstone_vlock",
+    "north": "time:blocks/bloodstone_vlock",
+    "east": "time:blocks/bloodstone_vlock",
+    "south": "time:blocks/bloodstone_vlock",
+    "west": "time:blocks/bloodstone_vlock",
+    "particle": "time:blocks/bloodstone_vlock"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/rune_grass_top_mcy100",
+    "up": "time:blocks/rune_grass_top_mcy100",
+    "north": "time:blocks/rune_grass_top_mcy100",
+    "east": "time:blocks/rune_grass_top_mcy100",
+    "south": "time:blocks/rune_grass_top_mcy100",
+    "west": "time:blocks/rune_grass_top_mcy100",
+    "particle": "time:blocks/rune_grass_top_mcy100"
+  }
+}

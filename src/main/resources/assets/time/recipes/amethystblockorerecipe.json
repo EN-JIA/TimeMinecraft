@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:amethystoreblock"
+    }
+  ],
+  "result": {
+    "item": "time:amethystgem",
+    "count": 9
+  }
+}

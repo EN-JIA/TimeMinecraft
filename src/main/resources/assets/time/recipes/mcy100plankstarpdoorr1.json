@@ -1,0 +1,32 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mcy100planks"
+    },
+    "1": {
+      "item": "time:mcy100planks"
+    },
+    "2": {
+      "item": "time:mcy100planks"
+    },
+    "3": {
+      "item": "time:mcy100planks"
+    },
+    "4": {
+      "item": "time:mcy100planks"
+    },
+    "5": {
+      "item": "time:mcy100planks"
+    }
+  },
+  "result": {
+    "item": "time:mcy100plankstarpdoor",
+    "count": 2
+  }
+}

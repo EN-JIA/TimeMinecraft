@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/fakealtar2",
+    "up": "time:blocks/fakealtar2",
+    "north": "time:blocks/fakealtar2",
+    "east": "time:blocks/fakealtar2",
+    "south": "time:blocks/fakealtar2",
+    "west": "time:blocks/fakealtar2",
+    "particle": "time:blocks/fakealtar2"
+  }
+}

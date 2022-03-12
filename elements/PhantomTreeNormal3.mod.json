@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "phantomtreenormal3",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:Phantom"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:DreamGrass"
+      }
+    ],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

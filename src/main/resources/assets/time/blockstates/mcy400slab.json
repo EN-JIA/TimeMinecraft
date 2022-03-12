@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/mcy400slab"
+    },
+    "type=top": {
+      "model": "time:block/mcy400slab_top"
+    },
+    "type=double": {
+      "model": "time:block/mcy400slab_full"
+    }
+  }
+}

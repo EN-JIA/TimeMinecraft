@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "strawberry",
+    "customModelName": "Normal",
+    "name": "Strawberry",
+    "rarity": "UNCOMMON",
+    "specialInfo": [
+      "Some strawberries are a little sour",
+      "but most of them are sweet."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 10,
+    "saturation": 0.19999999999999998,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

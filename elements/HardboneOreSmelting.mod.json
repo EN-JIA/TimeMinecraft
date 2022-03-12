@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.7,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": ""
+    },
+    "smeltingInputStack": {
+      "value": "CUSTOM:HardboneOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:HardboneGem"
+    },
+    "name": "hardbone_ore_smelting",
+    "namespace": "mod"
+  }
+}

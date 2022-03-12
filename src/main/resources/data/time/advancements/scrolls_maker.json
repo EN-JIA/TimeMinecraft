@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:scroll_bench"
+    },
+    "title": {
+      "translate": "advancements.scrolls_maker.title"
+    },
+    "description": {
+      "translate": "advancements.scrolls_maker.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "scrolls_maker": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:new_era"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:netherrack"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:netherrack_pickaxe",
+    "count": 1
+  }
+}

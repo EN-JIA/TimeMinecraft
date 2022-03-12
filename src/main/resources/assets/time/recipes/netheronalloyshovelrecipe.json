@@ -1,0 +1,24 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:netheron"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "time:netheronalloyshovel",
+    "count": 1
+  }
+}

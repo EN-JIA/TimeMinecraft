@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:moonwarp_log"
+    }
+  ],
+  "result": {
+    "item": "time:moon_warp_planks",
+    "count": 4
+  }
+}

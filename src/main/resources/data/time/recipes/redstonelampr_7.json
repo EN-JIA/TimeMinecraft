@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:purple_dye"
+    },
+    "3": {
+      "item": "minecraft:purple_dye"
+    },
+    "4": {
+      "item": "time:eternal_redstone_lamp"
+    },
+    "5": {
+      "item": "minecraft:purple_dye"
+    },
+    "7": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "time:purple_eternal_redstone_lamp",
+    "count": 1
+  }
+}

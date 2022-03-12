@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:golden_apple_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:golden_apple",
+    "count": 4
+  }
+}

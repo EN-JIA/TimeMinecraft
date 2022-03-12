@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:compress_gold_block"
+    },
+    "1": {
+      "item": "time:compress_gold_block"
+    },
+    "2": {
+      "item": "time:compress_gold_block"
+    }
+  },
+  "result": {
+    "item": "time:heavy_golden_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/flintblock",
+    "up": "time:blocks/flintblock",
+    "north": "time:blocks/flintblock",
+    "east": "time:blocks/flintblock",
+    "south": "time:blocks/flintblock",
+    "west": "time:blocks/flintblock",
+    "particle": "time:blocks/flintblock"
+  }
+}

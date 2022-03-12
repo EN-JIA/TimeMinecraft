@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:amethyst_gem"
+    },
+    "1": {
+      "item": "time:amethyst_gem"
+    },
+    "2": {
+      "item": "time:amethyst_gem"
+    },
+    "3": {
+      "item": "time:amethyst_gem"
+    }
+  },
+  "result": {
+    "item": "time:amethyst_bricks",
+    "count": 4
+  }
+}

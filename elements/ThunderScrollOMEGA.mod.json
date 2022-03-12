@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "newthunderscroll_2",
+    "customModelName": "Normal",
+    "name": "Thunder Scroll OMEGA",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedOnBlock": {
+      "name": "ThunderScrollOMEGARightClickedOnBlock"
+    },
+    "hasDispenseBehavior": false
+  }
+}

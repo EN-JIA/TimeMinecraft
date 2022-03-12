@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:classic_log"
+    }
+  ],
+  "result": {
+    "item": "time:classic_planks",
+    "count": 4
+  }
+}

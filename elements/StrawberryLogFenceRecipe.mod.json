@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrawberryLogPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogPlanks"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:StrawberryLogPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrawberryLogFence"
+    },
+    "name": "strawberry_log_fence_recipe",
+    "namespace": "mod"
+  }
+}

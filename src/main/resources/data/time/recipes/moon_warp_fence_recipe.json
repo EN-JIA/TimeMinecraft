@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "time:moon_warp_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "time:moon_warp_planks"
+    },
+    "3": {
+      "item": "time:moon_warp_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "time:moon_warp_planks"
+    }
+  },
+  "result": {
+    "item": "time:moon_warp_fence",
+    "count": 3
+  }
+}

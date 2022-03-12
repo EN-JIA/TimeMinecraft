@@ -1,0 +1,110 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Moon Sharp Forest",
+    "groundBlock": {
+      "value": "CUSTOM:MCY1600Grass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:MCY1600Dirt"
+    },
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10512895,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -10512895,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14329397,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -14329397,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Leavesfall100"
+    },
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 1,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 10,
+    "vanillaTreeType": "Mega spruce trees",
+    "treeType": 1,
+    "minHeight": 9,
+    "treeStem": {
+      "value": "CUSTOM:MoonLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:MoonLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.CAVE_AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.CAVE_AIR"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": true,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [],
+    "spawnEntries": []
+  }
+}

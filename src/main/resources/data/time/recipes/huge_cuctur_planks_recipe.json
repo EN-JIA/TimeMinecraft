@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:hugecuctur_log"
+    }
+  ],
+  "result": {
+    "item": "time:huge_cuctur_planks",
+    "count": 4
+  }
+}

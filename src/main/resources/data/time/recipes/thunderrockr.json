@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "1": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "2": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "3": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "4": {
+      "item": "time:healthy_stone"
+    },
+    "5": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "6": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "7": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "8": {
+      "tag": "forge:stained_glass_panes"
+    }
+  },
+  "result": {
+    "item": "time:thunderstorm_rock",
+    "count": 1
+  }
+}

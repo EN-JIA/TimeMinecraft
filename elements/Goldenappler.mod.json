@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GoldenAppleBlock"
+    },
+    "name": "goldenappler",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:mcy_400_planks"
+    }
+  ],
+  "result": {
+    "item": "time:ice_planks_button",
+    "count": 1
+  }
+}

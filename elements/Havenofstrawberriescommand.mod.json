@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "Everything_will_be_like_heaven",
+    "permissionLevel": "1",
+    "onCommandExecuted": {
+      "name": "HavenofstrawberriescommandCommandExecuted"
+    }
+  }
+}

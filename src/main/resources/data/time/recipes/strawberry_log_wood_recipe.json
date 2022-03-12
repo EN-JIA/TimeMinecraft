@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:strawberry_log_log"
+    },
+    "1": {
+      "item": "time:strawberry_log_log"
+    },
+    "2": {
+      "item": "time:strawberry_log_log"
+    },
+    "3": {
+      "item": "time:strawberry_log_log"
+    }
+  },
+  "result": {
+    "item": "time:strawberry_log_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:healthystone"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "time:healthystone"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:quartz_block",
+      "data": 0
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "time:healthystone"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "item": "time:healthystone"
+    }
+  },
+  "result": {
+    "item": "time:thunderstormrock",
+    "count": 1
+  }
+}

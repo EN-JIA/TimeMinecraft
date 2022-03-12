@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:strawberry_log_planks"
+    }
+  ],
+  "result": {
+    "item": "time:strawberry_planks_button",
+    "count": 1
+  }
+}

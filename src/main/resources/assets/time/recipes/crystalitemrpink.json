@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:pinkcrystal"
+    },
+    "1": {
+      "item": "time:pinkcrystal"
+    },
+    "2": {
+      "item": "time:pinkcrystal"
+    },
+    "3": {
+      "item": "time:pinkcrystal"
+    },
+    "4": {
+      "item": "time:pinkcrystal"
+    },
+    "5": {
+      "item": "time:pinkcrystal"
+    },
+    "6": {
+      "item": "time:pinkcrystal"
+    },
+    "7": {
+      "item": "time:pinkcrystal"
+    },
+    "8": {
+      "item": "time:pinkcrystal"
+    }
+  },
+  "result": {
+    "item": "time:crystalitempink",
+    "count": 1
+  }
+}

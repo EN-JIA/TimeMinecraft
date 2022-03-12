@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "time:glowingobsidian"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "time:glowing_obsidian_ingot"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "time:glowing_obsidian_ingot"
+    },
+    "7": {
+      "item": "time:glowing_obsidian_ingot"
+    },
+    "8": {
+      "item": "time:glowing_obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "time:burning_altar",
+    "count": 1
+  }
+}

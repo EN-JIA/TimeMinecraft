@@ -1,0 +1,33 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    },
+    "3": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    },
+    "4": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    },
+    "6": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    },
+    "7": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    },
+    "8": {
+      "item": "caves_and_cliffs:waxed_cut_copper_block"
+    }
+  },
+  "result": {
+    "item": "caves_and_cliffs:waxed_copper_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "time:glowshroom_2"
+    },
+    {
+      "item": "time:glow_mushroom"
+    }
+  ],
+  "result": {
+    "item": "time:shroom_salad",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:old_sand"
+    },
+    "title": {
+      "translate": "advancements.desertback.title"
+    },
+    "description": {
+      "translate": "advancements.desertback.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "desertback": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "time:ccl"
+}

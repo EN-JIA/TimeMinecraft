@@ -1,0 +1,8 @@
+{
+  "parent": "time:custom/indevaltar",
+  "textures": {
+    "all": "time:blocks/1",
+    "particle": "time:blocks/1",
+    "0": "time:blocks/1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/bramble_fruit_stage2",
+    "particle": "time:blocks/bramble_fruit_stage2"
+  }
+}

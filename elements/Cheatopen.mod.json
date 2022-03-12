@@ -1,0 +1,12 @@
+{
+  "_fv": 24,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F8",
+    "keyBindingName": "Cheat Code",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "CheatopenAnXiaAnJianShi"
+    }
+  }
+}

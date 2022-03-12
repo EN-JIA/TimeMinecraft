@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mcy400_dirt",
+    "up": "time:blocks/snow",
+    "north": "time:blocks/mcy100_grassside",
+    "east": "time:blocks/mcy100_grassside",
+    "south": "time:blocks/mcy100_grassside",
+    "west": "time:blocks/mcy100_grassside",
+    "particle": "time:blocks/mcy400_dirt"
+  }
+}

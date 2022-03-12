@@ -1,0 +1,25 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "spawn_center",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 5000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": 30,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Mcy25600"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "RandomcenterOnStructureInstanceGenerated"
+    }
+  }
+}

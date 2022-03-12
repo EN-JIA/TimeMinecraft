@@ -1,0 +1,27 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 ",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:aquamarinegem"
+    },
+    "1": {
+      "item": "time:aquamarinegem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:aquamarinehoe",
+    "count": 1
+  }
+}

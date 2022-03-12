@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "time:blocks/newcherryplanks",
+    "top": "time:blocks/newcherryplanks",
+    "side": "time:blocks/newcherryplanks"
+  }
+}

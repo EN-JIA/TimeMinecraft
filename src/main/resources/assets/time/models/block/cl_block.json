@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/clblock",
+    "up": "time:blocks/clblock",
+    "north": "time:blocks/clblock",
+    "east": "time:blocks/clblock",
+    "south": "time:blocks/clblock",
+    "west": "time:blocks/clblock",
+    "particle": "time:blocks/clblock"
+  }
+}

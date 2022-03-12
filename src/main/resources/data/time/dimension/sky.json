@@ -1,0 +1,444 @@
+{
+  "type": "time:sky",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 0,
+      "temperature_noise": {
+        "firstOctave": -12.46,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -12.46,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "altitude_noise": {
+        "firstOctave": -12.46,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -12.46,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "ocean",
+          "parameters": {
+            "temperature": 1,
+            "humidity": -1,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "plains",
+          "parameters": {
+            "temperature": 0.942857142858,
+            "humidity": -0.942857142858,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "desert",
+          "parameters": {
+            "temperature": 0.885714285714,
+            "humidity": -0.885714285714,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "mountains",
+          "parameters": {
+            "temperature": 0.828571428572,
+            "humidity": -0.828571428572,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "forest",
+          "parameters": {
+            "temperature": 0.771428571428,
+            "humidity": -0.771428571428,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "taiga",
+          "parameters": {
+            "temperature": 0.714285714286,
+            "humidity": -0.714285714286,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "swamp",
+          "parameters": {
+            "temperature": 0.657142857142,
+            "humidity": -0.657142857142,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "river",
+          "parameters": {
+            "temperature": 0.6,
+            "humidity": -0.6,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "snowy_mountains",
+          "parameters": {
+            "temperature": 0.542857142858,
+            "humidity": -0.542857142858,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "mushroom_fields",
+          "parameters": {
+            "temperature": 0.485714285714,
+            "humidity": -0.485714285714,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "jungle_edge",
+          "parameters": {
+            "temperature": 0.428571428572,
+            "humidity": -0.428571428572,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "deep_ocean",
+          "parameters": {
+            "temperature": 0.371428571428,
+            "humidity": -0.371428571428,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "stone_shore",
+          "parameters": {
+            "temperature": 0.314285714286,
+            "humidity": -0.314285714286,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "snowy_beach",
+          "parameters": {
+            "temperature": 0.257142857142,
+            "humidity": -0.257142857142,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "birch_forest",
+          "parameters": {
+            "temperature": 0.2,
+            "humidity": -0.2,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "birch_forest_hills",
+          "parameters": {
+            "temperature": 0.142857142858,
+            "humidity": -0.142857142858,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "dark_forest",
+          "parameters": {
+            "temperature": 0.085714285714,
+            "humidity": -0.085714285714,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "snowy_taiga",
+          "parameters": {
+            "temperature": 0.028571428572,
+            "humidity": -0.028571428572,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "giant_tree_taiga",
+          "parameters": {
+            "temperature": -0.028571428572,
+            "humidity": 0.028571428572,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "giant_tree_taiga_hills",
+          "parameters": {
+            "temperature": -0.085714285714,
+            "humidity": 0.085714285714,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "wooded_mountains",
+          "parameters": {
+            "temperature": -0.142857142858,
+            "humidity": 0.142857142858,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "savanna",
+          "parameters": {
+            "temperature": -0.2,
+            "humidity": 0.2,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "savanna_plateau",
+          "parameters": {
+            "temperature": -0.257142857142,
+            "humidity": 0.257142857142,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "badlands",
+          "parameters": {
+            "temperature": -0.314285714286,
+            "humidity": 0.314285714286,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "cold_ocean",
+          "parameters": {
+            "temperature": -0.371428571428,
+            "humidity": 0.371428571428,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "snowy_taiga_mountains",
+          "parameters": {
+            "temperature": -0.428571428572,
+            "humidity": 0.428571428572,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "giant_spruce_taiga",
+          "parameters": {
+            "temperature": -0.485714285714,
+            "humidity": 0.485714285714,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "giant_spruce_taiga_hills",
+          "parameters": {
+            "temperature": -0.542857142858,
+            "humidity": 0.542857142858,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "modified_gravelly_mountains",
+          "parameters": {
+            "temperature": -0.6,
+            "humidity": 0.6,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "shattered_savanna",
+          "parameters": {
+            "temperature": -0.657142857142,
+            "humidity": 0.657142857142,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "shattered_savanna_plateau",
+          "parameters": {
+            "temperature": -0.714285714286,
+            "humidity": 0.714285714286,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "eroded_badlands",
+          "parameters": {
+            "temperature": -0.771428571428,
+            "humidity": 0.771428571428,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "modified_wooded_badlands_plateau",
+          "parameters": {
+            "temperature": -0.828571428572,
+            "humidity": 0.828571428572,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "modified_badlands_plateau",
+          "parameters": {
+            "temperature": -0.885714285714,
+            "humidity": 0.885714285714,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "bamboo_jungle",
+          "parameters": {
+            "temperature": -0.942857142858,
+            "humidity": 0.942857142858,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "bamboo_jungle_hills",
+          "parameters": {
+            "temperature": -1,
+            "humidity": 1,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        }
+      ]
+    },
+    "settings": {
+      "name": "time:sky",
+      "bedrock_roof_position": -10,
+      "bedrock_floor_position": -10,
+      "sea_level": 0,
+      "disable_mob_generation": false,
+      "default_block": {
+        "Name": "minecraft:stone"
+      },
+      "default_fluid": {
+        "Name": "minecraft:stone"
+      },
+      "noise": {
+        "density_factor": 0,
+        "density_offset": 0,
+        "simplex_surface_noise": true,
+        "random_density_offset": false,
+        "island_noise_override": true,
+        "amplified": false,
+        "size_horizontal": 2,
+        "size_vertical": 1,
+        "height": 128,
+        "sampling": {
+          "xz_scale": 2,
+          "y_scale": 1,
+          "xz_factor": 80,
+          "y_factor": 160
+        },
+        "bottom_slide": {
+          "target": -30,
+          "size": 7,
+          "offset": 1
+        },
+        "top_slide": {
+          "target": -3000,
+          "size": 64,
+          "offset": -46
+        }
+      },
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}

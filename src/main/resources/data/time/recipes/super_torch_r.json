@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    },
+    {
+      "item": "minecraft:torch"
+    }
+  ],
+  "result": {
+    "item": "time:super_torch",
+    "count": 1
+  }
+}

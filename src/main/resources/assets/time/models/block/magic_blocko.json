@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/magicww",
+    "up": "time:blocks/magicww",
+    "north": "time:blocks/magicww",
+    "east": "time:blocks/magicww",
+    "south": "time:blocks/magicww",
+    "west": "time:blocks/magicww",
+    "particle": "time:blocks/magicww"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:jade_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:jade_gem",
+    "count": 9
+  }
+}

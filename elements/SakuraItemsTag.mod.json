@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SakuraWood"
+      },
+      {
+        "value": "CUSTOM:SakuraLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "sakura_log",
+    "namespace": "forge"
+  }
+}

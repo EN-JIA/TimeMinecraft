@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "1": {
+      "item": "time:huge_cuctur_planks"
+    },
+    "2": {
+      "item": "time:huge_cuctur_planks"
+    }
+  },
+  "result": {
+    "item": "time:huge_cuctur_slab",
+    "count": 6
+  }
+}

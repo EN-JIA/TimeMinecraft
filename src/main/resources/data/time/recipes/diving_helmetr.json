@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "time:life_water"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "time:life_water"
+    },
+    "4": {
+      "item": "time:clear_glass"
+    },
+    "5": {
+      "item": "time:life_water"
+    }
+  },
+  "result": {
+    "item": "time:diving_helmet_helmet",
+    "count": 1
+  }
+}

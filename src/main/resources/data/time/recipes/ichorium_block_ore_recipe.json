@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ichorium_block"
+    }
+  ],
+  "result": {
+    "item": "time:ichorium",
+    "count": 9
+  }
+}

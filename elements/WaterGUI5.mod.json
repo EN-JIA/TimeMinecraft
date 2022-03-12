@@ -1,0 +1,121 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "abubble.png",
+          "use1Xscale": false,
+          "name": "abubble.png",
+          "x": 6,
+          "y": 206
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abubble.png",
+          "use1Xscale": false,
+          "name": "abubble.png",
+          "x": 6,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abubble.png",
+          "use1Xscale": false,
+          "name": "abubble.png",
+          "x": 6,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abubble.png",
+          "use1Xscale": false,
+          "name": "abubble.png",
+          "x": 6,
+          "y": 179
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "abubble.png",
+          "use1Xscale": false,
+          "name": "abubble.png",
+          "x": 6,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "acb.png",
+          "use1Xscale": false,
+          "name": "acb.png",
+          "x": 6,
+          "y": 161
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "acb.png",
+          "use1Xscale": false,
+          "name": "acb.png",
+          "x": 6,
+          "y": 152
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "acb.png",
+          "use1Xscale": false,
+          "name": "acb.png",
+          "x": 6,
+          "y": 143
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "acb.png",
+          "use1Xscale": false,
+          "name": "acb.png",
+          "x": 6,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "acb.png",
+          "use1Xscale": false,
+          "name": "acb.png",
+          "x": 6,
+          "y": 125
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "WaterBar5"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

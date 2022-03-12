@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "time:block/huge_cuctur_pressure_plate"
+    },
+    "powered=true": {
+      "model": "time:block/huge_cuctur_pressure_plate_down"
+    }
+  }
+}

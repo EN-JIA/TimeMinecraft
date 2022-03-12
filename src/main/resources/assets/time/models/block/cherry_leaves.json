@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/cherry1_leaves",
+    "particle": "time:blocks/cherry1_leaves"
+  }
+}

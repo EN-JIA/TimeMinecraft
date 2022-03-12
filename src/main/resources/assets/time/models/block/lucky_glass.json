@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/luckyglass",
+    "up": "time:blocks/luckyglass",
+    "north": "time:blocks/luckyglass",
+    "east": "time:blocks/luckyglass",
+    "south": "time:blocks/luckyglass",
+    "west": "time:blocks/luckyglass",
+    "particle": "time:blocks/luckyglass"
+  }
+}

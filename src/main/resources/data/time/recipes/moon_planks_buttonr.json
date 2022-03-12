@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:moon_planks"
+    }
+  ],
+  "result": {
+    "item": "time:moon_planks_button",
+    "count": 1
+  }
+}

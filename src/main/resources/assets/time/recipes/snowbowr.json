@@ -1,0 +1,33 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "time:bigsnow"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "time:bigsnow"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "time:bigsnow"
+    },
+    "8": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:iciclebow",
+    "count": 1
+  }
+}

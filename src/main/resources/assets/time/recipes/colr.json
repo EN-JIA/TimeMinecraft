@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:supercrystal"
+    },
+    "1": {
+      "item": "time:mushroomingot"
+    },
+    "2": {
+      "item": "time:supercrystal"
+    },
+    "3": {
+      "item": "time:mushroomingot"
+    },
+    "4": {
+      "item": "time:mushroomingot"
+    },
+    "5": {
+      "item": "time:mushroomingot"
+    },
+    "6": {
+      "item": "time:supercrystal"
+    },
+    "7": {
+      "item": "time:mushroomingot"
+    },
+    "8": {
+      "item": "time:supercrystal"
+    }
+  },
+  "result": {
+    "item": "time:col",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:cold_steel_block"
+    }
+  ],
+  "result": {
+    "item": "time:cold_steel_ingot",
+    "count": 9
+  }
+}

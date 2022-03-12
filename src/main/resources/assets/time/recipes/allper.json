@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:appleblock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:apple",
+    "count": 4
+  }
+}

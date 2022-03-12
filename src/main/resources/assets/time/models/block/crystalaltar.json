@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/cage",
+    "up": "time:blocks/cage",
+    "north": "time:blocks/cage",
+    "east": "time:blocks/cage",
+    "south": "time:blocks/cage",
+    "west": "time:blocks/cage",
+    "particle": "time:blocks/cage"
+  }
+}

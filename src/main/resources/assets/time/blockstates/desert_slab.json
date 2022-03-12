@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/desert_slab"
+    },
+    "type=top": {
+      "model": "time:block/desert_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/desert_slab_full"
+    }
+  }
+}

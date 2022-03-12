@@ -1,0 +1,9 @@
+{
+  "parent": "time:custom/finalmodel",
+  "textures": {
+    "all": "time:blocks/inner",
+    "particle": "time:blocks/inner",
+    "1": "time:blocks/inner",
+    "missing": "time:blocks/inner"
+  }
+}

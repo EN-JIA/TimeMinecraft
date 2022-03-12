@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/coodsteel543",
+    "particle": "time:blocks/coodsteel543"
+  }
+}

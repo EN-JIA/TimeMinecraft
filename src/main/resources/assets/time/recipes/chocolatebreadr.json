@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:chocolatecake"
+    },
+    {
+      "item": "time:chocolatecake"
+    },
+    {
+      "item": "time:chocolatecake"
+    },
+    {
+      "item": "time:chocolatecake"
+    }
+  ],
+  "result": {
+    "item": "time:cakechocolate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/planksnn",
+    "up": "time:blocks/planksnn",
+    "north": "time:blocks/seaweeddiyer",
+    "east": "time:blocks/seaweeddiyer",
+    "south": "time:blocks/seaweeddiyer",
+    "west": "time:blocks/seaweeddiyer",
+    "particle": "time:blocks/planksnn"
+  }
+}

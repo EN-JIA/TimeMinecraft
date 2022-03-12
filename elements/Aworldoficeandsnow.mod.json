@@ -1,0 +1,52 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "A world of ice and snow",
+    "achievementDescription": "Enter mcy400",
+    "achievementIcon": {
+      "value": "CUSTOM:MCY400Leaves"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "CrystalOreBlockRecipe",
+      "CrystalBlockOreRecipe",
+      "CrystalPickaxeRecipe",
+      "CrystalAxeRecipe",
+      "CrystalSwordRecipe",
+      "CrystalShovelRecipe",
+      "CrystalHoeRecipe",
+      "CrystalArmorHelmetRecipe",
+      "CrystalArmorBodyRecipe",
+      "CrystalArmorLeggingsRecipe",
+      "CrystalArmorBootsRecipe",
+      "TCrystalswordr2",
+      "Crystalswordr2",
+      "Crystalaxer2",
+      "Crystalaxer3",
+      "Crystalaxer4",
+      "TCrystalshovelr2",
+      "Crystalshovelr3",
+      "Crystalhoer2",
+      "Crystalhoer3",
+      "Crystalhoer4",
+      "Magicbottler",
+      "Expbottler",
+      "Xpblockr",
+      "Bottlemagicr",
+      "XpblockofinfinityR"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:Crawlerpublicenemy"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"35\" y=\"48\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

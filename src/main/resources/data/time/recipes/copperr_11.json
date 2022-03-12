@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:copper_gem"
+    },
+    "1": {
+      "item": "time:copper_gem"
+    },
+    "2": {
+      "item": "time:copper_gem"
+    },
+    "3": {
+      "item": "time:copper_gem"
+    },
+    "5": {
+      "item": "time:copper_gem"
+    }
+  },
+  "result": {
+    "item": "time:copper_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/riserlootchest",
+    "up": "time:blocks/riserlootchest",
+    "north": "time:blocks/conon",
+    "east": "time:blocks/conon",
+    "south": "time:blocks/conon",
+    "west": "time:blocks/conon",
+    "particle": "time:blocks/riserlootchest"
+  }
+}

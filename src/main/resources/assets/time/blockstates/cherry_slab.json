@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/cherry_slab"
+    },
+    "type=top": {
+      "model": "time:block/cherry_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/cherry_slab_full"
+    }
+  }
+}

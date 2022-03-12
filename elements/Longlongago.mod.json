@@ -1,0 +1,50 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Long long ago",
+    "achievementDescription": "Enter MCY100",
+    "achievementIcon": {
+      "value": "CUSTOM:Mcy100leaves"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "AquamarineOreBlockRecipe",
+      "AquamarineBlockOreRecipe",
+      "AquamarineOreSmelting",
+      "AquamarinePickaxeRecipe",
+      "AquamarineAxeRecipe",
+      "AquamarineSwordRecipe",
+      "AquamarineShovelRecipe",
+      "AquamarineHoeRecipe",
+      "AquamarineArmorHelmetRecipe",
+      "AquamarineArmorBodyRecipe",
+      "AquamarineArmorLeggingsRecipe",
+      "AquamarineArmorBootsRecipe",
+      "Aquamarinepickaxer2",
+      "Aquamarineaxe3",
+      "Aquamariner4",
+      "Aquamarineswordr2",
+      "Aquamarineswordr3",
+      "Aquamarineshovele2",
+      "Aquamarinehoer2",
+      "Aquamarinehoer3",
+      "Aquamarinehoer4",
+      "MCY100CoalOreS",
+      "MCY100EmeraldOreS",
+      "RiseRuneRipice"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 10,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:Timepower"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"29\" y=\"50\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

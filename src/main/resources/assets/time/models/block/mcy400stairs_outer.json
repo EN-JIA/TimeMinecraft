@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "time:blocks/w400planks",
+    "top": "time:blocks/w400planks",
+    "side": "time:blocks/w400planks"
+  }
+}

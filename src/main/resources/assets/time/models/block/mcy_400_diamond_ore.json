@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/diamondore400",
+    "up": "time:blocks/diamondore400",
+    "north": "time:blocks/diamondore400",
+    "east": "time:blocks/diamondore400",
+    "south": "time:blocks/diamondore400",
+    "west": "time:blocks/diamondore400",
+    "particle": "time:blocks/diamondore400"
+  }
+}

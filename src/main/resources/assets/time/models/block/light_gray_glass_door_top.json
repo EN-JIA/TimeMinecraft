@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "time:blocks/lightgrayglassdown",
+    "top": "time:blocks/lightgrayglasstop"
+  }
+}

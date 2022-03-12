@@ -1,0 +1,16 @@
+{
+  "group": "candle",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caves_and_cliffs:candle_1"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs:cyan_candle_1",
+    "count": 1
+  }
+}

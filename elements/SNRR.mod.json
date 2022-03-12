@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:SpaceGem"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "CUSTOM:Netherreactor"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "CUSTOM:Netherreactor"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      },
+      {
+        "value": "Blocks.BEACON"
+      },
+      {
+        "value": "Items.NETHER_STAR"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SuperNetherStar"
+    },
+    "name": "snrr",
+    "namespace": "mod"
+  }
+}

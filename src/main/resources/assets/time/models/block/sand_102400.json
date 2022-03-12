@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/desolat_sand2",
+    "up": "time:blocks/desolat_sand2",
+    "north": "time:blocks/desolat_sand2",
+    "east": "time:blocks/desolat_sand2",
+    "south": "time:blocks/desolat_sand2",
+    "west": "time:blocks/desolat_sand2",
+    "particle": "time:blocks/desolat_sand2"
+  }
+}

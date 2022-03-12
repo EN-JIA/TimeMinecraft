@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:purple_sandstone"
+    },
+    {
+      "item": "time:purple_sandstone"
+    },
+    {
+      "item": "time:purple_sandstone"
+    },
+    {
+      "item": "time:purple_sandstone"
+    }
+  ],
+  "result": {
+    "item": "time:purple_cut_sandstone",
+    "count": 1
+  }
+}

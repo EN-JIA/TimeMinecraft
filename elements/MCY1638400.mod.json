@@ -1,0 +1,42 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:FireLand"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:FireRock"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:TimeMachineWall"
+    },
+    "portalParticles": {
+      "value": "CUSTOM:Leavesfall100"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "MCY 1638400 Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "texture": "lighternewnew",
+    "portalTexture": "alphadev",
+    "enablePortal": true
+  }
+}

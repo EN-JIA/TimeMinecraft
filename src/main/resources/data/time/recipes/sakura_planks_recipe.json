@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:sakura_log"
+    }
+  ],
+  "result": {
+    "item": "time:sakura_planks",
+    "count": 4
+  }
+}

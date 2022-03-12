@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netheronshovel",
+    "customModelName": "Normal",
+    "name": "NetheronAlloy Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 5,
+    "efficiency": 12.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 4.0,
+    "usageCount": 3072,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Netheron"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

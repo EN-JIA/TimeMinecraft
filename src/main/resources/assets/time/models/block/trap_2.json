@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/darkbrick",
+    "up": "time:blocks/darkbrick",
+    "north": "time:blocks/darkbrick",
+    "east": "time:blocks/darkbrick",
+    "south": "time:blocks/darkbrick",
+    "west": "time:blocks/darkbrick",
+    "particle": "time:blocks/darkbrick"
+  }
+}

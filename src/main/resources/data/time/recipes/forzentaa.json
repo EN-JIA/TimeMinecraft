@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:tea_cup"
+    },
+    {
+      "item": "time:frozen_flower"
+    },
+    {
+      "item": "time:frozen_flower"
+    },
+    {
+      "item": "time:frozen_flower"
+    }
+  ],
+  "result": {
+    "item": "time:frozen_tea",
+    "count": 1
+  }
+}

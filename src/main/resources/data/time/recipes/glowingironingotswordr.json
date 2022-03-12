@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:glowing_iron_ingot"
+    },
+    {
+      "item": "time:glowing_iron_ingot"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "time:glowing_sword",
+    "count": 1
+  }
+}

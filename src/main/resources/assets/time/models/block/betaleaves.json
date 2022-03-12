@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/betaleaves",
+    "particle": "time:blocks/betaleaves"
+  }
+}

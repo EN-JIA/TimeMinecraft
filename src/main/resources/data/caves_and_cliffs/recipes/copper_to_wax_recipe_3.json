@@ -1,0 +1,16 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "caves_and_cliffs:copper_stairs"
+    }
+  ],
+  "result": {
+    "item": "caves_and_cliffs:waxed_copper_stairs",
+    "count": 1
+  }
+}

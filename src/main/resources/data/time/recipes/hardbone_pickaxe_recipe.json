@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "time:hardbone_gem"
+    },
+    "1": {
+      "item": "time:hardbone_gem"
+    },
+    "2": {
+      "item": "time:hardbone_gem"
+    },
+    "4": {
+      "item": "minecraft:bone"
+    },
+    "7": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "time:hardbone_pickaxe",
+    "count": 1
+  }
+}

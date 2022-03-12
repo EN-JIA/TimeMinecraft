@@ -1,0 +1,54 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:mcy_400_leaves"
+    },
+    "title": {
+      "translate": "advancements.aworldoficeandsnow.title"
+    },
+    "description": {
+      "translate": "advancements.aworldoficeandsnow.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aworldoficeandsnow": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "recipes": [
+      "time:crystaloreblockrecipe",
+      "time:crystalblockorerecipe",
+      "time:crystalpickaxerecipe",
+      "time:crystalaxerecipe",
+      "time:crystalswordrecipe",
+      "time:crystalshovelrecipe",
+      "time:crystalhoerecipe",
+      "time:crystalarmorhelmetrecipe",
+      "time:crystalarmorbodyrecipe",
+      "time:crystalarmorleggingsrecipe",
+      "time:crystalarmorbootsrecipe",
+      "time:tcrystalswordr2",
+      "time:crystalswordr2",
+      "time:crystalaxer2",
+      "time:crystalaxer3",
+      "time:crystalaxer4",
+      "time:tcrystalshovelr2",
+      "time:crystalshovelr3",
+      "time:crystalhoer2",
+      "time:crystalhoer3",
+      "time:crystalhoer4",
+      "time:magicbottler",
+      "time:expbottler",
+      "time:xpblockr",
+      "time:bottlemagicr",
+      "time:xpblockofinfinityr"
+    ]
+  },
+  "parent": "time:crawlerpublicenemy"
+}

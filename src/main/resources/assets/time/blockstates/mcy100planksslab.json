@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/mcy100planksslab"
+    },
+    "type=top": {
+      "model": "time:block/mcy100planksslab_top"
+    },
+    "type=double": {
+      "model": "time:block/mcy100planksslab_full"
+    }
+  }
+}

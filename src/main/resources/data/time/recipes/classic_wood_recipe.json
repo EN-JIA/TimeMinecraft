@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_log"
+    },
+    "1": {
+      "item": "time:classic_log"
+    },
+    "2": {
+      "item": "time:classic_log"
+    },
+    "3": {
+      "item": "time:classic_log"
+    }
+  },
+  "result": {
+    "item": "time:classic_wood",
+    "count": 3
+  }
+}

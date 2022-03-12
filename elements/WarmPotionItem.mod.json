@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Warm",
+    "splashName": "Splash Warm",
+    "lingeringName": "Lingering Warm",
+    "arrowName": "Arrow of Warm",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Warm"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

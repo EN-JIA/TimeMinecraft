@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ClassicWood"
+      },
+      {
+        "value": "CUSTOM:ClassicLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "classic_log",
+    "namespace": "forge"
+  }
+}

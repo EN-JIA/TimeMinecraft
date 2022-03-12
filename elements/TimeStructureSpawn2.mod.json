@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "command",
+  "definition": {
+    "commandName": "TimeStructureSpawn Dungeon_1",
+    "permissionLevel": "4",
+    "onCommandExecuted": {
+      "name": "TimeStructureSpawn2CommandExecuted"
+    }
+  }
+}

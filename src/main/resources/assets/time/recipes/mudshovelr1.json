@@ -1,0 +1,24 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mudball"
+    },
+    "1": {
+      "item": "time:mudball"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:mudshovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "blazingbow",
+    "customModelName": "Normal",
+    "name": "Blazing Bow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.ARROW"
+    },
+    "shootConstantly": false,
+    "usageCount": 423,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 7,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.FIRE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "BlazingBowBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "BlazingBowBulletHitsPlayer"
+    },
+    "onBulletHitsEntity": {
+      "name": "BlazingBowBulletHitsLivingEntity"
+    }
+  }
+}

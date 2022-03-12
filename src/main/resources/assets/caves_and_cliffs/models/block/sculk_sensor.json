@@ -1,0 +1,10 @@
+{
+  "parent": "caves_and_cliffs:custom/sculksensor",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/cdhbrfrt_2",
+    "particle": "caves_and_cliffs:blocks/cdhbrfrt_2",
+    "0": "caves_and_cliffs:blocks/sensortop_2_1_1",
+    "1": "caves_and_cliffs:blocks/cdhbrfrt_2",
+    "2": "caves_and_cliffs:blocks/twig_1"
+  }
+}

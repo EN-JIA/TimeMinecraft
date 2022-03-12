@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystal_gem"
+    },
+    "2": {
+      "item": "time:crystal_gem"
+    },
+    "3": {
+      "item": "time:crystal_gem"
+    },
+    "5": {
+      "item": "time:crystal_gem"
+    }
+  },
+  "result": {
+    "item": "time:crystal_armor_boots",
+    "count": 1
+  }
+}

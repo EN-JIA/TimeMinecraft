@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "caves_and_cliffs:blocks/frustum",
+    "particle": "caves_and_cliffs:blocks/frustum"
+  }
+}

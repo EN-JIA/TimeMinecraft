@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystal_item_white"
+    },
+    "1": {
+      "item": "time:magic_mushroom"
+    },
+    "2": {
+      "item": "time:crystal_item_white"
+    },
+    "3": {
+      "item": "time:crystal_item_white"
+    },
+    "4": {
+      "item": "time:magic_mushroom"
+    },
+    "5": {
+      "item": "time:crystal_item_white"
+    },
+    "6": {
+      "item": "time:crystal_item_white"
+    },
+    "7": {
+      "item": "time:crystal_item_white"
+    },
+    "8": {
+      "item": "time:crystal_item_white"
+    }
+  },
+  "result": {
+    "item": "time:magic_cauldron",
+    "count": 1
+  }
+}

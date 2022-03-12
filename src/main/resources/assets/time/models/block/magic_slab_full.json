@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "time:blocks/newmagicplanks",
+    "top": "time:blocks/newmagicplanks",
+    "side": "time:blocks/newmagicplanks"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:magic_bottle"
+    },
+    {
+      "item": "time:magic_bottle"
+    },
+    {
+      "item": "time:magic_powder"
+    },
+    {
+      "item": "time:magic_bottle"
+    },
+    {
+      "item": "time:magic_bottle"
+    },
+    {
+      "item": "time:magic_powder"
+    },
+    {
+      "item": "time:magic_powder"
+    },
+    {
+      "item": "time:magic_powder"
+    },
+    {
+      "item": "time:magic_powder"
+    }
+  ],
+  "result": {
+    "item": "time:magic_blocko",
+    "count": 1
+  }
+}

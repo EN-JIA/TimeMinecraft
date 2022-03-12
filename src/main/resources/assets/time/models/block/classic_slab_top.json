@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "time:blocks/mcy102400planks",
+    "top": "time:blocks/mcy102400planks",
+    "side": "time:blocks/mcy102400planks"
+  }
+}

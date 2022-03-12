@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:amethystgem"
+    },
+    "1": {
+      "item": "time:amethystgem"
+    },
+    "2": {
+      "item": "time:amethystgem"
+    },
+    "3": {
+      "item": "time:amethystgem"
+    },
+    "4": {
+      "item": "time:amethystgem"
+    },
+    "5": {
+      "item": "time:amethystgem"
+    },
+    "6": {
+      "item": "time:amethystgem"
+    },
+    "7": {
+      "item": "time:amethystgem"
+    },
+    "8": {
+      "item": "time:amethystgem"
+    }
+  },
+  "result": {
+    "item": "time:amethystoreblock",
+    "count": 1
+  }
+}

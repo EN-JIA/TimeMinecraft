@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:tin_gem"
+    },
+    "2": {
+      "item": "time:tin_gem"
+    },
+    "3": {
+      "item": "time:tin_gem"
+    },
+    "4": {
+      "item": "time:tin_gem"
+    },
+    "5": {
+      "item": "time:tin_gem"
+    },
+    "6": {
+      "item": "time:tin_gem"
+    },
+    "7": {
+      "item": "time:tin_gem"
+    },
+    "8": {
+      "item": "time:tin_gem"
+    }
+  },
+  "result": {
+    "item": "time:tin_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:hardbone_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:hardbone_gem",
+    "count": 9
+  }
+}

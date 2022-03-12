@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:minecraftyears100log"
+    }
+  ],
+  "result": {
+    "item": "time:mcy100planks",
+    "count": 4
+  }
+}

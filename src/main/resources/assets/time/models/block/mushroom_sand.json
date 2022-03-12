@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mushroomsand",
+    "up": "time:blocks/mushroomsand",
+    "north": "time:blocks/mushroomsand",
+    "east": "time:blocks/mushroomsand",
+    "south": "time:blocks/mushroomsand",
+    "west": "time:blocks/mushroomsand",
+    "particle": "time:blocks/mushroomsand"
+  }
+}

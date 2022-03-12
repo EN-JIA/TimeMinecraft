@@ -1,0 +1,29 @@
+[
+  {
+    "modid": "time",
+    "name": "The Tale Of The Infinite Macrocosm's Universe And Time",
+    "description": "時間傳說，一個新興的冒險RPG模組！",
+    "version": "1.0.0",
+    "credits": "“你有沒有想過你的Minecraft世界的過去或未來是什麽樣子的呢？這個開發中的模組’時間傳說（The Infinite Macrocosm's Universe And Time：Time of Saga）‘可以讓你實現這個願望！在這裡你可以建造時光機，探索10個時間線，過去現在與未來！ 未來即現在！”
+這是一個自制模組，目前屬於早期開發階段。
+Minecraft遊戲版本：1.15.2
+制作軟件：它使用了IDEA來構建代碼，用BlockBench、雪松來構建模型。
+更新情況：永不棄坑！
+靈感來源：時光機Mod以及虛空工藝Mod以及其它
+感謝：天藍色的苦力怕的一路陪伴、幻想鄉的邪王真眼使熵、那些帶我走進模組制作界的前輩們
+這只是個個人作品！請大家期望值不要太高！
+該模組由時間傳說開發組製作，成本沒有，版權沒有，優化沒有，批評輕噴！
+",
+    "logoFile": "assets/time/textures/aaaaa.png",
+    "mcversion": "1.12.2",
+    "url": "https://www.mcmod.cn/class/1866.html",
+    "updateUrl": "",
+    "authorList": [
+      "EN_JIA(Mod整體制作)、鯪魚X（模組靈感大獅、美術提供者）、墨懿老鴿子（美術提供）、蓝天（靈感提供者）、黑夜中的貓頭鷹（摸魚）、Pencil鉛筆Life（美術提供）、斯奎爾提克先生(美術提供還可以幹些別的)、藍色的苦力怕。"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"//感謝您看到這個文件裏的這句話。您能看到這個文件，一定是已經對時間傳說進行肢解，從內內外外看了個遍吧。沒關係！事實上，我早就想把時間傳說開源了。
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/classicstone",
+    "up": "time:blocks/classicstone",
+    "north": "time:blocks/classicstone",
+    "east": "time:blocks/classicstone",
+    "south": "time:blocks/classicstone",
+    "west": "time:blocks/classicstone",
+    "particle": "time:blocks/classicstone"
+  }
+}

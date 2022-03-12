@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:strawberry_block"
+    }
+  ],
+  "result": {
+    "item": "time:strawberry",
+    "count": 4
+  }
+}

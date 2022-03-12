@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:ginger_item"
+    },
+    {
+      "item": "time:ginger_item"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "time:ginger_item"
+    }
+  ],
+  "result": {
+    "item": "time:ginger_soup",
+    "count": 1
+  }
+}

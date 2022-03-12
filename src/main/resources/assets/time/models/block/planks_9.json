@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/crimson_planks",
+    "up": "time:blocks/crimson_planks",
+    "north": "time:blocks/crimson_planks",
+    "east": "time:blocks/crimson_planks",
+    "south": "time:blocks/crimson_planks",
+    "west": "time:blocks/crimson_planks",
+    "particle": "time:blocks/crimson_planks"
+  }
+}

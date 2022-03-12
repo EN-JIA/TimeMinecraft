@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/black_glowstone",
+    "up": "time:blocks/black_glowstone",
+    "north": "time:blocks/black_glowstone",
+    "east": "time:blocks/black_glowstone",
+    "south": "time:blocks/black_glowstone",
+    "west": "time:blocks/black_glowstone",
+    "particle": "time:blocks/black_glowstone"
+  }
+}

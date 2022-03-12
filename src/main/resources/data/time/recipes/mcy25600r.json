@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystal_heart"
+    },
+    "1": {
+      "item": "time:timegem"
+    },
+    "2": {
+      "item": "time:dimension_gem"
+    },
+    "3": {
+      "item": "time:space_gem"
+    }
+  },
+  "result": {
+    "item": "time:mcy_25600",
+    "count": 1
+  }
+}

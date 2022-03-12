@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/desolate_portal_block_animated_1",
+    "up": "time:blocks/desolate_portal_block_animated_1",
+    "north": "time:blocks/desolate_portal_block_animated_1",
+    "east": "time:blocks/desolate_portal_block_animated_1",
+    "south": "time:blocks/desolate_portal_block_animated_1",
+    "west": "time:blocks/desolate_portal_block_animated_1",
+    "particle": "time:blocks/desolate_portal_block_animated_1"
+  }
+}

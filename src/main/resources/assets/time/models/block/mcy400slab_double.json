@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/400_lanks",
+    "particle": "time:blocks/400_lanks"
+  }
+}

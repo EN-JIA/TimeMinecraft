@@ -1,0 +1,11 @@
+{
+  "parent": "caves_and_cliffs:custom/candlecake",
+  "textures": {
+    "all": "caves_and_cliffs:blocks/cake_top",
+    "particle": "caves_and_cliffs:blocks/cake_top",
+    "0": "caves_and_cliffs:blocks/candletexture",
+    "1": "caves_and_cliffs:blocks/cake_bottom",
+    "3": "caves_and_cliffs:blocks/cake_side",
+    "4": "caves_and_cliffs:blocks/cake_top"
+  }
+}

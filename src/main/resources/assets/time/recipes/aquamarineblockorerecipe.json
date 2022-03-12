@@ -1,0 +1,13 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:aquamarineoreblock"
+    }
+  ],
+  "result": {
+    "item": "time:aquamarinegem",
+    "count": 9
+  }
+}

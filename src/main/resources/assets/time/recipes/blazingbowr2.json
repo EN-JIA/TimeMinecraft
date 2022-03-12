@@ -1,0 +1,33 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "3 5",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:string"
+    },
+    "1": {
+      "item": "minecraft:blaze_rod"
+    },
+    "3": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "6": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "time:blazingbow",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "time:custom/gugu_hoe",
+  "textures": {
+    "0": "time:blocks/gugu_sword",
+    "particle": "time:items/gugu_sword"
+  }
+}

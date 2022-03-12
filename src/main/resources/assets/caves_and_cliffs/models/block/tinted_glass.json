@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "up": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "north": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "east": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "south": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "west": "caves_and_cliffs:blocks/tintedglass_1_1_1",
+    "particle": "caves_and_cliffs:blocks/tintedglass_1_1_1"
+  }
+}

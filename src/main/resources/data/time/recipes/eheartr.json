@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:wood_stone"
+    },
+    {
+      "item": "time:gold_stone"
+    },
+    {
+      "item": "time:fire_stone"
+    },
+    {
+      "item": "time:waterstone"
+    },
+    {
+      "item": "time:air_stone"
+    }
+  ],
+  "result": {
+    "item": "time:elements_heart",
+    "count": 1
+  }
+}

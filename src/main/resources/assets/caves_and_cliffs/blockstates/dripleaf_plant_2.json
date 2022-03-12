@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "caves_and_cliffs:block/dripleaf_plant_2"
+    },
+    "facing=east": {
+      "model": "caves_and_cliffs:block/dripleaf_plant_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "caves_and_cliffs:block/dripleaf_plant_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "caves_and_cliffs:block/dripleaf_plant_2",
+      "y": 270
+    }
+  }
+}

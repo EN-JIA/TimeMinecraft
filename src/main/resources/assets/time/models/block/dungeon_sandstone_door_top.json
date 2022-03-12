@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "time:blocks/red_sandstone_normal",
+    "top": "time:blocks/red_sandstone_carved"
+  }
+}

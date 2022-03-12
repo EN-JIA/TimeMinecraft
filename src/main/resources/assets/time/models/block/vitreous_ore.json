@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "time:blocks/bloodstoneore",
+    "particle": "time:blocks/bloodstoneore"
+  }
+}

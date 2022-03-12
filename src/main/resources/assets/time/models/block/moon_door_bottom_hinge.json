@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "time:blocks/moonlightdoorbottom",
+    "top": "time:blocks/moonlightdoortop"
+  }
+}

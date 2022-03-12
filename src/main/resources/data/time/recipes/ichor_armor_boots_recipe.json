@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:ichor"
+    },
+    "2": {
+      "item": "time:ichor"
+    },
+    "3": {
+      "item": "time:ichor"
+    },
+    "5": {
+      "item": "time:ichor"
+    }
+  },
+  "result": {
+    "item": "time:ichor_armor_boots",
+    "count": 1
+  }
+}

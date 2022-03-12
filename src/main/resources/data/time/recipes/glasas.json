@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "1": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "2": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "3": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "4": {
+      "item": "minecraft:brown_stained_glass_pane"
+    },
+    "5": {
+      "item": "minecraft:brown_stained_glass_pane"
+    }
+  },
+  "result": {
+    "item": "time:brown_glass_door",
+    "count": 1
+  }
+}

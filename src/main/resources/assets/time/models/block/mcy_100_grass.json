@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "time:blocks/mcy100newgrass",
+    "particle": "time:blocks/mcy100newgrass"
+  }
+}

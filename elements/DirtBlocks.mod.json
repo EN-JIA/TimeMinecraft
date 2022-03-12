@@ -1,0 +1,53 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Minecraftyears100grass"
+      },
+      {
+        "value": "CUSTOM:RuneGrass"
+      },
+      {
+        "value": "CUSTOM:Mcy400grass"
+      },
+      {
+        "value": "CUSTOM:NetherGrass"
+      },
+      {
+        "value": "CUSTOM:SilentiaGrass"
+      },
+      {
+        "value": "CUSTOM:ClassicGrass"
+      },
+      {
+        "value": "CUSTOM:CandyGrass"
+      },
+      {
+        "value": "CUSTOM:MCY102400Grass"
+      },
+      {
+        "value": "CUSTOM:DreamGrass"
+      },
+      {
+        "value": "CUSTOM:SweetGrass"
+      },
+      {
+        "value": "CUSTOM:StoneGrass"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "CUSTOM:MCY1600Grass"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

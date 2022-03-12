@@ -1,0 +1,22 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:timegem"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "time:spacegem"
+    },
+    {
+      "item": "time:dimensiongem"
+    }
+  ],
+  "result": {
+    "item": "time:mcy100",
+    "count": 1
+  }
+}

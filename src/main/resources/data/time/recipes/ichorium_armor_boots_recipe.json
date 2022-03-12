@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:ichorium"
+    },
+    "2": {
+      "item": "time:ichorium"
+    },
+    "3": {
+      "item": "time:ichorium"
+    },
+    "5": {
+      "item": "time:ichorium"
+    }
+  },
+  "result": {
+    "item": "time:ichorium_armor_boots",
+    "count": 1
+  }
+}

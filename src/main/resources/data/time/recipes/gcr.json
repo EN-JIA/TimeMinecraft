@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:deleted_mod_element"
+    },
+    "1": {
+      "item": "time:deleted_mod_element"
+    },
+    "2": {
+      "item": "time:deleted_mod_element"
+    },
+    "3": {
+      "item": "time:deleted_mod_element"
+    },
+    "4": {
+      "item": "time:deleted_mod_element"
+    },
+    "5": {
+      "item": "time:deleted_mod_element"
+    },
+    "6": {
+      "item": "time:deleted_mod_element"
+    },
+    "7": {
+      "item": "time:deleted_mod_element"
+    },
+    "8": {
+      "item": "time:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "time:crystal_item_blue",
+    "count": 1
+  }
+}

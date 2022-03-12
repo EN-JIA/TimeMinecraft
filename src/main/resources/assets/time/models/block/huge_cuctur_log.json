@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/cuctur_log_top",
+    "up": "time:blocks/cuctur_log_top",
+    "north": "time:blocks/cuctur_log_side",
+    "east": "time:blocks/cuctur_log_side",
+    "south": "time:blocks/cuctur_log_side",
+    "west": "time:blocks/cuctur_log_side",
+    "particle": "time:blocks/cuctur_log_top"
+  }
+}

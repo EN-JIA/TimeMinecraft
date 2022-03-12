@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "time:sakura_planks"
+    },
+    "1": {
+      "item": "time:sakura_planks"
+    },
+    "2": {
+      "item": "time:sakura_planks"
+    }
+  },
+  "result": {
+    "item": "time:sakura_slab",
+    "count": 6
+  }
+}

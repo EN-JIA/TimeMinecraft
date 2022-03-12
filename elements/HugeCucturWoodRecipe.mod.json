@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HugeCucturLog"
+      },
+      {
+        "value": "CUSTOM:HugeCucturLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HugeCucturLog"
+      },
+      {
+        "value": "CUSTOM:HugeCucturLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HugeCucturWood"
+    },
+    "name": "huge_cuctur_wood_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "newnetheronsword",
+    "customModelName": "Normal",
+    "name": "NetheronAlloy Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 18.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 14.0,
+    "usageCount": 3072,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Netheron"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

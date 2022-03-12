@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/mushroomdirtnew",
+    "up": "time:blocks/mushroom_grass_top",
+    "north": "time:blocks/mushroom_grass_side",
+    "east": "time:blocks/mushroom_grass_side",
+    "south": "time:blocks/mushroom_grass_side",
+    "west": "time:blocks/mushroom_grass_side",
+    "particle": "time:blocks/mushroomdirtnew"
+  }
+}

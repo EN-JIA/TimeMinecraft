@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "time:blocks/hyper_golden_block",
+    "top": "time:blocks/hyper_golden_block",
+    "side": "time:blocks/hyper_golden_block"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:bloody_glowstone_dust"
+    },
+    {
+      "item": "time:bloody_glowstone_dust"
+    },
+    {
+      "item": "time:bloody_glowstone_dust"
+    },
+    {
+      "item": "time:bloody_glowstone_dust"
+    }
+  ],
+  "result": {
+    "item": "time:deleted_mod_element",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:HugeCucturWood"
+      },
+      {
+        "value": "CUSTOM:HugeCucturLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "hugecuctur_log",
+    "namespace": "forge"
+  }
+}

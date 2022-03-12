@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "time:block/strawberry_log_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "time:block/strawberry_log_log"
+    },
+    "axis=z": {
+      "model": "time:block/strawberry_log_log",
+      "x": 90
+    }
+  }
+}

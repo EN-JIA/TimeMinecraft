@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:xp_lord_heart"
+    },
+    {
+      "item": "time:dimension_gem"
+    },
+    {
+      "item": "time:timegem"
+    },
+    {
+      "item": "time:space_gem"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_1600",
+    "count": 1
+  }
+}

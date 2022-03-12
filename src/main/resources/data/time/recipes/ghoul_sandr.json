@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:ghoul_planks"
+    },
+    "1": {
+      "item": "time:ghoul_planks"
+    },
+    "2": {
+      "item": "time:ghoul_planks"
+    },
+    "3": {
+      "item": "time:ghoul_planks"
+    },
+    "4": {
+      "item": "time:ghoul_core"
+    },
+    "5": {
+      "item": "time:ghoul_planks"
+    },
+    "6": {
+      "item": "time:ghoul_planks"
+    },
+    "7": {
+      "item": "time:ghoul_planks"
+    },
+    "8": {
+      "item": "time:ghoul_planks"
+    }
+  },
+  "result": {
+    "item": "time:ghoul_sand",
+    "count": 1
+  }
+}

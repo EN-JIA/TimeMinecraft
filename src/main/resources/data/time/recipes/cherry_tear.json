@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "time:tea_cup"
+    },
+    "1": {
+      "item": "time:cherries"
+    },
+    "2": {
+      "item": "time:cherries"
+    },
+    "3": {
+      "item": "time:cherries"
+    }
+  },
+  "result": {
+    "item": "time:cherry_tea",
+    "count": 1
+  }
+}

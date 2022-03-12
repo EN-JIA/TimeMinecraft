@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:classic_golden"
+    },
+    "1": {
+      "item": "time:classic_golden"
+    },
+    "2": {
+      "item": "time:classic_golden"
+    },
+    "3": {
+      "item": "time:classic_golden"
+    },
+    "4": {
+      "item": "time:classic_golden"
+    },
+    "5": {
+      "item": "time:classic_golden"
+    },
+    "6": {
+      "item": "time:classic_golden"
+    },
+    "7": {
+      "item": "time:classic_golden"
+    },
+    "8": {
+      "item": "time:classic_golden"
+    }
+  },
+  "result": {
+    "item": "time:classic_golden_block",
+    "count": 1
+  }
+}

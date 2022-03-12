@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/silentiadirt",
+    "up": "time:blocks/dustopia_grass_top",
+    "north": "time:blocks/silentiagrassside",
+    "east": "time:blocks/silentiagrassside",
+    "south": "time:blocks/silentiagrassside",
+    "west": "time:blocks/silentiagrassside",
+    "particle": "time:blocks/silentiadirt"
+  }
+}

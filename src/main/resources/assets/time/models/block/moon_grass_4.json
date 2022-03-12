@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/glow_ssarg",
+    "particle": "time:blocks/glow_ssarg"
+  }
+}

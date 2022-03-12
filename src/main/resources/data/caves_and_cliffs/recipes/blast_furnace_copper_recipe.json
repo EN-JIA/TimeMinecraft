@@ -1,0 +1,12 @@
+{
+  "group": "caves_and_cliffs",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "caves_and_cliffs:copper_ore"
+  },
+  "result": {
+    "item": "caves_and_cliffs:copper_ingot"
+  }
+}

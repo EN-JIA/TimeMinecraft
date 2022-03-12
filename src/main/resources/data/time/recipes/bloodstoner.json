@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:blood_stone_gem"
+    },
+    "1": {
+      "item": "time:blood_stone_gem"
+    },
+    "2": {
+      "item": "time:blood_stone_gem"
+    },
+    "3": {
+      "item": "time:blood_stone_gem"
+    },
+    "4": {
+      "item": "time:morcant_ore_block"
+    },
+    "5": {
+      "item": "time:blood_stone_gem"
+    },
+    "6": {
+      "item": "time:blood_stone_gem"
+    },
+    "7": {
+      "item": "time:blood_stone_gem"
+    },
+    "8": {
+      "item": "time:blood_stone_gem"
+    }
+  },
+  "result": {
+    "item": "time:bloodstoneblock",
+    "count": 1
+  }
+}

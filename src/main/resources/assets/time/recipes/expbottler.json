@@ -1,0 +1,17 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    {
+      "item": "time:magicbottle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 1
+  }
+}

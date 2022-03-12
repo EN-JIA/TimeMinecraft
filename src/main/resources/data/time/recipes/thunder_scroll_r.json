@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:perafrium"
+    },
+    {
+      "item": "time:perafrium"
+    },
+    {
+      "item": "time:thunder_scroll"
+    },
+    {
+      "item": "time:perafrium"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    }
+  ],
+  "result": {
+    "item": "time:thunder_scroll",
+    "count": 1
+  }
+}

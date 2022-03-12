@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "time:planks_7",
+    "minecraft:acacia_planks",
+    "time:planks_8",
+    "time:planks_9",
+    "time:strawberry_log_planks",
+    "time:planks_2",
+    "time:planks_3",
+    "time:planks_5",
+    "minecraft:warped_planks",
+    "time:moon_planks",
+    "time:bamboo_log_planks",
+    "time:planks_1",
+    "minecraft:spruce_planks",
+    "time:mcy_100_planks",
+    "minecraft:crimson_planks",
+    "minecraft:jungle_planks",
+    "time:cherry_planks",
+    "minecraft:dark_oak_planks",
+    "minecraft:oak_planks",
+    "time:desert_planks",
+    "time:mcy_400_planks",
+    "time:classic_planks",
+    "minecraft:birch_planks",
+    "time:planks_1_0"
+  ]
+}

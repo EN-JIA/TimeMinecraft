@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/silentiadirt",
+    "up": "time:blocks/silentiadirt",
+    "north": "time:blocks/silentiadirt",
+    "east": "time:blocks/silentiadirt",
+    "south": "time:blocks/silentiadirt",
+    "west": "time:blocks/silentiadirt",
+    "particle": "time:blocks/silentiadirt"
+  }
+}

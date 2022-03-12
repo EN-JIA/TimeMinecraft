@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/glasspaneempty",
+    "up": "time:blocks/glasspaneempty",
+    "north": "time:blocks/glasspaneempty",
+    "east": "time:blocks/glasspaneempty",
+    "south": "time:blocks/glasspaneempty",
+    "west": "time:blocks/glasspaneempty",
+    "particle": "time:blocks/glasspaneempty"
+  }
+}

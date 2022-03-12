@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:deleted_mod_element"
+    },
+    "3": {
+      "item": "time:deleted_mod_element"
+    },
+    "4": {
+      "item": "time:deleted_mod_element"
+    },
+    "6": {
+      "item": "time:deleted_mod_element"
+    },
+    "7": {
+      "item": "time:deleted_mod_element"
+    },
+    "8": {
+      "item": "time:deleted_mod_element"
+    }
+  },
+  "result": {
+    "item": "time:magic_stairs",
+    "count": 4
+  }
+}

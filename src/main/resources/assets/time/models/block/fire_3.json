@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "time:blocks/gold_fire",
+    "particle": "time:blocks/gold_fire"
+  }
+}

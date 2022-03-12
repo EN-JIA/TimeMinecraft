@@ -1,0 +1,60 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "aqua_new_head",
+    "enableBody": true,
+    "textureBody": "aqua_new_body",
+    "enableLeggings": true,
+    "textureLeggings": "aqua_new_pants",
+    "enableBoots": true,
+    "textureBoots": "aqua_new_feet",
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "armorTextureFile": "soul_",
+    "helmetName": "Aquamarine Helmet",
+    "bodyName": "Aquamarine Chestplate",
+    "leggingsName": "Aquamarine Leggings",
+    "bootsName": "Aquamarine Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 32,
+    "damageValueHelmet": 6,
+    "damageValueBody": 12,
+    "damageValueLeggings": 13,
+    "damageValueBoots": 6,
+    "enchantability": 18,
+    "toughness": 2.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AquamarineGem"
+      }
+    ]
+  }
+}

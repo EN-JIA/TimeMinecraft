@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/cyan_glowstone",
+    "up": "time:blocks/cyan_glowstone",
+    "north": "time:blocks/cyan_glowstone",
+    "east": "time:blocks/cyan_glowstone",
+    "south": "time:blocks/cyan_glowstone",
+    "west": "time:blocks/cyan_glowstone",
+    "particle": "time:blocks/cyan_glowstone"
+  }
+}

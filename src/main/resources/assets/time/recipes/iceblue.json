@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:icebluecrystal"
+    },
+    "1": {
+      "item": "time:icebluecrystal"
+    },
+    "2": {
+      "item": "time:icebluecrystal"
+    },
+    "3": {
+      "item": "time:icebluecrystal"
+    },
+    "4": {
+      "item": "time:icebluecrystal"
+    },
+    "5": {
+      "item": "time:icebluecrystal"
+    },
+    "6": {
+      "item": "time:icebluecrystal"
+    },
+    "7": {
+      "item": "time:icebluecrystal"
+    },
+    "8": {
+      "item": "time:icebluecrystal"
+    }
+  },
+  "result": {
+    "item": "time:crystalitemiceblue",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bloodstoneswordnew",
+    "customModelName": "Normal",
+    "name": "BloodStone Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 14,
+    "efficiency": 19.0,
+    "attackSpeed": 1.0,
+    "enchantability": 98,
+    "damageVsEntity": 18.0,
+    "usageCount": 3811,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

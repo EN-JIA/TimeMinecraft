@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "time:blocks/teakplanks",
+    "top": "time:blocks/teakplanks",
+    "side": "time:blocks/teakplanks"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "gugu_sword",
+    "customModelName": "gugu_sword:default",
+    "name": "Cooling Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 12,
+    "efficiency": 17.0,
+    "attackSpeed": 1.0,
+    "enchantability": 83,
+    "damageVsEntity": 18.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

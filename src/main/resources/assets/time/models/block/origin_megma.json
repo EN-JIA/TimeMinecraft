@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/origin_megma",
+    "up": "time:blocks/origin_megma",
+    "north": "time:blocks/origin_megma",
+    "east": "time:blocks/origin_megma",
+    "south": "time:blocks/origin_megma",
+    "west": "time:blocks/origin_megma",
+    "particle": "time:blocks/origin_megma"
+  }
+}

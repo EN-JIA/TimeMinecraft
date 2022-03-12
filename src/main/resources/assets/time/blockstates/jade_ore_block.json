@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "time:block/jade_ore_block"
+    }
+  }
+}

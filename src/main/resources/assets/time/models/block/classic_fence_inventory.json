@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "time:blocks/mcy102400planks",
+    "particle": "time:blocks/mcy102400planks"
+  }
+}

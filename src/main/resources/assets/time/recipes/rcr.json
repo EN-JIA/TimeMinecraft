@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:redcrystal"
+    },
+    "1": {
+      "item": "time:redcrystal"
+    },
+    "2": {
+      "item": "time:redcrystal"
+    },
+    "3": {
+      "item": "time:redcrystal"
+    },
+    "4": {
+      "item": "time:redcrystal"
+    },
+    "5": {
+      "item": "time:redcrystal"
+    },
+    "6": {
+      "item": "time:redcrystal"
+    },
+    "7": {
+      "item": "time:redcrystal"
+    },
+    "8": {
+      "item": "time:redcrystal"
+    }
+  },
+  "result": {
+    "item": "time:crystalitemred",
+    "count": 1
+  }
+}

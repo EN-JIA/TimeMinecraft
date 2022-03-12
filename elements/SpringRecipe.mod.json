@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BambooLog"
+      },
+      {
+        "value": "CUSTOM:BambooLog"
+      },
+      {
+        "value": "CUSTOM:BambooLog"
+      },
+      {
+        "value": "CUSTOM:MudBlock"
+      },
+      {
+        "value": "Blocks.WOODEN_PRESSURE_PLATE"
+      },
+      {
+        "value": "CUSTOM:MudBlock"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Blocks.TRIPWIRE_HOOK"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Spring2"
+    },
+    "name": "spring_recipe",
+    "namespace": "mod"
+  }
+}

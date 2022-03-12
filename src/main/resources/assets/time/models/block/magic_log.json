@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/magiclogtop",
+    "up": "time:blocks/magiclogtop",
+    "north": "time:blocks/magiclog",
+    "east": "time:blocks/magiclog",
+    "south": "time:blocks/magiclog",
+    "west": "time:blocks/magiclog",
+    "particle": "time:blocks/magiclogtop"
+  }
+}

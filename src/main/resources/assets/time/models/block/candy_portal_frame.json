@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/candyportalframe",
+    "up": "time:blocks/candyportalframe",
+    "north": "time:blocks/candyportalframe",
+    "east": "time:blocks/candyportalframe",
+    "south": "time:blocks/candyportalframe",
+    "west": "time:blocks/candyportalframe",
+    "particle": "time:blocks/candyportalframe"
+  }
+}

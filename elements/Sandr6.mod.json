@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Bluesandstone"
+      },
+      {
+        "value": "CUSTOM:Bluesandstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Bluesandstone"
+      },
+      {
+        "value": "CUSTOM:Bluesandstone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueCutSandstone"
+    },
+    "name": "sandr_6",
+    "namespace": "mod"
+  }
+}

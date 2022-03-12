@@ -1,0 +1,15 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:planks",
+      "data": 5
+    }
+  ],
+  "result": {
+    "item": "minecraft:planks",
+    "data": 4,
+    "count": 4
+  }
+}

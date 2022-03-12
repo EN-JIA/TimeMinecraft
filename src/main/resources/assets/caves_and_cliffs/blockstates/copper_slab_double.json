@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "caves_and_cliffs:copper_slab_double"
+    }
+  }
+}

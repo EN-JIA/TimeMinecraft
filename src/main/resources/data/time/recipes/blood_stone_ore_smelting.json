@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 4.8999999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "time:deleted_mod_element"
+  },
+  "result": {
+    "item": "time:blood_stone_gem"
+  }
+}

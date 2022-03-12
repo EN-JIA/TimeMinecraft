@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_star"
+    },
+    "1": {
+      "item": "time:space_gem"
+    },
+    "2": {
+      "item": "minecraft:nether_star"
+    },
+    "3": {
+      "item": "time:netherreactor"
+    },
+    "4": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "5": {
+      "item": "time:netherreactor"
+    },
+    "6": {
+      "item": "minecraft:nether_star"
+    },
+    "7": {
+      "item": "minecraft:beacon"
+    },
+    "8": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "time:super_nether_star",
+    "count": 1
+  }
+}

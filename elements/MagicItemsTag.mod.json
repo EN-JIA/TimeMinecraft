@@ -1,0 +1,19 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MagicWood"
+      },
+      {
+        "value": "CUSTOM:MagicLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "magic_log",
+    "namespace": "forge"
+  }
+}

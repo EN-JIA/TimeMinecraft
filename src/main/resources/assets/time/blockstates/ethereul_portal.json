@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "time:block/ethereul_portal_ew"
+    },
+    "axis=x": {
+      "model": "time:block/ethereul_portal_ns"
+    }
+  }
+}

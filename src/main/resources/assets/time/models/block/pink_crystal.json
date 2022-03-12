@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/rystalink",
+    "up": "time:blocks/rystalink",
+    "north": "time:blocks/rystalink",
+    "east": "time:blocks/rystalink",
+    "south": "time:blocks/rystalink",
+    "west": "time:blocks/rystalink",
+    "particle": "time:blocks/rystalink"
+  }
+}

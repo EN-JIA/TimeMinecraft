@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/strawberry_log_slab"
+    },
+    "type=top": {
+      "model": "time:block/strawberry_log_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/strawberry_log_slab_full"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:whitediamondgem"
+    },
+    "1": {
+      "item": "time:whitediamondgem"
+    },
+    "2": {
+      "item": "time:whitediamondgem"
+    },
+    "3": {
+      "item": "time:whitediamondgem"
+    },
+    "4": {
+      "item": "time:whitediamondgem"
+    },
+    "5": {
+      "item": "time:whitediamondgem"
+    },
+    "6": {
+      "item": "time:whitediamondgem"
+    },
+    "7": {
+      "item": "time:whitediamondgem"
+    },
+    "8": {
+      "item": "time:whitediamondgem"
+    }
+  },
+  "result": {
+    "item": "time:whitediamondoreblock",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystalgem"
+    },
+    "2": {
+      "item": "time:crystalgem"
+    },
+    "3": {
+      "item": "time:crystalgem"
+    },
+    "5": {
+      "item": "time:crystalgem"
+    }
+  },
+  "result": {
+    "item": "time:crystalarmorboots",
+    "count": 1
+  }
+}

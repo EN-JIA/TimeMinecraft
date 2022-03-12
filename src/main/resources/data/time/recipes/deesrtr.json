@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "tag": "minecraft:sand"
+    },
+    "3": {
+      "tag": "minecraft:sand"
+    },
+    "4": {
+      "tag": "minecraft:sand"
+    },
+    "5": {
+      "tag": "minecraft:sand"
+    },
+    "7": {
+      "tag": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "time:dessert_of_desert",
+    "count": 4
+  }
+}

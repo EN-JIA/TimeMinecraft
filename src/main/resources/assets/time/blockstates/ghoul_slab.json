@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "time:block/ghoul_slab"
+    },
+    "type=top": {
+      "model": "time:block/ghoul_slab_top"
+    },
+    "type=double": {
+      "model": "time:block/ghoul_slab_full"
+    }
+  }
+}

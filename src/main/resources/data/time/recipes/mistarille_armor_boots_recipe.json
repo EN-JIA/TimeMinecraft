@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mistarille_gem"
+    },
+    "2": {
+      "item": "time:mistarille_gem"
+    },
+    "3": {
+      "item": "time:mistarille_gem"
+    },
+    "5": {
+      "item": "time:mistarille_gem"
+    }
+  },
+  "result": {
+    "item": "time:mistarille_armor_boots",
+    "count": 1
+  }
+}

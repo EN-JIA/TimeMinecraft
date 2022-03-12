@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/netherfirelogtop",
+    "up": "time:blocks/netherfirelogtop",
+    "north": "time:blocks/netherfirelogtop",
+    "east": "time:blocks/netherfirelogtop",
+    "south": "time:blocks/netherfirelogtop",
+    "west": "time:blocks/netherfirelogtop",
+    "particle": "time:blocks/netherfirelogtop"
+  }
+}

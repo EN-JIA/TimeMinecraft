@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:xp_lord_heart"
+    },
+    "title": {
+      "translate": "advancements.frostruler.title"
+    },
+    "description": {
+      "translate": "advancements.frostruler.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "frostruler": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:aworldoficeandsnow"
+}

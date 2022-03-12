@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "mudshovel",
+    "customModelName": "Normal",
+    "name": "Mud Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 0,
+    "efficiency": 2.0,
+    "attackSpeed": 1.0,
+    "enchantability": 1,
+    "damageVsEntity": 0.0,
+    "usageCount": 36,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:MudBall"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

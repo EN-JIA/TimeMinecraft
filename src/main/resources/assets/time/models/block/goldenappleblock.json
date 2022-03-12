@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/appleblockbottom",
+    "up": "time:blocks/appleblocktop",
+    "north": "time:blocks/appleblock",
+    "east": "time:blocks/appleblock",
+    "south": "time:blocks/appleblock",
+    "west": "time:blocks/appleblock",
+    "particle": "time:blocks/appleblockbottom"
+  }
+}

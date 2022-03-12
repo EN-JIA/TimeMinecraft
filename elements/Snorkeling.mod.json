@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Snorkeling",
+    "achievementDescription": "none",
+    "achievementIcon": {
+      "value": "CUSTOM:DivingHelmet.helmet"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [
+      "Newportalr"
+    ],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 2000,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:MoonBlock2"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"31\" y=\"56\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "time:whitediamondgem"
+    },
+    "title": {
+      "translate": "advancements.betterthandiamonds.title"
+    },
+    "description": {
+      "translate": "advancements.betterthandiamonds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "betterthandiamonds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "time:aworldanewjourney"
+}

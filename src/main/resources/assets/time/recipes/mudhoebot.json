@@ -1,0 +1,26 @@
+{
+  "group": "time",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mudball"
+    },
+    "2": {
+      "item": "time:mudball"
+    },
+    "3": {
+      "item": "time:mudball"
+    },
+    "5": {
+      "item": "time:mudball"
+    }
+  },
+  "result": {
+    "item": "time:mudarmorboots",
+    "count": 1
+  }
+}

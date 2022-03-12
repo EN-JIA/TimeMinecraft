@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/ghoulstone",
+    "up": "time:blocks/ghoulstone",
+    "north": "time:blocks/ghoulstone",
+    "east": "time:blocks/ghoulstone",
+    "south": "time:blocks/ghoulstone",
+    "west": "time:blocks/ghoulstone",
+    "particle": "time:blocks/ghoulstone"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "minecraftyears100water": [
+      {
+        "custom": {
+          "fluid": "minecraftyears100water"
+        }
+      }
+    ]
+  }
+}

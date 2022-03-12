@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "time:crystal_sharp"
+    },
+    "1": {
+      "item": "time:crystal_sharp"
+    },
+    "2": {
+      "item": "time:crystal_sharp"
+    },
+    "3": {
+      "item": "time:crystal_sharp"
+    },
+    "4": {
+      "item": "time:crystal_sharp"
+    },
+    "5": {
+      "item": "time:crystal_sharp"
+    },
+    "6": {
+      "item": "time:crystal_sharp"
+    },
+    "7": {
+      "item": "time:crystal_sharp"
+    },
+    "8": {
+      "item": "time:crystal_sharp"
+    }
+  },
+  "result": {
+    "item": "time:huge_crystal_sharp",
+    "count": 1
+  }
+}

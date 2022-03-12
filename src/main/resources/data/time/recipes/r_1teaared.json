@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "time:eatable_grassblttle"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "time:happy_tea",
+    "count": 1
+  }
+}

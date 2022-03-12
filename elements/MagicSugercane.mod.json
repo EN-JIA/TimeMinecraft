@@ -1,0 +1,78 @@
+{
+  "_fv": 24,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "magicc",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "magiccaneitem",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "growapable",
+    "staticPlantGenerationType": "Flower",
+    "suspiciousStewEffect": "SATURATION",
+    "suspiciousStewDuration": 0,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 8,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [],
+    "name": "Magic Suger Cane",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 15,
+    "unbreakable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "GROUND"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "frequencyOnChunks": 6,
+    "spawnWorldTypes": [
+      "CUSTOM:Mcy25600"
+    ],
+    "restrictionBiomes": [],
+    "patchSize": 64
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HardboneGem"
+      },
+      {
+        "value": "CUSTOM:HardboneGem"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardboneGem"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardboneAxe"
+    },
+    "name": "hardbone_axe_recipe",
+    "namespace": "mod"
+  }
+}

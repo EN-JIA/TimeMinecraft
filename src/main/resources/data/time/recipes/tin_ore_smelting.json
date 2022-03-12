@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "time:tin_ore"
+  },
+  "result": {
+    "item": "time:tin_gem"
+  }
+}

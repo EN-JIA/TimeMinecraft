@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "time:tin_ore_block"
+    }
+  ],
+  "result": {
+    "item": "time:tin_gem",
+    "count": 9
+  }
+}

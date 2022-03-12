@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "time:blocks/icealtarnew",
+    "up": "time:blocks/icealtarnew",
+    "north": "time:blocks/icealtarnew",
+    "east": "time:blocks/icealtarnew",
+    "south": "time:blocks/icealtarnew",
+    "west": "time:blocks/icealtarnew",
+    "particle": "time:blocks/icealtarnew"
+  }
+}

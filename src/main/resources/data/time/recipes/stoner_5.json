@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "time:mcy_400_stone"
+    },
+    "1": {
+      "item": "time:mcy_400_stone"
+    },
+    "2": {
+      "item": "time:mcy_400_stone"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "time:frozen_axe",
+    "count": 1
+  }
+}

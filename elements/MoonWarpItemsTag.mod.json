@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MoonWarpWood"
+      },
+      {
+        "value": "CUSTOM:MoonWarpLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "moonwarp_log",
+    "namespace": "forge"
+  }
+}

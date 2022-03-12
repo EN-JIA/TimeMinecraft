@@ -1,0 +1,180 @@
+{
+  "tfacenim": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:tfarcenim",
+        "stream": true
+      }
+    ]
+  },
+  "mcy100_world_music": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:cy100_music",
+        "stream": true
+      }
+    ]
+  },
+  "boss_music_riser": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:riser_boss_music",
+        "stream": true
+      }
+    ]
+  },
+  "spring": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time:1464",
+        "stream": false
+      }
+    ]
+  },
+  "stone_normal": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time:stonehag",
+        "stream": false
+      }
+    ]
+  },
+  "stone_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time:stonehurt",
+        "stream": false
+      }
+    ]
+  },
+  "deadly_fire_hurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time:deadlyfirehurt",
+        "stream": false
+      }
+    ]
+  },
+  "deadly_fire_normal": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "time:deadlyfirenormal",
+        "stream": false
+      }
+    ]
+  },
+  "mcysound": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_creepy608949__bendyboi__no-longer",
+        "stream": true
+      },
+      {
+        "name": "time:time_mcy102400desert_609341__audiomirage__a-long-story",
+        "stream": true
+      },
+      {
+        "name": "time:time_mcy1600a_609247__erokia__lucid_1",
+        "stream": true
+      },
+      {
+        "name": "time:time_mcy1600a_609247__erokia__lucid",
+        "stream": true
+      },
+      {
+        "name": "time:time_mcy25600a__ispeakwaves__mystery",
+        "stream": true
+      }
+    ]
+  },
+  "creepy": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_creepy608949__bendyboi__no-longer",
+        "stream": true
+      }
+    ]
+  },
+  "mcy25600a": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_mcy25600a__ispeakwaves__mystery",
+        "stream": true
+      }
+    ]
+  },
+  "mcy102400a": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_mcy102400desert_609341__audiomirage__a-long-story",
+        "stream": true
+      }
+    ]
+  },
+  "mcy1600a": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_mcy1600a_609247__erokia__lucid_1",
+        "stream": true
+      }
+    ]
+  },
+  "mcycreepy": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:time_creepy608949__bendyboi__no-longer",
+        "stream": true
+      }
+    ]
+  },
+  "mcy100b": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:100b__ispeakwaves__wonderful-calm-beautiful-piano-loop",
+        "stream": true
+      }
+    ]
+  },
+  "mcy100c": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:100c__ispeakwaves__soft-piano-loop-2",
+        "stream": true
+      }
+    ]
+  },
+  "mcy400a": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:400a570316__ispeakwaves__calm-piano-jazz-loop_1",
+        "stream": true
+      }
+    ]
+  },
+  "mcy400b": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "time:400b__ispeakwaves__casual-loop-1",
+        "stream": true
+      }
+    ]
+  }
+}
