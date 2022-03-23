@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "time:sakura_planks",
     "time:mcy_400_planks",
     "time:mcy_100_planks"
   ]

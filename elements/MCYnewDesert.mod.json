@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "MC Ynew Desert",
+    "name": "MCY 100 Desert Mountain",
     "groundBlock": {
       "value": "CUSTOM:WindSand"
     },
@@ -33,11 +33,11 @@
     },
     "rainingPossibility": 0.5,
     "temperature": 0.5,
-    "baseHeight": -10.0,
-    "heightVariation": 2.0,
+    "baseHeight": 1.0,
+    "heightVariation": 0.0,
     "biomeType": "DESERT",
     "spawnBiome": false,
-    "biomeWeight": 10,
+    "biomeWeight": 3,
     "biomeDictionaryTypes": [],
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
@@ -74,7 +74,7 @@
     "spawnDesertPyramid": false,
     "spawnSwampHut": false,
     "spawnIgloo": false,
-    "spawnOceanMonument": false,
+    "spawnOceanMonument": true,
     "spawnShipwreck": false,
     "spawnShipwreckBeached": false,
     "spawnBuriedTreasure": false,
@@ -84,11 +84,7 @@
     "spawnBastionRemnant": false,
     "spawnEndCity": false,
     "spawnRuinedPortal": "NONE",
-    "defaultFeatures": [
-      "Caves",
-      "Ores",
-      "FrozenTopLayer"
-    ],
+    "defaultFeatures": [],
     "spawnEntries": []
   }
 }

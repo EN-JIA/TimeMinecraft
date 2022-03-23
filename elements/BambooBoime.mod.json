@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Bamboo Boime",
+    "name": "MCY 25600 Bamboo Boime",
     "groundBlock": {
       "value": "Blocks.GRASS"
     },
@@ -29,8 +29,23 @@
       "value": -14329397,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Leavesfall100"
+    },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {

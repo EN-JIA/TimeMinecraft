@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Mushroommountain",
+    "name": "MCY 1600 High Mountain",
     "groundBlock": {
       "value": "CUSTOM:MCY1600Grass"
     },

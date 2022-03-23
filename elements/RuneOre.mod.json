@@ -122,13 +122,9 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
-    "restrictionBiomes": [
-      {
-        "value": "CUSTOM:RuneLand"
-      }
-    ],
+    "restrictionBiomes": [],
     "blocksToReplace": [
       {
         "value": "CUSTOM:Minecraftyears100stone"

@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Old Desert",
+    "name": "MCY 102400 Old Desert",
     "groundBlock": {
       "value": "CUSTOM:OldSand"
     },

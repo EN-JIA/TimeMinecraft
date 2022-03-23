@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "time:blocks/snowglass",
-    "up": "time:blocks/snowglass",
-    "north": "time:blocks/snowglass",
-    "east": "time:blocks/snowglass",
-    "south": "time:blocks/snowglass",
-    "west": "time:blocks/snowglass",
-    "particle": "time:blocks/snowglass"
+    "all": "time:blocks/slowglass",
+    "particle": "time:blocks/slowglass"
   }
 }

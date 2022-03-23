@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "A 1 0 0tree 1",
+    "name": "MCY 100 Yellow Forest",
     "groundBlock": {
       "value": "CUSTOM:Minecraftyears100grass"
     },
@@ -37,7 +37,7 @@
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": false,
-    "biomeWeight": 2,
+    "biomeWeight": 4,
     "biomeDictionaryTypes": [],
     "grassPerChunk": 0,
     "seagrassPerChunk": 0,

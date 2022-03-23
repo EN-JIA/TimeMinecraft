@@ -22,8 +22,8 @@
   "rewards": {
     "experience": 1,
     "recipes": [
-      "time:whitediamondoreblockrecipe",
-      "time:whitediamondblockorerecipe",
+      "time:deleted_mod_element",
+      "time:deleted_mod_element",
       "time:whitediamondoresmelting",
       "time:deleted_mod_element",
       "time:whitediamondaxerecipe",

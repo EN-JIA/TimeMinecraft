@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Mcy 4 0 0f OREST",
+    "name": "MCY 400 Frozen Forest",
     "groundBlock": {
       "value": "CUSTOM:Mcy400grass"
     },

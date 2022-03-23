@@ -14,6 +14,7 @@
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": false,
@@ -57,6 +58,9 @@
     "tickRandomly": false,
     "isReplaceable": false,
     "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": "CUSTOM:HealthyStoneOre"
@@ -74,6 +78,21 @@
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "STONE"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
     },
     "luminance": 0,
     "unbreakable": false,
@@ -103,7 +122,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [

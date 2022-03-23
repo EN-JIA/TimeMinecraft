@@ -1,0 +1,121 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 5,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 10,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 14,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 19,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 28,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon1.png",
+          "use1Xscale": true,
+          "name": "apowericon1.png",
+          "x": 23,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon2.png",
+          "use1Xscale": true,
+          "name": "apowericon2.png",
+          "x": 32,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon2.png",
+          "use1Xscale": true,
+          "name": "apowericon2.png",
+          "x": 37,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon2.png",
+          "use1Xscale": true,
+          "name": "apowericon2.png",
+          "x": 41,
+          "y": 188
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "apowericon2.png",
+          "use1Xscale": true,
+          "name": "apowericon2.png",
+          "x": 46,
+          "y": 188
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "Power6"
+    },
+    "gridSettings": {
+      "sx": 9,
+      "sy": 9,
+      "ox": 9,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

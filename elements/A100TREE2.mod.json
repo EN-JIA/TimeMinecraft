@@ -2,12 +2,20 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "A 1 0 0 TREE 2",
+    "name": "MCY 100 Wind Small Forest",
     "groundBlock": {
       "value": "CUSTOM:Minecraftyears100grass"
     },
     "undergroundBlock": {
       "value": "CUSTOM:Minecraftyears100dirt"
+    },
+    "grassColor": {
+      "value": -16724992,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -16724992,
+      "falpha": 0.0
     },
     "ambientSound": {
       "value": ""
@@ -48,8 +56,8 @@
     "gravelPatchesPerChunk": 0,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 1,
-    "vanillaTreeType": "Savanna trees",
+    "treesPerChunk": 10,
+    "vanillaTreeType": "Big trees",
     "treeType": 1,
     "minHeight": 7,
     "treeStem": {

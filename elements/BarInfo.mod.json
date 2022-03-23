@@ -2,47 +2,97 @@
   "_fv": 24,
   "_type": "overlay",
   "definition": {
-    "priority": "NORMAL",
+    "priority": "HIGH",
     "components": [
       {
         "type": "image",
         "data": {
-          "image": "tbs.png",
-          "use1Xscale": false,
-          "name": "tbs.png",
-          "x": 24,
-          "y": 116
+          "image": "waterbarbackground.png",
+          "use1Xscale": true,
+          "name": "waterbarbackground.png",
+          "x": 3,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
-          "image": "san.png",
-          "use1Xscale": false,
-          "name": "san.png",
-          "x": 42,
-          "y": 116
+          "image": "bedguibackground.png",
+          "use1Xscale": true,
+          "name": "bedguibackground.png",
+          "x": 3,
+          "y": 219
         }
       },
       {
         "type": "image",
         "data": {
-          "image": "tft.png",
-          "use1Xscale": false,
-          "name": "tft.png",
-          "x": 6,
-          "y": 116
+          "image": "sanitybackgrounud.png",
+          "use1Xscale": true,
+          "name": "sanitybackgrounud.png",
+          "x": 3,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "magicbackground.png",
+          "use1Xscale": true,
+          "name": "magicbackground.png",
+          "x": 3,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "powerbackground.png",
+          "use1Xscale": true,
+          "name": "powerbackground.png",
+          "x": 3,
+          "y": 187
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "frozenbackground.png",
+          "use1Xscale": true,
+          "name": "frozenbackground.png",
+          "x": 3,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "evilbackground.png",
+          "use1Xscale": true,
+          "name": "evilbackground.png",
+          "x": 3,
+          "y": 165
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "healthybackground.png",
+          "use1Xscale": true,
+          "name": "healthybackground.png",
+          "x": 3,
+          "y": 154
         }
       }
     ],
     "baseTexture": "",
     "overlayTarget": "Ingame",
     "gridSettings": {
-      "sx": 18,
-      "sy": 18,
-      "ox": 11,
+      "sx": 9,
+      "sy": 9,
+      "ox": 9,
       "oy": 15,
-      "snapOnGrid": true
+      "snapOnGrid": false
     }
   }
 }

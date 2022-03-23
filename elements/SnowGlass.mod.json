@@ -2,17 +2,17 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "snowglass",
+    "texture": "slowglass",
     "textureTop": "snowglass",
     "textureLeft": "snowglass",
     "textureFront": "snowglass",
     "textureRight": "snowglass",
     "textureBack": "snowglass",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
-    "displayFluidOverlay": false,
+    "displayFluidOverlay": true,
     "itemTexture": "",
     "particleTexture": "",
     "tintType": "No tint",
@@ -58,6 +58,9 @@
     "tickRandomly": false,
     "isReplaceable": false,
     "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
@@ -75,6 +78,21 @@
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "GLASS"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
     },
     "luminance": 0,
     "unbreakable": false,

@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Snow 1",
+    "name": "MCY 400 Snowy Land",
     "groundBlock": {
       "value": "CUSTOM:Mcy400grass"
     },

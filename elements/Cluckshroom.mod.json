@@ -140,6 +140,21 @@
       },
       {
         "value": "CUSTOM:ChocolateLand"
+      },
+      {
+        "value": "CUSTOM:StoneMountain"
+      },
+      {
+        "value": "CUSTOM:SukuraPlains"
+      },
+      {
+        "value": "CUSTOM:WallMountain"
+      },
+      {
+        "value": "CUSTOM:WindForest"
+      },
+      {
+        "value": "CUSTOM:WindForest2"
       }
     ],
     "spawnInDungeons": false

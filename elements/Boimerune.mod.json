@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Boimerune",
+    "name": "MCY 100 Rune Land",
     "groundBlock": {
       "value": "Blocks.GRASS"
     },
@@ -29,8 +29,23 @@
       "value": -14329397,
       "falpha": 0.0
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Leavesfall100"
+    },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {

@@ -13,9 +13,13 @@
       },
       {
         "value": "CUSTOM:Magicplanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
       }
     ],
     "functions": [],
+    "entities": [],
     "name": "plankWood",
     "namespace": "forge"
   }

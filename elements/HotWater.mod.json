@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "hotwater",
+    "customModelName": "Normal",
+    "name": "Hot Water",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 0,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "Items.GLASS_BOTTLE"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "HotWaterDangShiWuBeiChiShi"
+    }
+  }
+}

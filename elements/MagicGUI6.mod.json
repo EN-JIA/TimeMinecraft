@@ -1,0 +1,121 @@
+{
+  "_fv": 24,
+  "_type": "overlay",
+  "definition": {
+    "priority": "LOWEST",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 5,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 10,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 14,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 19,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 28,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "afullmagic.png",
+          "use1Xscale": true,
+          "name": "afullmagic.png",
+          "x": 23,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aemptymagic.png",
+          "use1Xscale": true,
+          "name": "aemptymagic.png",
+          "x": 32,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aemptymagic.png",
+          "use1Xscale": true,
+          "name": "aemptymagic.png",
+          "x": 37,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aemptymagic.png",
+          "use1Xscale": true,
+          "name": "aemptymagic.png",
+          "x": 41,
+          "y": 197
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "aemptymagic.png",
+          "use1Xscale": true,
+          "name": "aemptymagic.png",
+          "x": 46,
+          "y": 197
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "Magic6"
+    },
+    "gridSettings": {
+      "sx": 9,
+      "sy": 9,
+      "ox": 9,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

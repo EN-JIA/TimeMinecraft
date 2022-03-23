@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Snow Desert",
+    "name": "MCY 400 Snowy Desert",
     "groundBlock": {
       "value": "CUSTOM:SnowSand"
     },
@@ -73,7 +73,7 @@
     "spawnJungleTemple": false,
     "spawnDesertPyramid": false,
     "spawnSwampHut": false,
-    "spawnIgloo": false,
+    "spawnIgloo": true,
     "spawnOceanMonument": false,
     "spawnShipwreck": false,
     "spawnShipwreckBeached": false,
@@ -85,7 +85,6 @@
     "spawnEndCity": false,
     "spawnRuinedPortal": "NONE",
     "defaultFeatures": [
-      "Caves",
       "Ores",
       "FrozenTopLayer"
     ],

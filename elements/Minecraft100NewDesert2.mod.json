@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "MC Ynew Desert",
+    "name": "MCY 100 Desert Mountain",
     "groundBlock": {
       "value": "CUSTOM:WindSand"
     },
@@ -33,21 +33,21 @@
     },
     "rainingPossibility": 0.5,
     "temperature": 0.5,
-    "baseHeight": -10.0,
-    "heightVariation": 2.0,
+    "baseHeight": 2.1999999999999997,
+    "heightVariation": 0.1,
     "biomeType": "DESERT",
     "spawnBiome": false,
-    "biomeWeight": 10,
+    "biomeWeight": 1,
     "biomeDictionaryTypes": [],
-    "grassPerChunk": 4,
+    "grassPerChunk": 0,
     "seagrassPerChunk": 0,
-    "flowersPerChunk": 4,
+    "flowersPerChunk": 0,
     "mushroomsPerChunk": 0,
     "bigMushroomsChunk": 0,
-    "sandPatchesPerChunk": 0,
-    "gravelPatchesPerChunk": 0,
+    "sandPatchesPerChunk": 6,
+    "gravelPatchesPerChunk": 5,
     "reedsPerChunk": 0,
-    "cactiPerChunk": 0,
+    "cactiPerChunk": 10,
     "treesPerChunk": 0,
     "vanillaTreeType": "Default",
     "treeType": 0,
@@ -84,11 +84,35 @@
     "spawnBastionRemnant": false,
     "spawnEndCity": false,
     "spawnRuinedPortal": "NONE",
-    "defaultFeatures": [
-      "Caves",
-      "Ores",
-      "FrozenTopLayer"
-    ],
-    "spawnEntries": []
+    "defaultFeatures": [],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:BoneSpider"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Cluckshroom"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityCow"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
   }
 }

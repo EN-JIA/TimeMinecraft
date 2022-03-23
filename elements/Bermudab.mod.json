@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Bermudab",
+    "name": "Bermuda B",
     "groundBlock": {
       "value": "CUSTOM:RandomBlock"
     },

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "time:aquamarine_gem"
+    }
+  ],
+  "result": {
+    "item": "time:mcy_100_obsidian",
+    "count": 1
+  }
+}

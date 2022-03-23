@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Sakura Forest",
+    "name": "MCY 100 Sakura Forest",
     "groundBlock": {
       "value": "CUSTOM:Minecraftyears100grass"
     },
@@ -39,7 +39,7 @@
     "spawnBiome": false,
     "biomeWeight": 10,
     "biomeDictionaryTypes": [],
-    "grassPerChunk": 4,
+    "grassPerChunk": 0,
     "seagrassPerChunk": 0,
     "flowersPerChunk": 4,
     "mushroomsPerChunk": 0,
@@ -48,7 +48,7 @@
     "gravelPatchesPerChunk": 0,
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
-    "treesPerChunk": 1,
+    "treesPerChunk": 0,
     "vanillaTreeType": "Big trees",
     "treeType": 1,
     "minHeight": 7,

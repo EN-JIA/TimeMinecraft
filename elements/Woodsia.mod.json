@@ -43,6 +43,21 @@
     "soundOnStep": {
       "value": "PLANT"
     },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
     "useLootTableForDrops": false,
     "customDrop": {
       "value": ""
@@ -65,7 +80,7 @@
     "canBePlacedOn": [],
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
     "restrictionBiomes": [],
     "patchSize": 64

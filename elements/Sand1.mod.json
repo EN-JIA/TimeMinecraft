@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Sand 1",
+    "name": "MCY 100 Desert",
     "groundBlock": {
       "value": "CUSTOM:WindSand"
     },

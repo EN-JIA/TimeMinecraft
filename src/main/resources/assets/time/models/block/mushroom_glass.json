@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "time:blocks/mushroomglass",
-    "up": "time:blocks/mushroomglass",
-    "north": "time:blocks/mushroomglass",
-    "east": "time:blocks/mushroomglass",
-    "south": "time:blocks/mushroomglass",
-    "west": "time:blocks/mushroomglass",
-    "particle": "time:blocks/mushroomglass"
+    "all": "time:blocks/mushroomglassnew",
+    "particle": "time:blocks/mushroomglassnew"
   }
 }

@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Mcy 1 0 0 Plains",
+    "name": "MCY 100 Sukura Plains",
     "groundBlock": {
       "value": "CUSTOM:Minecraftyears100grass"
     },
@@ -53,7 +53,7 @@
     },
     "rainingPossibility": 0.5,
     "temperature": 0.5,
-    "baseHeight": 0.1,
+    "baseHeight": 2.2,
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": false,
@@ -69,7 +69,7 @@
     "reedsPerChunk": 0,
     "cactiPerChunk": 0,
     "treesPerChunk": 6,
-    "vanillaTreeType": "Default",
+    "vanillaTreeType": "Big trees",
     "treeType": 1,
     "minHeight": 6,
     "treeStem": {

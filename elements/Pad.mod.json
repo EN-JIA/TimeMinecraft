@@ -51,6 +51,20 @@
       {
         "type": "button",
         "data": {
+          "text": "Open/Close Overlay",
+          "onClick": {
+            "name": "OverlayClose"
+          },
+          "width": 119,
+          "height": 20,
+          "name": "Open/Close Overlay",
+          "x": 156,
+          "y": 161
+        }
+      },
+      {
+        "type": "button",
+        "data": {
           "text": "Check For Update",
           "onClick": {
             "name": "UpdateCheak"

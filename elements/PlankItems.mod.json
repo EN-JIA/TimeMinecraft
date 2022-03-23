@@ -81,6 +81,12 @@
       },
       {
         "value": "CUSTOM:MoonWarpPlanks"
+      },
+      {
+        "value": "CUSTOM:CherryPlanks"
+      },
+      {
+        "value": "CUSTOM:SakuraPlanks"
       }
     ],
     "blocks": [],

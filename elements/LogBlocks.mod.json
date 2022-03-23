@@ -91,6 +91,9 @@
       },
       {
         "value": "CUSTOM:GhoulLog"
+      },
+      {
+        "value": "CUSTOM:SakuraLog"
       }
     ],
     "functions": [],

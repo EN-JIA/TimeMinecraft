@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Rune Land",
+    "name": "MCY 100 Rune Land",
     "groundBlock": {
       "value": "CUSTOM:RuneGrass"
     },
@@ -57,9 +57,9 @@
     "heightVariation": 0.2,
     "biomeType": "WARM",
     "spawnBiome": false,
-    "biomeWeight": 6,
+    "biomeWeight": 1,
     "biomeDictionaryTypes": [],
-    "grassPerChunk": 4,
+    "grassPerChunk": 0,
     "seagrassPerChunk": 0,
     "flowersPerChunk": 4,
     "mushroomsPerChunk": 0,

@@ -4,28 +4,7 @@
   "definition": {
     "biomesInDimension": [
       {
-        "value": "CUSTOM:MCY1600Plains"
-      },
-      {
         "value": "CUSTOM:Mushroommountain"
-      },
-      {
-        "value": "CUSTOM:MushroomDesert"
-      },
-      {
-        "value": "CUSTOM:MoonlightForest"
-      },
-      {
-        "value": "CUSTOM:MoonlightForest"
-      },
-      {
-        "value": "CUSTOM:MoonSharpForest"
-      },
-      {
-        "value": "CUSTOM:MoonSharpForest"
-      },
-      {
-        "value": "CUSTOM:SecMoonSharpForest"
       }
     ],
     "worldGenType": "Normal world gen",

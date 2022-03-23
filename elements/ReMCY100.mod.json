@@ -1,0 +1,70 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:StoneMountain"
+      },
+      {
+        "value": "CUSTOM:SakuraForest"
+      },
+      {
+        "value": "CUSTOM:A100tree1"
+      },
+      {
+        "value": "CUSTOM:Minecraft100NewDesert2"
+      },
+      {
+        "value": "CUSTOM:A100TREE2"
+      },
+      {
+        "value": "CUSTOM:MCY100NEWPLAINS"
+      },
+      {
+        "value": "CUSTOM:MCY100SmallForest"
+      },
+      {
+        "value": "CUSTOM:MCY100HugeForest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Minecraftyears100stone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:MINECRAFTYEARS100WATER"
+    },
+    "airColor": {
+      "value": -3342337,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "MCY400PlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:TimeMachineWall"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Minecraft Years 100 Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:TIME"
+    },
+    "texture": "flint_and_steel_100",
+    "portalTexture": "final100portal",
+    "enablePortal": true
+  }
+}

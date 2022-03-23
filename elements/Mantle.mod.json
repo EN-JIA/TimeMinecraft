@@ -58,6 +58,9 @@
     "tickRandomly": false,
     "isReplaceable": false,
     "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
       "value": ""
@@ -75,6 +78,21 @@
     "isCustomSoundType": false,
     "soundOnStep": {
       "value": "STONE"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
     },
     "luminance": 0,
     "unbreakable": true,
@@ -103,12 +121,57 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "Surface",
+      "Nether",
+      "End",
+      "CUSTOM:Netherancient",
+      "CUSTOM:MCY400",
+      "CUSTOM:Sky",
+      "CUSTOM:MCY1600",
+      "CUSTOM:Silentia",
+      "CUSTOM:Mcy25600",
+      "CUSTOM:CandyWorld",
+      "CUSTOM:MCY102400",
+      "CUSTOM:Alpha",
+      "CUSTOM:Phantom",
+      "CUSTOM:StrawberriesHaven",
+      "CUSTOM:SYSTEM",
+      "CUSTOM:MCY0",
+      "CUSTOM:MCY400Underground",
+      "CUSTOM:Bermuda",
+      "CUSTOM:Ethereul",
+      "CUSTOM:MCY409600",
+      "CUSTOM:MCY1638400",
+      "CUSTOM:ReMCY100"
+    ],
     "restrictionBiomes": [],
-    "blocksToReplace": [],
-    "frequencyPerChunks": 36,
-    "frequencyOnChunk": 36,
-    "minGenerateHeight": 32,
-    "maxGenerateHeight": 34
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "CUSTOM:Minecraftyears100stone"
+      },
+      {
+        "value": "CUSTOM:MCY400Stone"
+      },
+      {
+        "value": "CUSTOM:MCY1600Stone"
+      },
+      {
+        "value": "CUSTOM:MCY102400Stone"
+      },
+      {
+        "value": "Blocks.NETHERRACK"
+      },
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "frequencyPerChunks": 12,
+    "frequencyOnChunk": 12,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 10
   }
 }

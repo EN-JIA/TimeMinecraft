@@ -4,7 +4,10 @@
   "definition": {
     "renderType": 12,
     "texture": "carrots_stage1",
+    "textureBottom": "",
     "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
     "tintType": "No tint",
     "isItemTinted": false,
     "plantType": "normal",
@@ -30,6 +33,21 @@
     "soundOnStep": {
       "value": "GROUND"
     },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
     "useLootTableForDrops": false,
     "customDrop": {
       "value": "CUSTOM:GingerItem"
@@ -52,7 +70,7 @@
     "canBePlacedOn": [],
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
     "restrictionBiomes": [],
     "patchSize": 64

@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "ICEMOUNTAIN",
+    "name": "MCY 400 Mountain",
     "groundBlock": {
       "value": "CUSTOM:MCY400Stone"
     },

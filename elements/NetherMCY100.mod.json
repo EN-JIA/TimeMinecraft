@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Nether MCY 1 0 0",
+    "name": "MCY 100 Nether Wasteland",
     "groundBlock": {
       "value": "CUSTOM:Livinghellstone"
     },

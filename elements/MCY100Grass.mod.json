@@ -9,7 +9,7 @@
     "itemTexture": "",
     "particleTexture": "",
     "tintType": "Grass",
-    "isItemTinted": true,
+    "isItemTinted": false,
     "plantType": "normal",
     "staticPlantGenerationType": "Flower",
     "suspiciousStewEffect": "SATURATION",
@@ -33,6 +33,21 @@
     "soundOnStep": {
       "value": "PLANT"
     },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
     "useLootTableForDrops": false,
     "customDrop": {
       "value": "Blocks.AIR"
@@ -55,7 +70,7 @@
     "canBePlacedOn": [],
     "frequencyOnChunks": 20,
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
     "restrictionBiomes": [],
     "patchSize": 64

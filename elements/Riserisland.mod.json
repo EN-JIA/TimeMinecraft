@@ -5,7 +5,7 @@
     "structure": "riseraltar",
     "randomlyRotateStructure": true,
     "surfaceDetectionType": "First motion blocking block",
-    "spawnProbability": 2000,
+    "spawnProbability": 3000,
     "minCountPerChunk": 1,
     "maxCountPerChunk": 1,
     "spawnLocation": "Air",
@@ -13,7 +13,7 @@
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
-      "CUSTOM:MCY100"
+      "CUSTOM:ReMCY100"
     ],
     "restrictionBlocks": [],
     "restrictionBiomes": [],

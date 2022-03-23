@@ -133,6 +133,39 @@
       },
       {
         "value": "CUSTOM:RuneLand"
+      },
+      {
+        "value": "CUSTOM:A100tree1"
+      },
+      {
+        "value": "CUSTOM:A100TREE2"
+      },
+      {
+        "value": "CUSTOM:AncientForestSmall"
+      },
+      {
+        "value": "CUSTOM:AncientRainForest"
+      },
+      {
+        "value": "CUSTOM:BambooBoime"
+      },
+      {
+        "value": "CUSTOM:SakuraForest"
+      },
+      {
+        "value": "CUSTOM:StoneMountain"
+      },
+      {
+        "value": "CUSTOM:SukuraPlains"
+      },
+      {
+        "value": "CUSTOM:WallMountain"
+      },
+      {
+        "value": "CUSTOM:WindForest"
+      },
+      {
+        "value": "CUSTOM:WindForest2"
       }
     ],
     "spawnInDungeons": false

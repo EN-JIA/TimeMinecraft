@@ -2,15 +2,30 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Clear",
+    "name": "Void",
     "groundBlock": {
       "value": "Blocks.AIR"
     },
     "undergroundBlock": {
       "value": "Blocks.AIR"
     },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
     "moodSoundDelay": 0,
     "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Leavesfall100"
+    },
     "particlesProbability": 0.0,
     "biomeCategory": "NONE",
     "parent": {

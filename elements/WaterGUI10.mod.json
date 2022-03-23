@@ -2,106 +2,106 @@
   "_fv": 24,
   "_type": "overlay",
   "definition": {
-    "priority": "HIGHEST",
+    "priority": "LOWEST",
     "components": [
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 206
+          "x": 5,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 197
+          "x": 10,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 188
+          "x": 14,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 179
+          "x": 19,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 170
+          "x": 23,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 161
+          "x": 28,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 152
+          "x": 32,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 143
+          "x": 37,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 134
+          "x": 41,
+          "y": 229
         }
       },
       {
         "type": "image",
         "data": {
           "image": "abubble.png",
-          "use1Xscale": false,
+          "use1Xscale": true,
           "name": "abubble.png",
-          "x": 6,
-          "y": 125
+          "x": 46,
+          "y": 229
         }
       }
     ],
@@ -111,9 +111,9 @@
       "name": "WaterBar10"
     },
     "gridSettings": {
-      "sx": 18,
-      "sy": 18,
-      "ox": 11,
+      "sx": 9,
+      "sy": 9,
+      "ox": 9,
       "oy": 15,
       "snapOnGrid": false
     }

@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "mcy100hugetree",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 200000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:ReMCY100"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Minecraftyears100grass"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:MCY100HugeForest"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

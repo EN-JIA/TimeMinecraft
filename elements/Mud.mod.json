@@ -2,7 +2,7 @@
   "_fv": 24,
   "_type": "biome",
   "definition": {
-    "name": "Mud",
+    "name": "MCY 25600 Mud Pool",
     "groundBlock": {
       "value": "CUSTOM:MudBlock"
     },

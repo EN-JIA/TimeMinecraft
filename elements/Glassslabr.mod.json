@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 6,
     "group": "",
-    "recipeShapeless": true,
+    "recipeShapeless": false,
     "recipeSlots": [
       {
         "value": "Blocks.GLASS"

@@ -8,7 +8,7 @@
     "name": "Dream Leaves Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:TIME"
     },
     "toolType": "Hoe",
     "harvestLevel": 2,

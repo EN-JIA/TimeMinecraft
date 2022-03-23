@@ -1,0 +1,168 @@
+{
+  "type": "time:re_mcy_100",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 0,
+      "temperature_noise": {
+        "firstOctave": -6.58,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -6.58,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "altitude_noise": {
+        "firstOctave": -6.58,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -6.58,
+        "amplitudes": [
+          2,
+          2
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "time:stone_mountain",
+          "parameters": {
+            "temperature": 1,
+            "humidity": -1,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:sakura_forest",
+          "parameters": {
+            "temperature": 0.714285714286,
+            "humidity": -0.714285714286,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:a_100tree_1",
+          "parameters": {
+            "temperature": 0.428571428572,
+            "humidity": -0.428571428572,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:minecraft_100_new_desert_2",
+          "parameters": {
+            "temperature": 0.142857142858,
+            "humidity": -0.142857142858,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:a_100_tree_2",
+          "parameters": {
+            "temperature": -0.142857142858,
+            "humidity": 0.142857142858,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mcy_100_newplains",
+          "parameters": {
+            "temperature": -0.428571428572,
+            "humidity": 0.428571428572,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mcy_100_small_forest",
+          "parameters": {
+            "temperature": -0.714285714286,
+            "humidity": 0.714285714286,
+            "altitude": 0.75,
+            "weirdness": -1.5,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "time:mcy_100_huge_forest",
+          "parameters": {
+            "temperature": -1,
+            "humidity": 1,
+            "altitude": -0.75,
+            "weirdness": 1.5,
+            "offset": 0
+          }
+        }
+      ]
+    },
+    "settings": {
+      "name": "time:re_mcy_100",
+      "bedrock_roof_position": -10,
+      "bedrock_floor_position": 0,
+      "sea_level": 63,
+      "disable_mob_generation": false,
+      "default_block": {
+        "Name": "time:minecraftyears_100stone"
+      },
+      "default_fluid": {
+        "Name": "time:minecraftyears_100_water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      "noise": {
+        "min_y": 0,
+        "height": 256,
+        "density_factor": 1,
+        "density_offset": -0.46875,
+        "size_horizontal": 1,
+        "size_vertical": 2,
+        "simplex_surface_noise": true,
+        "random_density_offset": true,
+        "island_noise_override": false,
+        "amplified": false,
+        "sampling": {
+          "xz_scale": 1,
+          "y_scale": 1,
+          "xz_factor": 80,
+          "y_factor": 160
+        },
+        "bottom_slide": {
+          "target": -30,
+          "size": 0,
+          "offset": 0
+        },
+        "top_slide": {
+          "target": -10,
+          "size": 3,
+          "offset": 0
+        }
+      },
+      "structures": {
+        "structures": {}
+      }
+    }
+  }
+}
