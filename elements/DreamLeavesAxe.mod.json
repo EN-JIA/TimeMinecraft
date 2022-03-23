@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "dreamleaves_axe",
+    "texture": "drl_axe",
     "customModelName": "Normal",
     "name": "Dream Leaves Axe",
     "specialInfo": [],

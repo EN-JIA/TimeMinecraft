@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "dreamleaves_pickaxe",
+    "texture": "dream_pix",
     "customModelName": "Normal",
     "name": "Dream Leaves Pickaxe",
     "specialInfo": [],

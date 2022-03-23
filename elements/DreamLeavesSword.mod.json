@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "dreamleaves_sword",
+    "texture": "drl_swd",
     "customModelName": "Normal",
     "name": "Dream Leaves Sword",
     "specialInfo": [],

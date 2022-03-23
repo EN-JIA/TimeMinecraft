@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "time:items/dreamleaves_hoe"
+    "layer0": "time:items/drl_hoe"
   }
 }
