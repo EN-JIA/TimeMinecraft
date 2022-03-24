@@ -6,7 +6,7 @@
     "texture": "mummyheart",
     "customModelName": "Normal",
     "name": "Mummy Heart",
-    "rarity": "COMMON",
+    "rarity": "EPIC",
     "creativeTab": {
       "value": "CUSTOM:TIME"
     },
@@ -19,8 +19,8 @@
       "value": ""
     },
     "destroyAnyBlock": false,
-    "immuneToFire": false,
-    "stayInGridWhenCrafting": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,

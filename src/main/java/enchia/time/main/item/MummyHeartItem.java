@@ -29,8 +29,18 @@ public class MummyHeartItem extends TimeModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).isImmuneToFire().rarity(Rarity.EPIC));
 			setRegistryName("mummy_heart");
+		}
+
+		@Override
+		public boolean hasContainerItem() {
+			return true;
+		}
+
+		@Override
+		public ItemStack getContainerItem(ItemStack itemstack) {
+			return new ItemStack(this);
 		}
 
 		@Override

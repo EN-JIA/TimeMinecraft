@@ -14,8 +14,10 @@ import net.minecraft.entity.item.ItemEntity;
 
 import java.util.Map;
 
+import enchia.time.main.item.UserItem;
 import enchia.time.main.item.RiserheartItem;
 import enchia.time.main.block.RiserStatueBlock;
+import enchia.time.main.block.RiserLootBlock;
 import enchia.time.main.block.CreeperEggBlock;
 import enchia.time.main.TimeMod;
 
@@ -67,6 +69,16 @@ public class Riser2EntityDiesProcedure {
 		}
 		if (world instanceof World && !world.isRemote()) {
 			ItemEntity entityToSpawn = new ItemEntity((World) world, x, y, z, new ItemStack(CreeperEggBlock.block));
+			entityToSpawn.setPickupDelay((int) 10);
+			world.addEntity(entityToSpawn);
+		}
+		if (world instanceof World && !world.isRemote()) {
+			ItemEntity entityToSpawn = new ItemEntity((World) world, x, y, z, new ItemStack(UserItem.block));
+			entityToSpawn.setPickupDelay((int) 10);
+			world.addEntity(entityToSpawn);
+		}
+		if (world instanceof World && !world.isRemote()) {
+			ItemEntity entityToSpawn = new ItemEntity((World) world, x, y, z, new ItemStack(RiserLootBlock.block));
 			entityToSpawn.setPickupDelay((int) 10);
 			world.addEntity(entityToSpawn);
 		}

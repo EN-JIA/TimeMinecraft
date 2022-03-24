@@ -42,21 +42,21 @@
     "grassPerChunk": 4,
     "seagrassPerChunk": 0,
     "flowersPerChunk": 4,
-    "mushroomsPerChunk": 0,
-    "bigMushroomsChunk": 0,
+    "mushroomsPerChunk": 15,
+    "bigMushroomsChunk": 21,
     "sandPatchesPerChunk": 6,
     "gravelPatchesPerChunk": 8,
     "reedsPerChunk": 6,
     "cactiPerChunk": 1,
-    "treesPerChunk": 14,
-    "vanillaTreeType": "Big trees",
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Savanna trees",
     "treeType": 1,
     "minHeight": 15,
     "treeStem": {
-      "value": "CUSTOM:MoonWarpLog"
+      "value": "CUSTOM:MoonLog"
     },
     "treeBranch": {
-      "value": "CUSTOM:MoonWarpLeaves"
+      "value": "CUSTOM:MoonLeaves"
     },
     "treeVines": {
       "value": ""

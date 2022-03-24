@@ -108,7 +108,7 @@
     "baseTexture": "",
     "overlayTarget": "Ingame",
     "displayCondition": {
-      "name": "SleepBar4"
+      "name": "SleepBar6"
     },
     "gridSettings": {
       "sx": 9,

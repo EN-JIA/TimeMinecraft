@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.AbstractMap;
 
-import enchia.time.main.procedures.SleepBar4Procedure;
+import enchia.time.main.procedures.SleepBar6Procedure;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 import com.mojang.blaze3d.platform.GlStateManager;
@@ -54,7 +54,7 @@ public class Sleep6Overlay {
 					GlStateManager.SourceFactor.ONE, GlStateManager.DestFactor.ZERO);
 			RenderSystem.color4f(1.0F, 1.0F, 1.0F, 1.0F);
 			RenderSystem.disableAlphaTest();
-			if (SleepBar4Procedure.executeProcedure(Stream.of(new AbstractMap.SimpleEntry<>("entity", entity)).collect(HashMap::new,
+			if (SleepBar6Procedure.executeProcedure(Stream.of(new AbstractMap.SimpleEntry<>("entity", entity)).collect(HashMap::new,
 					(_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll))) {
 				Minecraft.getInstance().getTextureManager().bindTexture(new ResourceLocation("time:textures/bedicon_4.png"));
 				Minecraft.getInstance().ingameGUI.blit(event.getMatrixStack(), posX + -176, posY + 100, 0, 0, 8, 8, 8, 8);

@@ -37,7 +37,7 @@ public class ElementsHeartItem extends TimeModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).rarity(Rarity.EPIC));
 			setRegistryName("elements_heart");
 		}
 

@@ -6,15 +6,13 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.event.RegistryEvent;
 
-import net.minecraft.world.gen.trunkplacer.MegaJungleTrunkPlacer;
-import net.minecraft.world.gen.treedecorator.TrunkVineTreeDecorator;
-import net.minecraft.world.gen.treedecorator.LeaveVineTreeDecorator;
+import net.minecraft.world.gen.trunkplacer.ForkyTrunkPlacer;
 import net.minecraft.world.gen.surfacebuilders.SurfaceBuilderConfig;
 import net.minecraft.world.gen.surfacebuilders.SurfaceBuilder;
 import net.minecraft.world.gen.placement.Placement;
 import net.minecraft.world.gen.placement.NoiseDependant;
 import net.minecraft.world.gen.placement.AtSurfaceWithExtraConfig;
-import net.minecraft.world.gen.foliageplacer.JungleFoliagePlacer;
+import net.minecraft.world.gen.foliageplacer.AcaciaFoliagePlacer;
 import net.minecraft.world.gen.feature.TwoLayerFeature;
 import net.minecraft.world.gen.feature.SphereReplaceConfig;
 import net.minecraft.world.gen.feature.Features;
@@ -32,8 +30,8 @@ import net.minecraft.world.biome.BiomeAmbience;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.block.Blocks;
 
-import enchia.time.main.block.MoonWarpLogBlock;
-import enchia.time.main.block.MoonWarpLeavesBlock;
+import enchia.time.main.block.MoonLogBlock;
+import enchia.time.main.block.MoonLeavesBlock;
 import enchia.time.main.block.MCY1600GrassBlock;
 import enchia.time.main.block.MCY1600DirtBlock;
 import enchia.time.main.TimeModElements;
@@ -41,11 +39,11 @@ import enchia.time.main.TimeModElements;
 import com.google.common.collect.ImmutableList;
 
 @TimeModElements.ModElement.Tag
-public class MoonSharpForestBiome extends TimeModElements.ModElement {
+public class MoonSecSharpForestBiome extends TimeModElements.ModElement {
 	public static Biome biome;
 
-	public MoonSharpForestBiome(TimeModElements instance) {
-		super(instance, 2411);
+	public MoonSecSharpForestBiome(TimeModElements instance) {
+		super(instance, 2412);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new BiomeRegisterHandler());
 	}
 
@@ -59,13 +57,10 @@ public class MoonSharpForestBiome extends TimeModElements.ModElement {
 						.withSurfaceBuilder(SurfaceBuilder.DEFAULT.func_242929_a(new SurfaceBuilderConfig(MCY1600GrassBlock.block.getDefaultState(),
 								MCY1600DirtBlock.block.getDefaultState(), MCY1600DirtBlock.block.getDefaultState())));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION, Feature.TREE
-						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(MoonWarpLogBlock.block.getDefaultState()),
-								new SimpleBlockStateProvider(MoonWarpLeavesBlock.block.getDefaultState()),
-								new JungleFoliagePlacer(FeatureSpread.func_242252_a(2), FeatureSpread.func_242252_a(0), 2),
-								new MegaJungleTrunkPlacer(15, 2, 19), new TwoLayerFeature(1, 1, 2)))
-										.setDecorators(
-												ImmutableList.of(TrunkVineTreeDecorator.field_236879_b_, LeaveVineTreeDecorator.field_236871_b_))
-										.build())
+						.withConfiguration((new BaseTreeFeatureConfig.Builder(new SimpleBlockStateProvider(MoonLogBlock.block.getDefaultState()),
+								new SimpleBlockStateProvider(MoonLeavesBlock.block.getDefaultState()),
+								new AcaciaFoliagePlacer(FeatureSpread.func_242252_a(2), FeatureSpread.func_242252_a(0)),
+								new ForkyTrunkPlacer(15, 2, 2), new TwoLayerFeature(1, 0, 2))).setIgnoreVines().build())
 						.withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT)
 						.withPlacement(Placement.COUNT_EXTRA.configure(new AtSurfaceWithExtraConfig(14, 0.1F, 1))));
 				biomeGenerationSettings.withFeature(GenerationStage.Decoration.VEGETAL_DECORATION,
@@ -105,7 +100,7 @@ public class MoonSharpForestBiome extends TimeModElements.ModElement {
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.NONE).depth(0.1f).scale(0.2f).temperature(0.5f)
 						.downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
 						.withGenerationSettings(biomeGenerationSettings.build()).build();
-				event.getRegistry().register(biome.setRegistryName("time:moon_sharp_forest"));
+				event.getRegistry().register(biome.setRegistryName("time:moon_sec_sharp_forest"));
 			}
 		}
 	}

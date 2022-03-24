@@ -5,6 +5,18 @@
     "biomesInDimension": [
       {
         "value": "CUSTOM:Mushroommountain"
+      },
+      {
+        "value": "CUSTOM:MushroomDesert"
+      },
+      {
+        "value": "CUSTOM:MoonSecSharpForest"
+      },
+      {
+        "value": "CUSTOM:MoonSharpForest"
+      },
+      {
+        "value": "CUSTOM:MushroomLand"
       }
     ],
     "worldGenType": "Normal world gen",
@@ -12,38 +24,34 @@
       "value": "CUSTOM:MCY1600Stone"
     },
     "fluidBlock": {
-      "value": "CUSTOM:Acid"
+      "value": "CUSTOM:IceWater"
     },
-    "airColor": {
-      "value": -16764109,
-      "falpha": 0.0
-    },
-    "canRespawnHere": true,
-    "hasFog": true,
-    "isDark": true,
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
     "doesWaterVaporize": false,
     "sleepResult": "ALLOW",
-    "hasSkyLight": true,
-    "imitateOverworldBehaviour": true,
-    "onPlayerEntersDimension": {
-      "name": "MCY1600PlayerEntersDimension"
-    },
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
     "portalFrame": {
       "value": "CUSTOM:TimeMachineWall"
     },
     "portalParticles": {
-      "value": "PORTAL"
+      "value": "CUSTOM:Leavesfall100"
     },
     "portalLuminance": 15,
     "portalSound": {
       "value": "block.portal.ambient"
     },
-    "igniterName": "Minecraft Years 1600 Igniter",
+    "igniterName": "Minecraft Years 1600 Portal Igniter",
     "igniterTab": {
       "value": "CUSTOM:TIME"
     },
     "texture": "flint_and_steel_1600",
     "portalTexture": "final1600portal",
-    "enablePortal": true
+    "enablePortal": true,
+    "whenPortaTriggerlUsed": {
+      "name": "MCY1600DangChuanSongMenHongFaQiBeiHongFa"
+    }
   }
 }

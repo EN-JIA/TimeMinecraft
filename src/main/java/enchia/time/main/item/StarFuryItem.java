@@ -63,7 +63,7 @@ public class StarFuryItem extends TimeModElements.ModElement {
 
 	public static class ItemRanged extends Item {
 		public ItemRanged() {
-			super(new Item.Properties().group(TIMEItemGroup.tab).maxDamage(2048));
+			super(new Item.Properties().group(TIMEItemGroup.tab).maxDamage(1024));
 			setRegistryName("star_fury");
 		}
 
@@ -95,7 +95,7 @@ public class StarFuryItem extends TimeModElements.ModElement {
 				ImmutableMultimap.Builder<Attribute, AttributeModifier> builder = ImmutableMultimap.builder();
 				builder.putAll(super.getAttributeModifiers(slot));
 				builder.put(Attributes.ATTACK_DAMAGE,
-						new AttributeModifier(ATTACK_DAMAGE_MODIFIER, "Ranged item modifier", (double) 14, AttributeModifier.Operation.ADDITION));
+						new AttributeModifier(ATTACK_DAMAGE_MODIFIER, "Ranged item modifier", (double) 12, AttributeModifier.Operation.ADDITION));
 				builder.put(Attributes.ATTACK_SPEED,
 						new AttributeModifier(ATTACK_SPEED_MODIFIER, "Ranged item modifier", -2.4, AttributeModifier.Operation.ADDITION));
 				return builder.build();
@@ -111,7 +111,7 @@ public class StarFuryItem extends TimeModElements.ModElement {
 				double y = entity.getPosY();
 				double z = entity.getPosZ();
 				if (true) {
-					ArrowCustomEntity entityarrow = shoot(world, entity, random, 1.3f, 16, 5);
+					ArrowCustomEntity entityarrow = shoot(world, entity, random, 1.3f, 8, 5);
 					itemstack.damageItem(1, entity, e -> e.sendBreakAnimation(entity.getActiveHand()));
 					entityarrow.pickupStatus = AbstractArrowEntity.PickupStatus.DISALLOWED;
 				}
@@ -198,7 +198,7 @@ public class StarFuryItem extends TimeModElements.ModElement {
 		double d3 = target.getPosZ() - entity.getPosZ();
 		entityarrow.shoot(d1, d0 - entityarrow.getPosY() + (double) MathHelper.sqrt(d1 * d1 + d3 * d3) * 0.2F, d3, 1.3f * 2, 12.0F);
 		entityarrow.setSilent(true);
-		entityarrow.setDamage(16);
+		entityarrow.setDamage(8);
 		entityarrow.setKnockbackStrength(5);
 		entityarrow.setIsCritical(false);
 		entity.world.addEntity(entityarrow);

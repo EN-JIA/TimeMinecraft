@@ -5,7 +5,7 @@
       "type": "block",
       "sortid": 214,
       "compiles": true,
-      "locked_code": true
+      "locked_code": false
     },
     {
       "name": "WhitediamondGem",
@@ -3175,16 +3175,6 @@
       "sortid": 1071,
       "compiles": true,
       "locked_code": false
-    },
-    {
-      "name": "MCY1600",
-      "type": "dimension",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "metadata": {
-        "ep": true
-      }
     },
     {
       "name": "MCY1600PORTALR",
@@ -19511,22 +19501,6 @@
       "registry_name": "shroom_saladr"
     },
     {
-      "name": "MoonSharpForest",
-      "type": "biome",
-      "sortid": 2148,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "moon_sharp_forest"
-    },
-    {
-      "name": "SecMoonSharpForest",
-      "type": "biome",
-      "sortid": 2149,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "sec_moon_sharp_forest"
-    },
-    {
       "name": "GhoulStone",
       "type": "block",
       "sortid": 354,
@@ -22924,6 +22898,165 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "mcy_100_r"
+    },
+    {
+      "name": "MCY1600DangChuanSongMenHongFaQiBeiHongFa",
+      "type": "procedure",
+      "sortid": 2410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcy_1600_dang_chuan_song_men_hong_fa_qi_bei_hong_fa",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MCY1600",
+      "type": "dimension",
+      "sortid": 2410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcy_1600",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "MoonSharpForest",
+      "type": "biome",
+      "sortid": 2411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moon_sharp_forest"
+    },
+    {
+      "name": "MoonSecSharpForest",
+      "type": "biome",
+      "sortid": 2412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moon_sec_sharp_forest"
+    },
+    {
+      "name": "MushroomLand",
+      "type": "biome",
+      "sortid": 2413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mushroom_land"
+    },
+    {
+      "name": "MCY1600R",
+      "type": "recipe",
+      "sortid": 2414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mcy_1600_r"
+    },
+    {
+      "name": "RiserAltarNew",
+      "type": "structure",
+      "sortid": 2415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "riser_altar_new"
+    },
+    {
+      "name": "CrystalAltarNew",
+      "type": "structure",
+      "sortid": 2416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_altar_new"
+    },
+    {
+      "name": "MummyKingDangShiTiShouShangShi",
+      "type": "procedure",
+      "sortid": 2417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mummy_king_dang_shi_ti_shou_shang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ExpLordDangWanJiaYuGaiShiTiFaShengPengZhuangShi",
+      "type": "procedure",
+      "sortid": 2418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exp_lord_dang_wan_jia_yu_gai_shi_ti_fa_sheng_peng_zhuang_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ExpLordDangShiTiBeiShaSiShi",
+      "type": "procedure",
+      "sortid": 2419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exp_lord_dang_shi_ti_bei_sha_si_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [
@@ -22974,6 +23107,12 @@
       "type": "number",
       "scope": "player_lifetime",
       "value": "10.0"
+    },
+    {
+      "name": "frozen",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "0"
     }
   ],
   "sound_elements": [
@@ -23442,6 +23581,7 @@
       "item.time.mcy_400_underground": "MCY 400 Underground Portal Igniter",
       "tile.chocolateleaves.name": "Chocolate Leaves",
       "block.time.crystalaltar": "Crystal Altar",
+      "biome.time.mushroom_land": "Moon Sharp Forest",
       "block.time.ghoul_stone": "Ghoul Stone",
       "item.time.classic_golden_pickaxe": "ClassicGolden Pickaxe",
       "item.time.whitediamondarmorboots": "Whitediamond Boots",
@@ -23495,6 +23635,7 @@
       "biome.time.mcy_100_plains": "MCY 100 Savanna Plains",
       "item.time.crystalitemorange": "Crystal Item Orange",
       "block.time.dark_brick": "Dark Brick",
+      "block.time.whitediamond_ore": "Whitediamond Ore",
       "tile.mcy400stairs.name": "MCY 400 Planks Stairs",
       "item.time.soul_armorboots": "Soul Boots",
       "biome.time.haven_forest": "Haven Forest",
@@ -23630,8 +23771,8 @@
       "block.time.strawberry_log_fence": "Strawberry Fence",
       "item.time.mudshovel": "Mud Shovel",
       "effect.timechaos": "Time Chaos",
-      "block.time.radomblocko": "Radomblocko",
       "item.time.ghoul_head_helmet": "Ghoul Helmet",
+      "block.time.radomblocko": "Radomblocko",
       "item.time.glowing_diamond": "Glowing Diamond",
       "block.time.ghoul_plant_4": "Ghoul Plant",
       "block.time.ghoul_plant_5": "Ghoul Plant",
@@ -23733,7 +23874,6 @@
       "block.time.timemachine": "Time Machine",
       "advancements.mmmmmuuuuussssshhhhhrrrrrooooommmmm.title": "More than mushrooms",
       "item.time.cherry_pie": "Cherry Pie",
-      "biome.time.sec_moon_sharp_forest": "Moon Sharp Forest",
       "block.time.amethystore": "Amethyst Ore",
       "item.time.water": "Water Spawn Egg",
       "item.minecraft.splash_potion.effect.time_chaos_potion_item": "Splash Time Chaos",
@@ -24434,7 +24574,7 @@
       "item.time.jade_armor_chestplate": "Jade Chestplate",
       "item.time.pink_glowstone_dust": "Pink Glowstone Dust",
       "block.time.ancientglowstone": "Ancient Glowstone",
-      "item.time.mcy_1600": "Minecraft Years 1600 Igniter",
+      "item.time.mcy_1600": "Minecraft Years 1600 Portal Igniter",
       "item.time.frozen_axe": "Frozen Axe",
       "block.time.mcy_400_stone": "MCY400 Stone",
       "advancements.ghostly_age.title": "Ghostly Age",
@@ -24520,6 +24660,7 @@
       "item.minecraft.lingering_potion.effect.xppotion": "Lingering Increased experience",
       "tile.riserloot.name": "Riser Loot",
       "item.time.magic_mushroom": "Magic Mushroom",
+      "biome.time.moon_sec_sharp_forest": "Moon Sharp Forest",
       "item.time.powered_chaos_crystal": "Powered Chaos Rune",
       "item.time.whitediamondhoe": "White Diamond Hoe",
       "item.time.morcant_armorboots": "Morcant Boots",

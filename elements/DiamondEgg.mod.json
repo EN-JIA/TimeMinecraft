@@ -22,7 +22,7 @@
     "hasGlow": false,
     "animation": "bow",
     "enableMeleeDamage": false,
-    "damageVsEntity": 13.0,
+    "damageVsEntity": 4.0,
     "bulletPower": 1.0,
     "bulletDamage": 13.0,
     "bulletKnockback": 5,

@@ -227,6 +227,7 @@ public class TimeModVariables {
 			nbt.putDouble("Sanity", instance.Sanity);
 			nbt.putDouble("Magic", instance.Magic);
 			nbt.putDouble("Power", instance.Power);
+			nbt.putDouble("frozen", instance.frozen);
 			return nbt;
 		}
 
@@ -238,6 +239,7 @@ public class TimeModVariables {
 			instance.Sanity = nbt.getDouble("Sanity");
 			instance.Magic = nbt.getDouble("Magic");
 			instance.Power = nbt.getDouble("Power");
+			instance.frozen = nbt.getDouble("frozen");
 		}
 	}
 
@@ -247,6 +249,7 @@ public class TimeModVariables {
 		public double Sanity = 10.0;
 		public double Magic = 10.0;
 		public double Power = 10.0;
+		public double frozen = 0;
 
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayerEntity)
@@ -286,6 +289,7 @@ public class TimeModVariables {
 			clone.Sanity = original.Sanity;
 			clone.Magic = original.Magic;
 			clone.Power = original.Power;
+			clone.frozen = original.frozen;
 		}
 	}
 
@@ -316,6 +320,7 @@ public class TimeModVariables {
 					variables.Sanity = message.data.Sanity;
 					variables.Magic = message.data.Magic;
 					variables.Power = message.data.Power;
+					variables.frozen = message.data.frozen;
 				}
 			});
 			context.setPacketHandled(true);

@@ -41,7 +41,7 @@ public class RiserheartItem extends TimeModElements.ModElement {
 
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(TIMEItemGroup.tab).maxStackSize(16).isImmuneToFire().rarity(Rarity.EPIC));
 			setRegistryName("riserheart");
 		}
 

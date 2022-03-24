@@ -36,7 +36,7 @@ import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.CreatureAttribute;
 
 import enchia.time.main.itemgroup.TIMEItemGroup;
-import enchia.time.main.item.CrystalSharpItem;
+import enchia.time.main.item.MagicPowderItem;
 import enchia.time.main.entity.renderer.SnowMonster4Renderer;
 import enchia.time.main.TimeModElements;
 
@@ -67,7 +67,7 @@ public class SnowMonster4Entity extends TimeModElements.ModElement {
 			biomeCriteria = true;
 		if (!biomeCriteria)
 			return;
-		event.getSpawns().getSpawner(EntityClassification.MONSTER).add(new MobSpawnInfo.Spawners(entity, 20, 1, 1));
+		event.getSpawns().getSpawner(EntityClassification.MONSTER).add(new MobSpawnInfo.Spawners(entity, 5, 1, 1));
 	}
 
 	@Override
@@ -123,7 +123,7 @@ public class SnowMonster4Entity extends TimeModElements.ModElement {
 
 		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {
 			super.dropSpecialItems(source, looting, recentlyHitIn);
-			this.entityDropItem(new ItemStack(CrystalSharpItem.block));
+			this.entityDropItem(new ItemStack(MagicPowderItem.block));
 		}
 
 		@Override

@@ -15,16 +15,16 @@
       "value": ""
     },
     "shootConstantly": false,
-    "usageCount": 2048,
+    "usageCount": 1024,
     "actionSound": {
       "value": "block.fire.ambient"
     },
     "hasGlow": true,
     "animation": "bow",
     "enableMeleeDamage": true,
-    "damageVsEntity": 16.0,
+    "damageVsEntity": 14.0,
     "bulletPower": 1.3,
-    "bulletDamage": 16.0,
+    "bulletDamage": 8.0,
     "bulletKnockback": 5,
     "bulletParticles": false,
     "bulletIgnitesFire": false,
