@@ -6,6 +6,8 @@
     "time:pure_water",
     "time:pure_water_flowing",
     "time:minecraftyears_100_water",
-    "time:minecraftyears_100_water_flowing"
+    "time:minecraftyears_100_water_flowing",
+    "time:mana",
+    "time:mana_flowing"
   ]
 }

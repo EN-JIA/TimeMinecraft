@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "dreamleaves_shovel",
+    "texture": "drl_shv",
     "customModelName": "Normal",
     "name": "Dream Leaves Shovel",
     "specialInfo": [],

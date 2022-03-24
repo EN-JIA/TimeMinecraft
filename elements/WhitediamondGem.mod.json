@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "whitediamondshard",
+    "texture": "whitediamondin",
     "customModelName": "Normal",
     "name": "White Diamond Shard",
     "rarity": "COMMON",

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dispenser"
+    },
+    "1": {
+      "item": "minecraft:slime_block"
+    },
+    "2": {
+      "item": "minecraft:sticky_piston"
+    },
+    "4": {
+      "item": "minecraft:lever"
+    },
+    "5": {
+      "item": "time:whitediamond_gem"
+    }
+  },
+  "result": {
+    "item": "time:rocket_launcher",
+    "count": 1
+  }
+}

@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "dreamleaves_hoe",
+    "texture": "drl_hoe",
     "customModelName": "Normal",
     "name": "Dream Leaves Hoe",
     "specialInfo": [],

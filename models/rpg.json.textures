@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "acidnew",
+        "1": "black_sandstone_top",
+        "2": "atar1",
+        "3": "dustopia_grass_top",
+        "4": "cake_block_chocolate"
+      },
+      "name": "default"
+    }
+  }
+}

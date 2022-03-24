@@ -22924,6 +22924,189 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "mcy_100_r"
+    },
+    {
+      "name": "CopperTag",
+      "type": "tag",
+      "sortid": 2410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_tag"
+    },
+    {
+      "name": "CopperBlockTag",
+      "type": "tag",
+      "sortid": 2411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_block_tag"
+    },
+    {
+      "name": "CopperOreTag",
+      "type": "tag",
+      "sortid": 2412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_ore_tag"
+    },
+    {
+      "name": "TinTag",
+      "type": "tag",
+      "sortid": 2413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_tag"
+    },
+    {
+      "name": "TinBlockTag",
+      "type": "tag",
+      "sortid": 2414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_block_tag"
+    },
+    {
+      "name": "TinOreTag",
+      "type": "tag",
+      "sortid": 2415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ore_tag"
+    },
+    {
+      "name": "MinecraftPlanksTag",
+      "type": "tag",
+      "sortid": 2416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minecraft_planks_tag"
+    },
+    {
+      "name": "ManaDangShengWuWanJiaPengZhuangFangKuaiShi",
+      "type": "procedure",
+      "sortid": 2417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana_dang_sheng_wu_wan_jia_peng_zhuang_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mana",
+      "type": "fluid",
+      "sortid": 2417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mana",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "RocketLauncherDangTouSheWuSheZhongCiFangKuai",
+      "type": "procedure",
+      "sortid": 2418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_launcher_dang_tou_she_wu_she_zhong_ci_fang_kuai",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketLauncherDangTouZhiWuJiZhongShiTiShi",
+      "type": "procedure",
+      "sortid": 2419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_launcher_dang_tou_zhi_wu_ji_zhong_shi_ti_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketLauncherDangTouSheWuJiZhongWanJiaShi",
+      "type": "procedure",
+      "sortid": 2420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_launcher_dang_tou_she_wu_ji_zhong_wan_jia_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RocketLauncher",
+      "type": "rangeditem",
+      "sortid": 2418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_launcher"
+    },
+    {
+      "name": "RocketLauncherRecipe",
+      "type": "recipe",
+      "sortid": 2421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rocket_launcher_recipe"
     }
   ],
   "variable_elements": [
@@ -23358,6 +23541,7 @@
       "biome.time.desert_sand": "MCY 102400 Desert",
       "block.time.mushroom_glass": "Mushroom Glass",
       "item.time.dream_leaves_sword": "Dream Leaves Sword",
+      "item.time.mana_bucket": "Mana Bucket",
       "effect.time_chaos_potion_item": "Time Chaos",
       "block.time.betaleaves": "Betaleaves",
       "entity.time.mimic": "Mimic",
@@ -23493,6 +23677,7 @@
       "item.time.mistarille_armorlegs": "Mistarille Leggings",
       "advancements.new_era.title": "New Era!",
       "biome.time.mcy_100_plains": "MCY 100 Savanna Plains",
+      "fluid.time.mana": "Mana",
       "item.time.crystalitemorange": "Crystal Item Orange",
       "block.time.dark_brick": "Dark Brick",
       "tile.mcy400stairs.name": "MCY 400 Planks Stairs",
@@ -23706,6 +23891,7 @@
       "item.time.dessert_of_desert": "Dessert Of Desert",
       "item.time.space_gem": "Space Gem",
       "item.time.copper_armor_helmet": "Copper Helmet",
+      "block.time.mana": "Mana",
       "block.time.waffle_stick": "Waffle Stick",
       "item.time.crystalarmor_helmet": "Icelite Helmet",
       "block.time.goldenappleblock": "Golden Apple Block",
@@ -23828,7 +24014,7 @@
       "subtitles.mcy100c": "",
       "subtitles.mcy100b": "",
       "block.time.ghoul_fence": "Ghoul Fence",
-      "item.time.re_mcy_100": "Minecraft Years 100 Igniter",
+      "item.time.re_mcy_100": "Minecraft Years 100 Passkey",
       "item.minecraft.splash_potion.effect.warm": "Splash Warm",
       "item.time.cauldron_magic_item": "Magic Cauldron",
       "item.time.riser2_spawn_egg": "¡ì1Creeping  ¡ì5\"RISER\"  ¡ì1Devil Spawn Egg",
@@ -23852,6 +24038,7 @@
       "entity.time.robber_5": "Robber ",
       "item.time.tin_armorbody": "Tin Chestplate",
       "item.time.livingfungi": "Living Fungi Spawn Egg",
+      "item.time.rocket_launcher": "Rocket Launcher",
       "block.time.mcy_102400_stone": "MCY 102400 Desert Stone",
       "tile.mcy100obsidian.name": "Obsidian",
       "biome.time.cake_land_2": "Candy World Chocolate Land",
