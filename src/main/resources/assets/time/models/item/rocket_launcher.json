@@ -1,0 +1,11 @@
+{
+  "parent": "time:custom/rpg_remake",
+  "textures": {
+    "0": "time:blocks/acidnew",
+    "1": "time:blocks/black_sand",
+    "2": "time:blocks/atar1",
+    "3": "time:blocks/dustopia_grass_top",
+    "4": "time:blocks/chocolate",
+    "particle": "time:items/iciclebow"
+  }
+}
