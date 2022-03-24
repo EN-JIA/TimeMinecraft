@@ -6849,24 +6849,7 @@
       "locked_code": false,
       "registry_name": "spring_3_client_display_random_tick",
       "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
+        "dependencies": []
       }
     },
     {
@@ -23057,6 +23040,70 @@
           }
         ]
       }
+    },
+    {
+      "name": "CrystalGuardianSec",
+      "type": "livingentity",
+      "sortid": 2420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crystal_guardian_sec"
+    },
+    {
+      "name": "Hurtnew",
+      "type": "procedure",
+      "sortid": 2421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hurtnew",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Deadnew",
+      "type": "procedure",
+      "sortid": 2422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deadnew",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [
@@ -23492,6 +23539,7 @@
       "item.time.obsdiamon_shovel": "Obsdiamond Shovel",
       "block.time.old_sand": "Old Sand",
       "entity.time.silent_creeper": "Silent Creeper",
+      "entity.time.crystal_guardian_sec": "Crystal Guardian",
       "block.time.smooth_block": "Smooth Amethyst Block",
       "block.time.iceflower": "Ice Flower",
       "biome.time.desert_sand": "MCY 102400 Desert",
@@ -24285,6 +24333,7 @@
       "block.time.classicgrass": "Classic Grass",
       "block.time.cake_7": "Cake",
       "item.xpbottleofinfinity.name": "Xp Bottle Of Infinity",
+      "item.time.crystal_guardian_sec_spawn_egg": "Crystal Guardian Spawn Egg",
       "block.time.silentia_grass": "Silentia Grass",
       "item.time.human": "Human Spawn Egg",
       "item.time.mcy1600": "Minecraft Years 1600 Igniter",

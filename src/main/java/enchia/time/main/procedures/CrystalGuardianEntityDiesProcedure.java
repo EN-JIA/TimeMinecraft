@@ -1,9 +1,17 @@
 package enchia.time.main.procedures;
 
+import net.minecraft.world.server.ServerWorld;
 import net.minecraft.world.World;
 import net.minecraft.world.IWorld;
+import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.item.ItemEntity;
+import net.minecraft.entity.boss.WitherEntity;
+import net.minecraft.entity.SpawnReason;
+import net.minecraft.entity.MobEntity;
+import net.minecraft.entity.ILivingEntityData;
+import net.minecraft.entity.EntityType;
+import net.minecraft.entity.Entity;
 
 import java.util.Map;
 
@@ -81,6 +89,14 @@ public class CrystalGuardianEntityDiesProcedure {
 				entityToSpawn.setNoDespawn();
 				world.addEntity(entityToSpawn);
 			}
+		}
+		if (world instanceof ServerWorld) {
+			Entity entityToSpawn = new WitherEntity(EntityType.WITHER, (World) world);
+			entityToSpawn.setLocationAndAngles(x, y, z, world.getRandom().nextFloat() * 360F, 0);
+			if (entityToSpawn instanceof MobEntity)
+				((MobEntity) entityToSpawn).onInitialSpawn((ServerWorld) world, world.getDifficultyForLocation(entityToSpawn.getPosition()),
+						SpawnReason.MOB_SUMMONED, (ILivingEntityData) null, (CompoundNBT) null);
+			world.addEntity(entityToSpawn);
 		}
 	}
 }

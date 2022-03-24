@@ -103,7 +103,7 @@ public class IcicleBowItem extends TimeModElements.ModElement {
 						}
 					}
 					if (entity.abilities.isCreativeMode || stack != ItemStack.EMPTY) {
-						ArrowCustomEntity entityarrow = shoot(world, entity, random, 0.9f, 8, 0);
+						ArrowCustomEntity entityarrow = shoot(world, entity, random, 0.9f, 12, 0);
 						itemstack.damageItem(1, entity, e -> e.sendBreakAnimation(entity.getActiveHand()));
 						if (entity.abilities.isCreativeMode) {
 							entityarrow.pickupStatus = AbstractArrowEntity.PickupStatus.CREATIVE_ONLY;
@@ -216,7 +216,7 @@ public class IcicleBowItem extends TimeModElements.ModElement {
 		double d3 = target.getPosZ() - entity.getPosZ();
 		entityarrow.shoot(d1, d0 - entityarrow.getPosY() + (double) MathHelper.sqrt(d1 * d1 + d3 * d3) * 0.2F, d3, 0.9f * 2, 12.0F);
 		entityarrow.setSilent(true);
-		entityarrow.setDamage(8);
+		entityarrow.setDamage(12);
 		entityarrow.setKnockbackStrength(0);
 		entityarrow.setIsCritical(true);
 		entity.world.addEntity(entityarrow);

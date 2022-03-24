@@ -46,13 +46,13 @@
     },
     "mobBehaviourType": "Mob",
     "mobCreatureType": "UNDEFINED",
-    "attackStrength": 35,
-    "attackKnockback": 0.0,
+    "attackStrength": 60,
+    "attackKnockback": 100.0,
     "knockbackResistance": 0.0,
     "movementSpeed": 0.3,
     "armorBaseValue": 0.0,
     "trackingRange": 64,
-    "health": 1000,
+    "health": 100,
     "xpAmount": 200,
     "waterMob": false,
     "flyingMob": true,
@@ -63,21 +63,21 @@
     "ridable": false,
     "canControlForward": false,
     "canControlStrafe": false,
-    "immuneToFire": false,
-    "immuneToArrows": false,
+    "immuneToFire": true,
+    "immuneToArrows": true,
     "immuneToFallDamage": true,
     "immuneToCactus": true,
-    "immuneToDrowning": false,
-    "immuneToLightning": true,
-    "immuneToPotions": true,
-    "immuneToPlayer": false,
-    "immuneToExplosion": false,
-    "immuneToTrident": false,
-    "immuneToAnvil": false,
-    "immuneToWither": false,
-    "immuneToDragonBreath": false,
+    "immuneToDrowning": true,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": true,
+    "immuneToExplosion": true,
+    "immuneToTrident": true,
+    "immuneToAnvil": true,
+    "immuneToWither": true,
+    "immuneToDragonBreath": true,
     "mobDrop": {
-      "value": ""
+      "value": "CUSTOM:SwordOfLight"
     },
     "livingSound": {
       "value": "entity.enderdragon.growl"
@@ -99,10 +99,10 @@
     "particleSpawningRadious": 0.5,
     "particleAmount": 4,
     "whenMobDies": {
-      "name": "Deadnew"
+      "name": "CrystalGuardianEntityDies"
     },
     "whenMobIsHurt": {
-      "name": "Hurtnew"
+      "name": "CrystalGuardianEntityIsHurt"
     },
     "onMobTickUpdate": {
       "name": "CrystalGuardianOnEntityTickUpdate"

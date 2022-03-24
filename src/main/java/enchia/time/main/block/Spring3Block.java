@@ -85,10 +85,7 @@ public class Spring3Block extends TimeModElements.ModElement {
 			int y = pos.getY();
 			int z = pos.getZ();
 
-			Spring3ClientDisplayRandomTickProcedure.executeProcedure(Stream
-					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
-							new AbstractMap.SimpleEntry<>("z", z))
-					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
+			Spring3ClientDisplayRandomTickProcedure.executeProcedure(Collections.EMPTY_MAP);
 		}
 
 		@Override

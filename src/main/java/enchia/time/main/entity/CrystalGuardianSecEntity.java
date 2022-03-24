@@ -22,7 +22,8 @@ import net.minecraft.pathfinding.FlyingPathNavigator;
 import net.minecraft.particles.ParticleTypes;
 import net.minecraft.network.IPacket;
 import net.minecraft.nbt.CompoundNBT;
-import net.minecraft.entity.projectile.PotionEntity;
+import net.minecraft.item.ItemStack;
+import net.minecraft.entity.projectile.AbstractArrowEntity;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.monster.MonsterEntity;
@@ -51,22 +52,23 @@ import java.util.HashMap;
 import java.util.EnumSet;
 import java.util.AbstractMap;
 
-import enchia.time.main.procedures.HurtnewProcedure;
-import enchia.time.main.procedures.DeadnewProcedure;
 import enchia.time.main.procedures.CrystalGuardianOnInitialEntitySpawnProcedure;
 import enchia.time.main.procedures.CrystalGuardianOnEntityTickUpdateProcedure;
-import enchia.time.main.entity.renderer.CrystalGuardianRenderer;
+import enchia.time.main.procedures.CrystalGuardianEntityIsHurtProcedure;
+import enchia.time.main.procedures.CrystalGuardianEntityDiesProcedure;
+import enchia.time.main.item.SwordOfLightItem;
+import enchia.time.main.entity.renderer.CrystalGuardianSecRenderer;
 import enchia.time.main.TimeModElements;
 
 @TimeModElements.ModElement.Tag
-public class CrystalGuardianEntity extends TimeModElements.ModElement {
+public class CrystalGuardianSecEntity extends TimeModElements.ModElement {
 	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.MONSTER)
-			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
-			.size(0.6f, 1.8f)).build("crystal_guardian").setRegistryName("crystal_guardian");
+			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
+			.size(0.6f, 1.8f)).build("crystal_guardian_sec").setRegistryName("crystal_guardian_sec");
 
-	public CrystalGuardianEntity(TimeModElements instance) {
-		super(instance, 669);
-		FMLJavaModLoadingContext.get().getModEventBus().register(new CrystalGuardianRenderer.ModelRegisterHandler());
+	public CrystalGuardianSecEntity(TimeModElements instance) {
+		super(instance, 2420);
+		FMLJavaModLoadingContext.get().getModEventBus().register(new CrystalGuardianSecRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 	}
 
@@ -84,9 +86,10 @@ public class CrystalGuardianEntity extends TimeModElements.ModElement {
 		public void onEntityAttributeCreation(EntityAttributeCreationEvent event) {
 			AttributeModifierMap.MutableAttribute ammma = MobEntity.func_233666_p_();
 			ammma = ammma.createMutableAttribute(Attributes.MOVEMENT_SPEED, 0.3);
-			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 1000);
+			ammma = ammma.createMutableAttribute(Attributes.MAX_HEALTH, 100);
 			ammma = ammma.createMutableAttribute(Attributes.ARMOR, 0);
-			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 35);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_DAMAGE, 60);
+			ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 100);
 			ammma = ammma.createMutableAttribute(Attributes.FLYING_SPEED, 0.3);
 			event.put(entity, ammma.create());
 		}
@@ -177,6 +180,11 @@ public class CrystalGuardianEntity extends TimeModElements.ModElement {
 			return false;
 		}
 
+		protected void dropSpecialItems(DamageSource source, int looting, boolean recentlyHitIn) {
+			super.dropSpecialItems(source, looting, recentlyHitIn);
+			this.entityDropItem(new ItemStack(SwordOfLightItem.block));
+		}
+
 		@Override
 		public net.minecraft.util.SoundEvent getAmbientSound() {
 			return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("entity.ender_dragon.growl"));
@@ -205,17 +213,31 @@ public class CrystalGuardianEntity extends TimeModElements.ModElement {
 			Entity entity = this;
 			Entity sourceentity = source.getTrueSource();
 
-			HurtnewProcedure.executeProcedure(Stream
+			CrystalGuardianEntityIsHurtProcedure.executeProcedure(Stream
 					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
 							new AbstractMap.SimpleEntry<>("z", z))
 					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
-			if (source.getImmediateSource() instanceof PotionEntity)
+			if (source.getImmediateSource() instanceof AbstractArrowEntity)
+				return false;
+			if (source.getImmediateSource() instanceof PlayerEntity)
 				return false;
 			if (source == DamageSource.FALL)
 				return false;
 			if (source == DamageSource.CACTUS)
 				return false;
-			if (source == DamageSource.LIGHTNING_BOLT)
+			if (source == DamageSource.DROWN)
+				return false;
+			if (source.isExplosion())
+				return false;
+			if (source.getDamageType().equals("trident"))
+				return false;
+			if (source == DamageSource.ANVIL)
+				return false;
+			if (source == DamageSource.DRAGON_BREATH)
+				return false;
+			if (source == DamageSource.WITHER)
+				return false;
+			if (source.getDamageType().equals("witherSkull"))
 				return false;
 			return super.attackEntityFrom(source, amount);
 		}
@@ -229,7 +251,7 @@ public class CrystalGuardianEntity extends TimeModElements.ModElement {
 			Entity sourceentity = source.getTrueSource();
 			Entity entity = this;
 
-			DeadnewProcedure.executeProcedure(Stream
+			CrystalGuardianEntityDiesProcedure.executeProcedure(Stream
 					.of(new AbstractMap.SimpleEntry<>("world", world), new AbstractMap.SimpleEntry<>("x", x), new AbstractMap.SimpleEntry<>("y", y),
 							new AbstractMap.SimpleEntry<>("z", z))
 					.collect(HashMap::new, (_m, _e) -> _m.put(_e.getKey(), _e.getValue()), Map::putAll));
