@@ -23107,6 +23107,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "rocket_launcher_recipe"
+    },
+    {
+      "name": "EnergyLauncher",
+      "type": "rangeditem",
+      "sortid": 2422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "energy_launcher"
     }
   ],
   "variable_elements": [
@@ -24179,6 +24187,7 @@
       "block.time.xp_blocko": "Xp Block",
       "item.time.cherries": "Cherries",
       "entity.darkpropagater.name": "Darkpropagater",
+      "item.time.energy_launcher": "Rocket Launcher",
       "item.time.glowingpickaxe": "Glowing Pickaxe",
       "item.time.healthy_stone_shard": "Healthy Stone Shard",
       "item.time.whitediamond_axe": "White Diamond Axe",
@@ -24696,6 +24705,7 @@
       "block.time.ghoul_land": "Ghoul Land",
       "item.time.ruzova_tea": "Ruzova Tea",
       "block.time.burningaltar": "Burning Altar",
+      "death.attack.trapped": "%s 陷入了困境当中",
       "item.time.diving_helmet_leggings": "Diving Helmet Leggings",
       "enchantment.time.protectless": "Protectless",
       "item.crystalitemred.name": "Crystal Item Red",

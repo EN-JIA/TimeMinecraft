@@ -14,7 +14,6 @@ import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.World;
 import net.minecraft.world.IBlockReader;
-import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.util.math.vector.Vector3d;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
@@ -30,14 +29,12 @@ import net.minecraft.fluid.FlowingFluid;
 import net.minecraft.entity.Entity;
 import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.client.renderer.RenderType;
-import net.minecraft.client.Minecraft;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.FlowingFluidBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import java.util.stream.Stream;
-import java.util.function.BiFunction;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.AbstractMap;
@@ -78,11 +75,11 @@ public class ManaBlock extends TimeModElements.ModElement {
 	@Override
 	public void initElements() {
 		fluidproperties = new ForgeFlowingFluid.Properties(() -> still, () -> flowing,
-				CustomFluidAttributes.builder(new ResourceLocation("time:blocks/mana_fluid"), new ResourceLocation("time:blocks/mana_fl_fl"))
-						.luminosity(5).density(250).viscosity(255).temperature(300)
+				FluidAttributes.builder(new ResourceLocation("time:blocks/mana_fluid"), new ResourceLocation("time:blocks/mana_fl_fl")).luminosity(5)
+						.density(250).viscosity(255).temperature(300)
 
-						.rarity(Rarity.UNCOMMON).color(-16448205)).explosionResistance(5f).canMultiply().tickRate(5).levelDecreasePerBlock(1)
-								.slopeFindDistance(2).bucket(() -> bucket).block(() -> block);
+						.rarity(Rarity.UNCOMMON)).explosionResistance(5f).canMultiply().tickRate(5).levelDecreasePerBlock(1).slopeFindDistance(1)
+								.bucket(() -> bucket).block(() -> block);
 		still = (FlowingFluid) new CustomFlowingFluid.Source(fluidproperties).setRegistryName("mana");
 		flowing = (FlowingFluid) new CustomFlowingFluid.Flowing(fluidproperties).setRegistryName("mana_flowing");
 		elements.blocks
@@ -150,28 +147,6 @@ public class ManaBlock extends TimeModElements.ModElement {
 			public boolean isSource(FluidState state) {
 				return false;
 			}
-		}
-	}
-
-	public static class CustomFluidAttributes extends FluidAttributes {
-		public static class CustomBuilder extends FluidAttributes.Builder {
-			protected CustomBuilder(ResourceLocation stillTexture, ResourceLocation flowingTexture,
-					BiFunction<FluidAttributes.Builder, Fluid, FluidAttributes> factory) {
-				super(stillTexture, flowingTexture, factory);
-			}
-		}
-
-		protected CustomFluidAttributes(CustomFluidAttributes.Builder builder, Fluid fluid) {
-			super(builder, fluid);
-		}
-
-		public static CustomBuilder builder(ResourceLocation stillTexture, ResourceLocation flowingTexture) {
-			return new CustomBuilder(stillTexture, flowingTexture, CustomFluidAttributes::new);
-		}
-
-		@Override
-		public int getColor(IBlockDisplayReader world, BlockPos pos) {
-			return Minecraft.getInstance().world.getBiome(pos).getWaterFogColor() | 0xFF000000;
 		}
 	}
 }

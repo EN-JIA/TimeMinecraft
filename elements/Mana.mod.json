@@ -6,11 +6,11 @@
     "bucketName": "Mana Bucket",
     "textureStill": "mana_fluid",
     "textureFlowing": "mana_fl_fl",
-    "tintType": "Water fog",
+    "tintType": "No tint",
     "canMultiply": true,
     "flowRate": 5,
     "levelDecrease": 1,
-    "slopeFindDistance": 2,
+    "slopeFindDistance": 1,
     "spawnParticles": false,
     "dripParticle": {
       "value": "SPIT"
